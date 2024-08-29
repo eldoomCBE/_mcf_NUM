@@ -1,0 +1,2557 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,DigCompEdu,DigCompEdu - European Framework for the Digital Competence of Educators,"<div class=""container text-center p-3"" style=""background: #d9e6f7;""><img src=""../_mcf_NUM/assets/DigCompEdu.png"" alt="""" width=""100%"">
+<div class=""card"">
+<div class=""card-body"" style=""text-align: justify;"">As the teaching professions face rapidly changing demands, educators require an increasingly broad and more sophisticated set of competences than before. In particular the ubiquity of digital devices and the duty to help students become digitally competent requires educators to develop their own digital competence.<br>On International and national level a number of frameworks, self-assessment tools and training programmes have been developed to describe the facets of digital competence for educators and to help them assess their competence, identify their training needs and offer targeted training. Analysing and clustering these instruments, this report presents a common European Framework for the Digital Competence of Educators (DigCompEdu). DigCompEdu is a scientifically sound background framework which helps to guide policy and can be directly adapted to implement regional and national tools and training programmes. In addition, it provides a common language and approach that will help the dialogue and exchange of best practices across borders.<br>The DigCompEdu framework is directed towards educators at all levels of education, from early childhood to higher and adult education, including general and vocational training, special needs education, and non-formal learning contexts. It aims to provide a general reference frame for developers of Digital Competence models, i.e. Member States, regional governments, relevant national and regional agencies, educational organisations themselves, and public or private professional training providers.</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<div class=""card-footer text-muted small"">DigCompEdu. Punie, Y. (ed). EUR 28775 EN. Publications Office of the European Union, Luxembourg, 2017,&nbsp;ISBN 978-92-79-73494-6, <a href=""https://dx.doi.org/10.2760/159770"" target=""_blank"" rel=""noopener"">doi:10.2760/159770</a>, <a href=""https://publications.jrc.ec.europa.eu/repository/handle/JRC107466"" target=""_blank"" rel=""noopener"">JRC107466</a></div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"domain,competency,proficiency,indicator"
+,DigCompEdu-D1,PROFESSIONAL ENGAGEMENT,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Educators&rsquo; digital competence is expressed in their ability to use digital technologies not only to enhance teaching, but&nbsp;also for their professional interactions with colleagues, learners, parents and other interested parties, for their individual&nbsp;professional development and for the collective good and continuous innovation in the organisation and the teaching&nbsp;profession.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,DigCompEdu-D2,DIGITAL RESOURCES,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">Educators are currently confronted with a wealth of digital (educational) resources they can use for teaching. One of the&nbsp;key competences any educator needs to develop is to come to terms with this variety, to effectively identify resources&nbsp;that best fit their learning objectives, learner group and teaching style, to structure the wealth of materials, establish&nbsp;connections and to modify, add on to and develop themselves digital resources to support their teaching.<br>At the same time they need to be aware of how to responsibly use and manage digital content. They must respect&nbsp;copyright rules when using, modifying and sharing resources, and protect sensitive content and data, such as digital&nbsp;exams or students&rsquo; grades.</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,DigCompEdu-D3,TEACHING AND LEARNING,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">Digital technologies can enhance and improve teaching and learning strategies in many different ways. However, whatever pedagogic strategy or approach is chosen, the educator&rsquo;s specific digital competence lies in effectively orchestrating the use of digital technologies in the different phases and settings of the learning process. The fundamental competence in this area &ndash; and maybe of the whole framework - is : <strong>Teaching</strong>. This competence refers to designing, planning and implementing the use of digital technologies in the different stages of the learning process.<br>Competences like <strong>Guidance</strong>, <strong>Collaborative learning</strong> and <strong>Self-regulated learning</strong> complement this competence by emphasizing that the real potential of digital technologies lies in&nbsp;shifting the focus of the teaching process from teacher-led to learner-centred processes. Thus the role of a digitally-competent&nbsp;educator is to be a mentor and guide for learners in their progressively more autonomous learning endeavours. In this sense, digitally-competent educators need to be able to design new ways, supported by digital technologies, to provide <strong>guidance </strong>and support to learners, individually and collectively and to initiate, support and monitor both <strong>self-regulated </strong>and <strong>collaborative</strong> learning activities.</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,DigCompEdu-D4,ASSESSMENT,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">Assessment can be a facilitator or bottleneck to&nbsp;innovation in education. When integrating digital&nbsp;technologies into learning and teaching, we must&nbsp;consider how digital technologies can enhance&nbsp;existing assessment strategies. At the same time, we&nbsp;must also consider how they can be used to create&nbsp;or to facilitate innovative assessment approaches.<br>Digitally-competent educators should be able to use&nbsp;digital technologies within assessment with those&nbsp;two objectives in mind.<br>Furthermore, the use of digital technologies in education, whether for assessment, learning, administrative or other purposes, results in a wide range of data being available on each individual&nbsp;learner&rsquo;s learning behaviour. Analysing and&nbsp;interpreting this data and using it to help make&nbsp;decisions is becoming more and more important&nbsp;&ndash; complemented by the analysis of conventional&nbsp;evidence on learner behaviour.<br>At the same time, digital technologies can contribute&nbsp;to directly monitoring learner progress, to facilitating&nbsp;feedback and to allowing educators to assess and&nbsp;adapt their teaching strategies.</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,DigCompEdu-D5,EMPOWERING LEARNERS,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">One of the key strengths of digital technologies in education is their potential for supporting learner-centred pedagogic&nbsp;strategies and boosting the active involvement of learners in the learning process and their ownership of it. Thus, digital&nbsp;technologies can be used to facilitate learners&rsquo; active engagement, e.g. when exploring a topic, experimenting with&nbsp;different options or solutions, understanding connections, coming up with creative solutions or creating an artefact and&nbsp;reflecting on it.<br>Digital technologies can furthermore contribute to supporting classroom differentiation and personalised education by&nbsp;offering learning activities adapted to each individual learner&rsquo;s level of competence, interests and learning needs. At the&nbsp;same time, however, care must be taken not to exacerbate existing inequalities (e.g. in access to digital technologies or&nbsp;digital skills) and to ensure accessibility for all learners, including those with special educational needs.</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,DigCompEdu-D6,FACILITATING LEARNERS’ DIGITAL COMPETENCE,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">Digital competence is one of the transversal&nbsp;competences educators need to instil in learners.<br>Whereas fostering other transversal competences&nbsp;is only part of educators&rsquo; digital competence in as&nbsp;far as digital technologies are used to do so, the&nbsp;ability to facilitate learners&rsquo; digital competence is&nbsp;an integral part of educators&rsquo; digital competence.<br>Because of this, this ability merits a dedicated area&nbsp;in the DigCompEdu framework&nbsp;Learners&rsquo; digital competence is captured by the&nbsp;European Digital Competence Framework for Citizens&nbsp;(DigComp). Thus, the DigCompEdu area follows the&nbsp;same logic and details five competences aligned in&nbsp;content and description with DigComp. The headlines,&nbsp;however, have been adapted to emphasize the&nbsp;pedagogical dimension and focus within this&nbsp;framework.</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1,DigCompEdu-D1-C1,Organisational communication,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to enhance organisational communication with learners, parents and third parties.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To contribute&nbsp;to collaboratively developing and improving organisational communication strategies.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to make additional&nbsp;learning resources and information available to&nbsp;learners (and parents).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to communicate&nbsp;organisational procedures to learners and&nbsp;parents, e.g. rules, appointments, events.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to inform learners and&nbsp;parents on an individual basis, e.g. on progress&nbsp;and issues of concern.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to communicate with&nbsp;colleagues in the same organisation and beyond.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to communicate with&nbsp;third parties relevant to the educational project,&nbsp;e.g. experts to be invited, places to be visited.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To communicate via the organisation&rsquo;s website or&nbsp;through corporate digital technologies, platforms&nbsp;or communication services contracted.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To contribute with content to the organisation&rsquo;s&nbsp;website or virtual learning environment.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To contribute to collaboratively developing&nbsp;and improving organisational communication&nbsp;strategies.</li>
+</ol>
+</div>
+<img src=""../_mcf_NUM/assets/DigCompEdu-D1-C1.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1,DigCompEdu-D1-C2,Professional collaboration,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to engage in collaboration with other educators, sharing and exchanging knowledge and experience, and collaboratively innovating pedagogic practices.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to collaborate with other educators, on a dedicated project or task.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to share and exchange knowledge, resources and experiences with colleagues and peers.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to collaboratively develop educational resources.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use professional collaborative networks to explore and reflect on new pedagogic practices and methods.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use professional collaborative networks as a source for one&rsquo;s own professional development.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1,DigCompEdu-D1-C3,Reflective practice,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To individually and collectively reflect on, critically assess and actively develop one&rsquo;s own digital pedagogical practice and that of one&rsquo;s educational community.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To critically reflect on one&rsquo;s own digital and pedagogic practice.&nbsp;</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To identify competence gaps and areas for improvement.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To seek the help of others in improving one&rsquo;s digital and pedagogical practice.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To seek targeted training and use opportunities for continuous professional development.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To seek to continuously expand and enhance one&rsquo;s repertoire of digital pedagogical practices.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To help others in developing their digital pedagogical competence.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ At the organisational level, to reflect on and provide critical feedback on digital policies and practices.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To actively contribute to further developing organisational practices, policies and visions on the use of digital technologies.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1,DigCompEdu-D1-C4,Digital Continuous Professional Development (CPD),"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital sources and resources for continuous professional development.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use the internet to identify suitable training and professional development opportunities.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use the internet to update one&rsquo;s subjectspecific competences.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use the internet to learn about new pedagogical methods and strategies.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use the internet to search for and identify digital resources which support professional development.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use the exchange in digital professional communities as a source of professional development.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use online training opportunities, e.g. video tutorials, MOOCs, webinars etc.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies and environments to provide training opportunities for colleagues and peers.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2,DigCompEdu-D2-C1,Selecting digital resources,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To identify, assess and select digital resources to support and enhance teaching and learning.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To consider the specific learning objective, context, pedagogical approach, and learner group, when selecting digital resources and planning their use.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To formulate appropriate search strategies to identify digital resources for teaching and learning.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To select suitable digital resources for teaching and learning, considering the specific learning context and learning objective.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To critically evaluate the credibility and reliability of digital sources and resources.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To consider possible restrictions to the use or re-use of digital resources (e.g. copyright, file type, technical requirements, legal provisions, accessibility).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To assess the usefulness of digital resources in addressing the learning objective, the competence levels of the concrete learner group as well as the pedagogic approach chosen.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2,DigCompEdu-D2-C2,Creating and modifying digital resources,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To modify and build on existing openly-licensed resources and other resources where this is permitted.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To create or cocreate new digital educational resources.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To consider the specific learning objective, context, pedagogical approach, and learner group, when designing digital resources and planning their use.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To modify and edit existing digital resources, where this is permitted.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To combine and mix existing digital resources or parts thereof, where this is permitted.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To create new digital educational resources.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To jointly create with others digital educational resources.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To consider the specific learning objective, context, pedagogical approach, and learner group, when adapting or creating digital learning resources.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To understand different licences attributed to digital resources and the implications for their re-use.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2,DigCompEdu-D2-C3,"Managing, protecting and sharing digital resources","<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To organise digital content and make it available to learners, parents and other educators.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To effectively protect sensitive digital content.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To respect and correctly apply privacy and copyright rules.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To understand the use and creation of open licenses and open educational resources, including their proper attribution.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To share resources using links or as attachments, e.g. to e-mails.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To share resources on online platforms or personal or organisational websites/blogs.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To share one&rsquo;s own repositories of resources with others, managing their access and rights as appropriate.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To respect possible copyright restrictions to using, re-using and modifying digital resources.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To appropriately reference sources when sharing or publishing resources subject to copyright.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To attribute (open) licenses to self-created resources.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To take measures to protect sensitive data and resources (e.g. students&rsquo; grades, exams).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To share administrative and student-related data with colleagues, students and parents, as appropriate.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3,DigCompEdu-D3-C1,Teaching,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To plan for and implement digital devices and resources in the teaching process, so as to enhance the effectiveness of teaching interventions.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To appropriately manage and orchestrate digital teaching interventions.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To experiment with and develop new formats and pedagogical methods for instruction.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use classroom technologies to support instruction, e.g. electronic whiteboards, mobile devices.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To structure the lesson so that different (teacher-led and learner-led) digital activities jointly re-inforce the learning objective.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To set up learning sessions, activities and interactions in a digital environment.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To structure and manage content, collaboration and interaction in a digital environment.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To consider how educator-led digital interventions &ndash; whether face-to-face or in a digital environment - can best support the learning objective.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To reflect on the effectiveness and appropriateness of the digital pedagogical strategies chosen and flexibly adjust methods and strategies.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To experiment with and develop new formats and pedagogical methods for instruction (e.g. flipped classroom).</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3,DigCompEdu-D3-C2,Guidance,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies and services to enhance the interaction with learners, individually and collectively, within and outside the learning session.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to offer timely and targeted guidance and assistance.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To experiment with and develop new forms and formats for offering guidance and support.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital communication tools to respond promptly to learners&rsquo; questions and doubts, e.g., on homework assignments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To set up learning activities in digital environments, having foreseen learners&rsquo; needs for guidance and catering for them.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To interact with learners in collaborative digital environments.&nbsp;</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To digitally monitor student behaviour in class and offer guidance when needed.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to remotely monitor student progress and intervene when needed, while allowing for self-regulation.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To experiment with and develop new forms and formats for offering guidance and support, using digital technologies.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3,DigCompEdu-D3-C3,Collaborative learning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to foster and enhance learner collaboration.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To enable learners to use digital technologies as part of collaborative assignments, as a means of enhancing communication, collaboration and collaborative knowledge creation.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To implement collaborative learning activities in which digital devices, resources or digital information strategies are used.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To implement collaborative learning activities in a digital environment, e.g. using blogs, wikis, learning management systems.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To employ digital technologies for collaborative knowledge exchange among learners.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To monitor and guide learners in their collaborative knowledge generation in digital environments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To require learners to digitally present their collaborative efforts and assist them in doing so.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies for peer-assessment and as a support for collaborative selfregulation and peer-learning.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to experiment with new formats and methods for collaborative learning.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3,DigCompEdu-D3-C4,Self-regulated learning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to support self-regulated learning processes, i.e., to enable learners to plan, monitor and reflect on their own learning, provide evidence of progress, share insights and come up with creative solutions.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies (e.g., blogs, diaries, planning tools) to allow learners to plan their own learning.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to allow learners to collect evidence and record progress, e.g., audio or video recordings, photos.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies (e.g., ePortfolios, learners&rsquo; blogs) to allow learners to record and showcase their work.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to enable learners to reflect on and self-assess their learning process.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4,DigCompEdu-D4-C1,Assessment strategies,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies for formative and summative assessment.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To enhance the diversity and suitability of assessment formats and approaches.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital assessment tools to monitor the learning process and obtain information on learners&rsquo; progress.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to enhance formative assessment strategies, e.g. using classroom response systems, quizzes, games.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to enhance summative assessment in tests, e.g. through computer-based tests, implementing audio or video (e.g. in language learning), using simulations or subject-specific digital technologies as test environments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to scaffold learners&rsquo; assignments and their assessment, e.g. through ePortfolios.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use of a variety of digital and non-digital assessment formats and be aware of their benefits and drawbacks.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To critically reflect on the appropriateness digital assessment approaches and adapt strategies accordingly.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4,DigCompEdu-D4-C2,Analysing evidence,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To generate, select, critically analyse and interpret digital evidence on learner activity, performance and progress, in order to inform teaching and learning.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To design and implement learning activities which generate data on learner activity and performance.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to record, compare and synthesize data on learner progress.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To be aware that learner activity in digital environments generates data that can be used to inform teaching and learning.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To analyse and interpret available evidence on learner activity and progress, including the data generated by the digital technologies used.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To consider, combine and evaluate different sources of evidence on learner progress and performance.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To critically value the evidence available to inform teaching and learning.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4,DigCompEdu-D4-C3,Feedback and planning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to provide targeted and timely feedback to learners.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To adapt teaching strategies and to provide targeted support, based on the evidence generated by the digital technologies used.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To enable learners and parents to understand the evidence provided by digital technologies and use it for decision-making.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technology to grade and give feedback on electronically submitted assignments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use assessment management systems to enhance the effectiveness of feedback provision.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to monitor learner progress and provide support when needed.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To adapt teaching and assessment practices, based on the data generated by the digital technologies used.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To provide personal feedback and offer differentiated support to learners, based on the data generated by the digital technologies used.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To enable learners to evaluate and interpret the results of formative, summative, self- and peer-assessments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To assist learners in identifying areas for improvement and jointly develop learning plans to address these areas.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to enable learners and/or parents to remain updated on progress and make informed choices on future learning priorities, optional subject or future studies.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5,DigCompEdu-D5-C1,Accessibility and inclusion,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To ensure accessibility to learning resources and activities, for all learners, including those with special needs.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To consider and respond to learners&rsquo; (digital) expectations, abilities, uses and misconceptions, as well as contextual, physical or cognitive constraints to their use of digital technologies.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To provide equitable access to appropriate digital technologies and resources, e.g. ensuring that all students have access to the digital technologies used.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To select and employ digital pedagogical strategies which respond to learners&rsquo; digital context, e.g. contextual constraints to their technology use (e.g. availability), competences, expectations, attitudes, misconceptions and misuses.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To employ digital technologies and strategies, e.g. assistive technologies, designed for learners&rsquo; in need of special support (e.g. learners with physical or mental constraints; learners with learning disorders).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To consider and respond to potential accessibility issues when selecting, modifying or creating digital resources and to provide alternative or compensatory tools or approaches for learners with special needs.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To employ design principles for increasing accessibility for the resources and digital environments used in teaching.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To continuously monitor and reflect on the suitability of the measures implemented to improve accessibility and adapt strategies accordingly.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5,DigCompEdu-D5-C2,Differentiation and personalisation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to address learners&rsquo; diverse learning needs, by allowing learners to advance at different levels and speeds, and to follow individual learning pathways and objectives.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to address the special needs of individual learners (e.g. dyslexia, ADHD, overachievers).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To allow for different learning pathways, levels and speeds when designing, selecting and implementing digital learning activities.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To devise individual learning plans and use digital technologies to support these.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5,DigCompEdu-D5-C3,Actively engaging learners,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies to foster learners&rsquo; active and creative engagement with a subject matter.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To use digital technologies within pedagogic strategies that foster learners&rsquo; transversal skills, deep thinking and creative expression.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To open up learning to new, real-world contexts, which involve learners themselves in hands-on activities, scientific investigation or complex problem solving, or in other ways increase learners&rsquo; active involvement in complex subject matters.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to visualise and explain new concepts in a motivating and engaging way, e.g. by employing animations or videos.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To employ digital learning environments or activities which are motivating and engaging, e.g. games, quizzes.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To put learners&rsquo; active uses of digital technologies at the centre of the instructional process.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies to allow learners to actively engage with the subject matter at hand, e.g. using different senses, manipulating virtual objects, varying the problem set up to enquire into its structure, etc.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To select appropriate digital technologies for fostering active learning in a given learning context or for a specific learning objective.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To reflect on how suitable the different digital technologies used are in increasing learners&rsquo; active learning, and to adapt strategies and choices accordingly.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6,DigCompEdu-D6-C1,Information and media literacy,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To incorporate learning activities, assignments and assessments which require learners to articulate information needs; to find information and resources in digital environments; to organise, process, analyse and interpret information; and to compare and critically evaluate the credibility and reliability of information and its sources.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<p>To incorporate learning activities, assignments and assessments which encourage and require learners:</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To articulate information needs, to search for data, information and content in digital environments, to access them and to navigate between them.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To create and update personal search strategies.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To adapt search strategies based on the quality of information found.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To analyse, compare and critically evaluate the credibility and reliability of sources of data, information and digital content.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To organise, store and retrieve data, information and content in digital environments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To organise and process information in a structured environment.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6,DigCompEdu-D6-C2,Digital communication and collaboration,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To incorporate learning activities, assignments and assessments which require learners to effectively and responsibly use digital technologies for communication, collaboration and civic participation.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<p>To incorporate learning activities, assignments and assessments which encourage and require learners:</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To interact through a variety of digital technologies.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To understand appropriate digital communication means for a given context.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To share data, information and digital content with others through appropriate digital technologies.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To know about referencing and attribution practices.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To participate in society through the use of public and private digital services.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To seek opportunities for self-empowerment and for participatory citizenship through appropriate digital technologies.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies for collaborative processes, and for co-construction and cocreation of resources and knowledge.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To be aware of behavioural norms and knowhow while using digital technologies and interacting in digital environments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To adapt communication strategies to the specific audience and to be aware of cultural and generational diversity in digital environments</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To create and manage one or multiple digital identities.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To protect one&rsquo;s own reputation.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To deal with the data that one produces through several digital technologies, environments and services.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6,DigCompEdu-D6-C3,Digital content creation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To incorporate learning activities, assignments and assessments which require learners to express themselves through digital means, and to modify and create digital content in different formats.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To teach learners how copyright and licenses apply to digital content, how to reference sources and attribute licenses.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<p>To incorporate learning activities, assignments and assessments which encourage and require learners:</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To create and edit digital content in different formats.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To express themselves through digital means.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To modify, refine, improve and integrate information and content into an existing body of knowledge.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To create new, original and relevant content and knowledge.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To understand how copyright and licenses apply to data, information and digital content.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To plan and develop a sequence of understandable instructions for a computing system to solve a given problem or perform a specific task.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6,DigCompEdu-D6-C4,Responsible use,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To take measures to ensure learners&rsquo; physical, psychological and social wellbeing while using digital technologies.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To empower learners to manage risks and use digital technologies safely and responsibly.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<p>To relay to learners a positive attitude towards digital technologies, encouraging their creative and critical use.</p>
+<p>To enable learners:</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To protect devices and digital content, and to understand risks and threats in digital environments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To understand safety and security measures.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To protect personal data and privacy in digital environments.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To understand how to use and share personal information while being able to protect oneself and others from damages.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To understand that digital services use a &ldquo;Privacy policy&rdquo; on how personal data is used.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To avoid health risks and threats to physical and psychological well-being while using digital technologies.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To protect oneself and others from possible dangers in digital environments (e.g. cyberbullying).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To be aware of digital technologies for social wellbeing and social inclusion.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To be aware of the environmental impact of digital technologies and their use.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To monitor student behaviour in digital environments in order to safeguard their wellbeing.&nbsp;</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To react immediately and effectively when learners&rsquo; wellbeing is threatened in digital environments (e.g. cyberbullying).</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6,DigCompEdu-D6-C5,Digital problem solving,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Essential components</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">To incorporate learning activities, assignments and assessments which require learners to identify and solve technical problems, or to transfer technological knowledge creatively to new situations.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activities</h1>
+<p>To incorporate learning activities, assignments and assessments which encourage and require learners:</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To identify technical problems when operating devices and using digital environments, and to solve them.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To adjust and customise digital environments to personal needs.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To identify, evaluate, select and use digital technologies and possible technological responses to solve a given task or problem.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To use digital technologies in innovative ways to create knowledge.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To understand where their digital competence needs to be improved or updated.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To support others in their digital competence development.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ To seek opportunities for self-development and to keep up-to-date with the digital evolution.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of&nbsp;digital technologies for&nbsp;communication.</p>
+<ul>
+<li>I rarely use digital technologies for communication.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>aware </strong>and making <strong>basic use </strong>of digital technologies for communication.</p>
+<ul>
+<li>I make use of digital technologies for communication <br>e.g., with learners, parents, colleagues or support staff.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies for communication in an <strong>effective </strong>and <strong>responsible </strong>way.&nbsp;</p>
+<ul>
+<li>I use different digital communication channels and tools, depending on the communication purpose and context.</li>
+<li>I communicate responsibly and ethically with digital technologies, e.g. respecting netiquette and acceptable use policies (AUP).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies for communication in a <strong>structured </strong>and <strong>responsive </strong>way.</p>
+<ul>
+<li>I select the most appropriate channel, format and style for a given communication purpose and context.</li>
+<li>I adapt my communication strategies to the specific audience.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Evaluating </strong>and <strong>discussing&nbsp;</strong>communication strategies.</p>
+<ul>
+<li>I evaluate, reflect on and collaboratively discuss how digital technologies are used effectively for organisational and individual communication.</li>
+<li>I use digital technologies to make administrative procedures more transparent for learners and/or parents and to allow them to make informed choices on future learning priorities.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Reflecting on and <strong>re-designing</strong> communication strategies.</p>
+<ul>
+<li>I contribute to developing a coherent vision or strategy on using digital technologies effectively and responsibly for communication.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital technologies for collaboration.</p>
+<ul>
+<li>I rarely use digital technologies to collaborate with colleagues.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>aware </strong>and making <strong>basic use</strong> of digital technologies for collaboration.</p>
+<ul>
+<li>I use digital technologies to collaborate with colleagues in my organisation, e.g. on a dedicated joint project, or to exchange content, knowledge and opinions.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies to <strong>share </strong>and <strong>exchange </strong>practice.</p>
+<ul>
+<li>I use digital communities to explore new pedagogic resources or methods and to get fresh ideas.</li>
+<li>I use digital technologies to share and exchange the resources I use, my knowledge and opinion, with colleagues within and beyond my organisation.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies for <strong>collaborative knowledge construction</strong>.</p>
+<ul>
+<li>I actively use digital communities to exchange ideas and collaboratively develop digital resources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies for <strong>reflecting on</strong> and <strong>enhancing </strong>practices and competences.</p>
+<ul>
+<li>I use the insight and resources, generated in the collaborative networks I belong to, to get feedback on and improve my competences, and to expand my repertoire of digital practices.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies to <strong>facilitate innovative practice</strong>.</p>
+<ul>
+<li>I use digital communities to help other educators develop their digital and pedagogic competences.</li>
+<li>I use digital communities to collaborate with peers on innovating pedagogical practices.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Being unsure</strong> about one&rsquo;s development needs.</p>
+<ul>
+<li>I know that I need to enhance my digital skills, but I am unsure how and where to start.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>aware </strong>of one&rsquo;s development needs.</p>
+<ul>
+<li>I am aware of the limits of my own digital competence and my training needs.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>experimentation </strong>and <strong>peer learning</strong> as a source for development.</p>
+<ul>
+<li>I seek to improve and update my digital pedagogical competence through experimentation and peerlearning.</li>
+<li>I creatively experiment with and reflect on new pedagogical approaches, enabled by digital technologies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using a range of resources to develop one&rsquo;s <strong>individual </strong>digital and pedagogic practices.</p>
+<ul>
+<li>I actively seek out best practices, courses or other advice to improve my own digital pedagogies and wider digital competences.</li>
+<li>I evaluate, reflect on and discuss with peers how to use digital technologies to innovate and improve educational practice.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Collaboratively reflecting on and enhancing pedagogic practice in <strong>general</strong>.</p>
+<ul>
+<li>I follow current research on innovative teaching and integrate research findings into my practice.</li>
+<li>I evaluate, reflect on and collaboratively discuss policy and organisational practice concerning the use of digital technologies.</li>
+<li>I help peers in developing their digital competence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innovating </strong>educational policies and practices.</p>
+<ul>
+<li>I develop, individually or in collaboration with peers, a vision or strategy for improving educational practice through the use of digital technologies.</li>
+<li>I reflect on and evaluate with colleagues and/ or researchers different digital practices, methods and policies, with a view to developing innovative methods.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use </strong>of the internet for updating knowledge.</p>
+<ul>
+<li>I only rarely, if at all, use the internet to update my knowledge or skills.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using the internet for <strong>updating knowledge</strong>.</p>
+<ul>
+<li>I use the internet to update my subject-specific or pedagogical knowledge.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using the internet to <strong>identify opportunities</strong> for CPD.</p>
+<ul>
+<li>I use the internet to identify suitable training courses and other opportunities for professional development (e.g. conferences).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Exploring <strong>online </strong>CPD <strong>opportunities</strong>.</p>
+<ul>
+<li>I use the internet for professional development, e.g. by participating in online courses, webinars, or consulting digital training materials and video tutorials.</li>
+<li>I use formal and informal exchanges in professional online communities as a source for my professional development.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Critically </strong>and <strong>strategically </strong>using the internet for CPD.</p>
+<ul>
+<li>I consult a range of possible online training opportunities and select those which best fit my development needs, learning style and time constraints.</li>
+<li>I actively participate in online training opportunities and contribute to improving them and guiding others in making appropriate choices by providing feedback.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using the <strong>internet </strong>to provide CPD to <strong>peers</strong>.</p>
+<ul>
+<li>I use digital technologies to advise peers on innovative teaching practices, e.g. in professional communities, through personal blogs, or by developing digital training materials for them.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of the internet to find resources.</p>
+<ul>
+<li>I only rarely, if at all, use the internet to find resources for teaching and learning.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>aware </strong>and making <strong>basic use</strong> of digital technologies for finding resources.</p>
+<ul>
+<li>I use simple internet search strategies to identify digital content relevant for teaching and learning.</li>
+<li>I am aware of common educational platforms which provide educational resources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Identifying and assessing suitable resources using <strong>basic criteria</strong>.</p>
+<ul>
+<li>I adapt my search strategies based on the results I obtain.</li>
+<li>I filter results to find suitable resources, using appropriate criteria.</li>
+<li>I evaluate the quality of digital resources based on basic criteria, such as e.g. place of publication, authorship, other users&rsquo; feedback.</li>
+<li>I select resources that my learners may find appealing, e.g. videos.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Identifying and assessing suitable resources using <strong>complex criteria</strong>.</p>
+<ul>
+<li>I adapt my search strategies to identify resources which I can modify and adapt, e.g. searching and filtering by license, filename extension, date, user feedback etc.</li>
+<li>I locate apps and/or games for my learners to use.</li>
+<li>I evaluate the reliability of digital resources and their suitability for my learner group and specific learning objective.</li>
+<li>I give feedback and recommendations on the resources I use.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>identifying and assessing suitable resources, considering <strong>all relevant aspects</strong>.</p>
+<ul>
+<li>In addition to search engines, I use a variety of other sources, e.g. collaborative platforms, official repositories, etc.</li>
+<li>I evaluate the reliability and suitability of content based on a combination of criteria, verifying also its accuracy and neutrality.</li>
+<li>When I use resources in class, I contextualise them for the students, e.g. by pointing out their source and potential bias.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Promoting </strong>the use of digital resources in education.</p>
+<ul>
+<li>I provide guidance to colleagues on effective search strategies and suitable repositories and resources.</li>
+<li>I set up my own repository of (links to) resources, appropriately annotated and rated, and make it available for other colleagues to use.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Refraining </strong>from modifying digital resources.</p>
+<ul>
+<li>I may make use of digital resources, but I do not usually modify them or create my own resources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Creating and modifying resources using <strong>basic tools</strong> and strategies.</p>
+<ul>
+<li>I use office software to design and modify e.g. worksheets and quizzes.</li>
+<li>I create digital presentations for instructional purposes.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Creating and modifying resources using <strong>some advanced features</strong>.</p>
+<ul>
+<li>When I create digital resources (e.g., presentations), I integrate some animations, links, multimedia or interactive elements.</li>
+<li>I make some basic modifications to the digital learning resources I use to fit them to the learning context, e.g., editing or deleting parts, adapting the general settings.</li>
+<li>I address a specific learning objective when selecting, modifying, combining and creating digital learning resources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Adapting <strong>advanced digital resources</strong> to a concrete learning context.</p>
+<ul>
+<li>I integrate a range of interactive elements and games into my self-created instructional resources.</li>
+<li>I modify and combine existing resources to create learning activities that are tailored to a concrete learning context and objective, and to the characteristics of the learner group.</li>
+<li>I understand different licenses attributed to digital resources and know the permissions granted to me as regards modifying resources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Creating, co-creating and modifying resources according to the<strong> learning context</strong>, using a <strong>range of advanced strategies</strong>.</p>
+<ul>
+<li>I create and modify complex and interactive digital learning activities, e.g., interactive worksheets, online assessments, online collaborative learning activities (e.g., wikis, blogs), games, apps, visualisations.</li>
+<li>I co-create learning resources with colleagues.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Creating <strong>complex</strong>, <strong>interactive </strong>digital resources.</p>
+<ul>
+<li>I create my own apps or games to support my educational objectives.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Not employing</strong> strategies for sharing resources.</p>
+<ul>
+<li>I store and organise digital resources for my own future use.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Managing </strong>resources using <strong>basic strategies</strong>.</p>
+<ul>
+<li>I share educational content via e-mail attachments or through links.</li>
+<li>I am aware that some resources distributed on the Internet are copyrighted.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Effectively sharing</strong> and protecting resources <strong>using basic strategies</strong>.</p>
+<ul>
+<li>I share educational content on virtual learning environments or by uploading, linking or embedding it e.g., on a course website or blog.</li>
+<li>I effectively protect sensitive content, e.g., exams, students&rsquo; reports.</li>
+<li>I understand the copyright rules that apply to the digital resources I use for school purposes (images, text, audio and film).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Professionally sharing</strong> resources.</p>
+<ul>
+<li>I share resources embedding them into digital environments.</li>
+<li>I effectively protect personal and sensitive data and restrict access to resources as appropriate.</li>
+<li>I correctly reference resources affected by copyright.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Digitally publishing </strong>self-created resources.</p>
+<ul>
+<li>I compile comprehensive digital content repositories and make them available to learners or other educators.</li>
+<li>I apply licenses to the resources I publish online.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Professionally publishing </strong>self-created digital content.</p>
+<ul>
+<li>I annotate the resources I digitally share and enable others to comment, rate, modify, re-arrange or add to them.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital technologies for instruction.</p>
+<ul>
+<li>I do not or only very rarely use digital devices or digital content in my teaching.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>basic use</strong> of available digital technologies for instruction.</p>
+<ul>
+<li>I use available classroom technologies, e.g., digital whiteboards, projectors, PCs.</li>
+<li>I choose digital technologies according to the learning objective and context.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Integrating </strong>available digital technologies <strong>meaningfully </strong>into the teaching process.</p>
+<ul>
+<li>I organise and manage the integration of digital devices (e.g., classroom technologies, students&rsquo; devices) into the teaching and learning process.</li>
+<li>I manage the integration of digital content, e.g., videos, interactive activities, into the teaching and learning process.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies <strong>purposefully </strong>to <strong>enhance </strong>pedagogic strategies.</p>
+<ul>
+<li>I consider appropriate social settings and interaction modes when integrating digital technologies.</li>
+<li>I use digital technologies in teaching to increase methodological variation.</li>
+<li>I set up learning sessions or other interactions in a digital environment.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Orchestrating</strong>, <strong>monitoring </strong>and flexibly <strong>adapting</strong> the use of digital technologies to enhance pedagogic strategies.</p>
+<ul>
+<li>I structure learning sessions so that different (teacher-led and learner-led) digital activities jointly re-inforce the learning objective.</li>
+<li>I structure and manage content, contributions and interaction in a digital environment.</li>
+<li>I continuously evaluate the effectiveness of digitally enhanced teaching strategies and revise my strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>digital technologies</strong> to <strong>innovate </strong>teaching strategies.</p>
+<ul>
+<li>I provide full courses or learning modules in a digital learning environment.</li>
+<li>I experiment with and develop new formats and pedagogical methods for instruction.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital technologies for interacting with learners.</p>
+<ul>
+<li>I do not or only very rarely communicate with learners through digital means, e.g., e-mail.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Employing <strong>basic </strong>digital strategies to interact with learners.</p>
+<ul>
+<li>I use digital technologies, e.g. e-mail or chat, to respond to learners&rsquo; questions or doubts, e.g., on homework assignments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies to enhance <strong>interaction </strong>with learners.</p>
+<ul>
+<li>I use a common digital communication channel with my learners to respond to their questions and doubts.</li>
+<li>I am frequently in contact with learners and listen to their problems and questions.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>digital technologies</strong> to <strong>enhance </strong>monitoring and guidance.</p>
+<ul>
+<li>I interact with learners in the collaborative digital environments I use, monitoring their behaviour and providing individual guidance and support as needed.</li>
+<li>I experiment with new forms and formats for offering guidance and support, using digital technologies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Employing digital technologies <strong>strategically </strong>and <strong>purposefully </strong>to provide guidance and support.</p>
+<ul>
+<li>When I set up learning activities in digital environments, I foresee learners&rsquo; needs for guidance and cater for them, e.g. with a help or FAQ section, or with video tutorials.</li>
+<li>When I implement digital learning activities in class, I make sure I am able to (digitally) monitor student behaviour, so that I can offer guidance when needed.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies to <strong>innovate guidance</strong> provision.</p>
+<ul>
+<li>I develop new forms and formats for offering guidance and support, using digital technologies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital technologies in collaborative learning activities.</p>
+<ul>
+<li>I do not or only very rarely consider how students could use digital technologies in collaborative activities or assignments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encouraging </strong>learners to use digital technologies in their collaborative activities.</p>
+<ul>
+<li>When implementing collaborative activities or projects, I encourage learners to use digital technologies to support their work, e.g. for internet search or to present their results.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Implementing </strong>digital technologies into the design of collaborative activities.</p>
+<ul>
+<li>I design and implement collaborative activities, in which digital technologies are used by learners for their collaborative knowledge generation, e.g. for sourcing and exchanging information.</li>
+<li>I require learners to document their collaborative efforts using digital technologies, e.g., digital presentations, videos, blog posts.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital environments to support collaborative learning.</p>
+<ul>
+<li>I set up collaborative activities in a digital environment, e.g., blogs, wikis, moodle, virtual learning environments.</li>
+<li>I monitor and guide learners&rsquo; collaborative interaction in digital environments.&nbsp;</li>
+<li>I use digital technologies to enable learners to share insights with others and receive peer-feedback, also on individual assignments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital environments for learners&rsquo; <strong>collaborative knowledge generation</strong> and <strong>peer assessment</strong>.</p>
+<ul>
+<li>I design and manage diverse collaborative learning activities, where learners use a variety of technologies to collaboratively conduct research, document findings and reflect on their learning, both in physical and in virtual learning environments.</li>
+<li>I use digital technologies for peer-assessment and as a support for collaborative self-regulation and peer-learning.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>digital technologies</strong> to <strong>innovate </strong>learner collaboration.</p>
+<ul>
+<li>I use digital technologies to invent new formats for collaborative learning.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital technologies for self-regulated learning.</p>
+<ul>
+<li>I do not or only very rarely consider how students could use digital technologies in self-regulated activities or assignments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encouraging </strong>learners to use digital technologies in self-regulated learning activities.</p>
+<ul>
+<li>I encourage learners to use digital technologies to support their individual learning activities and assignments, e.g., for information retrieval or presenting results.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Implementing </strong>digital technologies into the design of self-regulated learning activities.</p>
+<ul>
+<li>I encourage learners to use digital technologies to collect evidence and record progress, e.g., to produce audio or video recordings, photos, texts.</li>
+<li>I use digital technologies (e.g., ePortfolios, learners&rsquo; blogs) to allow learners to record and showcase their work.&nbsp;</li>
+<li>I use digital technologies for learner self-assessment.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital environments to <strong>comprehensively </strong>support self-regulated learning.</p>
+<ul>
+<li>I use digital technologies or environments (e.g. ePortfolios, blogs, diaries, planning tools) to allow learners to manage and document all stages of their learning, e.g. for planning, information retrieval, documentation, reflection and self-assessment.</li>
+<li>I help learners in developing, applying and revising suitable criteria for self-assessment, with the support of digital technologies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Critically reflecting</strong> on the digital strategies used to foster self-regulated learning.</p>
+<ul>
+<li>I reflect on the appropriateness of my digital strategies in fostering self-regulated learning and continuously enhance my strategies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Developing <strong>new </strong>digital formats and/or pedagogic <strong>approaches </strong>for self-regulated learning.</p>
+<ul>
+<li>I develop new digital formats and/or pedagogical approaches to foster self-directed learning.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital technologies for assessment.</p>
+<ul>
+<li>I do not or only very rarely use digital assessment formats.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Integrating <strong>digital technologies</strong> into <strong>traditional assessment</strong> strategies.</p>
+<ul>
+<li>I use digital technologies to create assessment tasks which are then administered in paper-format.</li>
+<li>I plan for students&rsquo; use of digital technologies in assessment tasks, e.g., in support of assignments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Employing </strong>and <strong>modifying </strong>existing digital assessment tools and formats.</p>
+<ul>
+<li>I use some existing digital technologies for formative or summative assessment, e.g. digital quizzes, e-portfolios, games.</li>
+<li>I adapt digital assessment tools to support my specific assessment goal, e.g. create a test using a digital test system.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>using a <strong>range </strong>of digital assessment formats.</p>
+<ul>
+<li>I use a range of e-assessment software, tools and approaches, for formative assessment, both in the classroom and for learners to use after school.</li>
+<li>I select between different assessment formats the one that most adequately captures the nature of the learning outcome to be assessed. I design digital assessments which are valid and reliable.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>and <strong>critically </strong>selecting, creating and adapting digital assessment formats.</p>
+<ul>
+<li>I use a variety of digital and non-digital assessment formats, aligned with content and technology standards, and am aware of their benefits and drawbacks.</li>
+<li>I critically reflect on my use of digital technologies for assessment and adapt my strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Developing <strong>innovative </strong>assessment formats, using digital technologies.</p>
+<ul>
+<li>I develop new digital formats for assessment, which reflect innovative pedagogic approaches and allow for the assessment of transversal skills.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital data for monitoring progress.</p>
+<ul>
+<li>I do not or only very rarely refer to digitally recorded data to understand where my students stand.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Evaluating<strong> basic data</strong> on learner activity and performance.</p>
+<ul>
+<li>I evaluate administrative data (e.g. attendance) and data on student performance (e.g. grades) for individual feedback and targeted interventions.</li>
+<li>I am aware that digital assessment tools (e.g. quizzes, voting systems) can be used within the teaching process to provide me with timely feedback on learners&rsquo; progress.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Evaluating a range of digital data to inform teaching.</p>
+<ul>
+<li>I evaluate the data resulting from digital assessments to inform learning and teaching.</li>
+<li>I am aware that the data on my learners&rsquo; activity, as it is recorded in the digital environments which I use with them, can help me monitor their progress and provide them with timely feedback and assistance.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>employing digital tool for <strong>data generation</strong>.</p>
+<ul>
+<li>I use digital technologies (e.g., quizzes, voting systems, games) within the teaching process to provide me with timely feedback on learners&rsquo; progress.</li>
+<li>I use the data analysis tools provided by the digital environments I use to monitor and visualise activity.</li>
+<li>I interpret the data and evidence available in order to better understand individual learners&rsquo; needs for support.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital data to <strong>reflect on</strong> learning <strong>patterns </strong>and teaching strategies.</p>
+<ul>
+<li>I continuously monitor digital activity and regularly reflect on digitally recorded learner data to timely identify and react upon critical behaviour and individual problems.</li>
+<li>I evaluate and synthesize the data generated by the various digital technologies I use to reflect on the effectiveness and suitability of different teaching strategies and learning activities, in general and for certain learner groups.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innovating </strong>data generation and evaluation.</p>
+<ul>
+<li>I implement advanced data generation and visualisation methods into the digital activities I employ, e.g. based on learning analytics.</li>
+<li>I critically assess and discuss the value and validity of different data sources as well as the appropriateness of established methods for data analysis.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital data for feedback and planning.</p>
+<ul>
+<li>I am not aware how digital technologies can help me in providing feedback to learners or adapting my teaching strategies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies to <strong>inform feedback</strong>.</p>
+<ul>
+<li>I use digital technologies to compile an overview on learners&rsquo; progress, which I use as a basis for offering feedback and advice.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies to <strong>provide feedback</strong>.</p>
+<ul>
+<li>I use digital technology to grade and give feedback on electronically submitted assignments.</li>
+<li>I help students and/or parents to access information on learners&rsquo; performance, using digital technologies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital data to enhance the <strong>effectiveness </strong>of feedback and support.</p>
+<ul>
+<li>I adapt my teaching and assessment practices, based on the data generated by the digital technologies I use.</li>
+<li>I provide personal feedback and offer differentiated support to learners, based on the data generated by the digital technologies used.</li>
+<li>I use digital technologies to enable learners and parents to remain updated on progress and make informed choices on future learning priorities, optional subjects or future studies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies to <strong>personalise </strong>feedback and support.</p>
+<ul>
+<li>I assist learners in identifying areas for improvement and jointly develop learning plans to address these areas, based on the evidence available.</li>
+<li>I use the data generated by digital technologies to reflect on which teaching strategies work well for which kind of learners and adapt my teaching strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital data to <strong>evaluate </strong>and <strong>improve teaching</strong>.</p>
+<ul>
+<li>I reflect on, discuss, re-design and innovate teaching strategies in response to the digital evidence I find, as concerns learners&rsquo; preferences and needs as well as the effectiveness of different teaching interventions and learning formats.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>concerned </strong>about accessibility and inclusion.</p>
+<ul>
+<li>I am afraid that the use of digital technologies in teaching will make it even more difficult for already disadvantaged students to participate and keep up with the others.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>aware </strong>of accessibility and inclusion issues.</p>
+<ul>
+<li>I understand the importance of ensuring equal access to the digital technologies used for all students.</li>
+<li>I am aware that digital technologies can hinder or improve accessibility.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Addressing </strong>accessibility and inclusion.</p>
+<ul>
+<li>I understand how access to digital technology creates divides and how students&rsquo; social and economic conditions have an impact on the way technology is used.</li>
+<li>I ensure that all students have access to the digital technologies I use.</li>
+<li>I am aware that compensatory digital technologies can be used for learners&rsquo; in need of special support (e.g. learners with physical or mental constraints; learners with learning disorders).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Enabling </strong>accessibility and inclusion.</p>
+<ul>
+<li>I select digital pedagogical strategies that adapt to learners&rsquo; digital contexts, e.g. limited usage time, type of device available.</li>
+<li>I consider and respond to potential accessibility issues when selecting, modifying or creating digital resources and provide alternative or compensatory tools or approaches for learners with special needs.</li>
+<li>I employ digital technologies and strategies, e.g. assistive technologies, to remediate individual leaners&rsquo; accessibility problems, e.g. visual or hearing impairments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Enhancing accessibility and inclusion.</p>
+<ul>
+<li>I select and employ digital pedagogical strategies fitted to learners&rsquo; digital technology uses, competences, expectations, attitudes, misconceptions and misuses.</li>
+<li>I employ design principles for increasing accessibility for the resources and digital environments used in teaching, e.g. as concerns font, size, colours, language, layout, structure.</li>
+<li>I continuously monitor and reflect on the suitability of the measures implemented to improve accessibility and adapt my strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Innovating strategies for accessibility and inclusion.</p>
+<ul>
+<li>I reflect on, discuss, re-design and innovate strategies for equal access to and inclusion in digital education.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>uncertain </strong>about the potential of digital technologies for differentiation and personalisation.</p>
+<ul>
+<li>I do not know how digital technologies can help me offer personalised learning opportunities.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Being <strong>aware </strong>of the potential of digital technologies for differentiation and personalisation.</p>
+<ul>
+<li>I am aware that digital technologies can support differentiation and personalisation, e.g., by providing activities at different levels and speeds.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Employing </strong>digital technologies for differentiation and personalisation.</p>
+<ul>
+<li>I select and use some learning activities, e.g., quizzes or games, that allow learners to proceed at different speeds, select different levels of difficulty and/or repeat activities previously not solved adequately.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>using a <strong>range </strong>of digital technologies for differentiation and personalisation.</p>
+<ul>
+<li>When designing learning and assessment activities, I use a range of different digital technologies, which I adapt and adjust to account for different needs, levels, speeds and preferences.</li>
+<li>When sequencing and implementing learning activities, I allow for different learning pathways, levels and speeds and flexibly adapt my strategies to changing circumstances or needs.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>and <strong>critically </strong>implementing differentiated and personalised learning.</p>
+<ul>
+<li>I design, in collaboration with learners and/or parents, personalised learning plans which allow all learners to follow their individual learning needs and preferences, with the aid of appropriate digital resources.</li>
+<li>I reflect on how effectively the teaching strategies employed foster differentiation and personalisation and adapt my teaching strategies and digital activities accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innovating </strong>strategies for differentiation and personalisation, using digital technologies.</p>
+<ul>
+<li>I reflect on, discuss, re-design and innovate pedagogic strategies for personalising education through the use of digital technologies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of digital technologies for learner engagement.</p>
+<ul>
+<li>I only very rarely, if at all, use digital technologies to motivate or engage learners.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies <strong>to engage</strong> learners.</p>
+<ul>
+<li>I use digital technologies to visualise and explain new concepts in a motivating and engaging way, e.g., by employing animations or videos.</li>
+<li>I employ digital learning activities which are motivating and engaging, e.g. games, quizzes.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Fostering learners&rsquo; <strong>active use of digital technologies</strong>.</p>
+<ul>
+<li>I put learners&rsquo; active use of digital technologies at the centre of the instructional process.</li>
+<li>I choose the most appropriate tool for fostering learner active engagement in a given learning context or for a specific learning objective.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using digital technologies for learners&rsquo; <strong>active engagement with the subject matter</strong>.</p>
+<ul>
+<li>I use a range of digital technologies to create a relevant, rich and effective digital learning environment, e.g., by addressing different sensory channels, learning styles and strategies, by methodologically varying activity types and group compositions.</li>
+<li>I reflect on how effective the teaching strategies employed are in increasing learner engagement and active learning.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>and <strong>critically </strong>implementing strategies for active learning.</p>
+<ul>
+<li>I select, design, employ and orchestrate the use of digital technologies within the learning process according to their potential for fostering learners&rsquo; active, creative and critical engagement with the subject matter.</li>
+<li>I reflect on how suitable the different digital technologies I use are in increasing learners&rsquo; active learning and adapt my strategies and choices accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innovating </strong>digital strategies for active learning.</p>
+<ul>
+<li>I reflect on, discuss, re-design and innovate pedagogic strategies for actively engaging learners.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making<strong> little use</strong> of strategies fostering learners&rsquo; information literacy.</p>
+<ul>
+<li>I do not or only very rarely consider how I could foster learners&rsquo; information and media literacy.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encouraging </strong>learners to use digital technologies for informational retrieval.</p>
+<ul>
+<li>I encourage learners to use digital technologies for information retrieval, e.g., on assignments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Implementing </strong>activities fostering learners&rsquo; information and media literacy.</p>
+<ul>
+<li>I implement learning activities in which learners use digital technologies for information retrieval.</li>
+<li>I teach learners how to find information, how to assess its reliability, how to compare and combine information from different sources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>using a <strong>range </strong>of pedagogic strategies to foster learners&rsquo; information and media literacy.</p>
+<ul>
+<li>I use a range of different pedagogic strategies to enable learners to critically compare and meaningfully combine information from different sources.</li>
+<li>I teach learners how to quote sources appropriately.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>and <strong>critically </strong>fostering learners&rsquo; information and media literacy.</p>
+<ul>
+<li>I critically reflect on how suitable my pedagogic strategies are in fostering learners&rsquo; information and media literacy and adapt my strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>innovative formats</strong> for fostering learners&rsquo; information and media literacy.</p>
+<ul>
+<li>I reflect on, discuss, re-design and innovate pedagogic strategies for fostering learners&rsquo; information and media literacy.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of strategies fostering learners&rsquo; digital communication and collaboration.</p>
+<ul>
+<li>I do not or only very rarely consider how I could foster learners&rsquo; digital communication and collaboration.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encouraging </strong>learners to use digital technologies for communication and collaboration.</p>
+<ul>
+<li>I encourage learners to use digital technologies to interact with other learners, with their educators, management staff and third parties.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Implementing </strong>activities fostering learners&rsquo; digital communication and collaboration.</p>
+<ul>
+<li>I implement learning activities in which learners use digital technologies for communication.</li>
+<li>I guide learners in respecting behavioural norms, appropriately selecting communication strategies and channels, and being aware of cultural and social diversity in digital environments.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>using a <strong>range </strong>of pedagogic strategies to foster learners&rsquo; digital communication and collaboration.</p>
+<ul>
+<li>I use a range of different pedagogic strategies in which learners use digital technologies for communication and collaboration.</li>
+<li>I support and encourage learners to use digital technologies to participate in public discourses and to use digital technologies actively and consciously for civic participation.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>and <strong>critically </strong>fostering learners&rsquo; digital communication and collaboration.</p>
+<ul>
+<li>I incorporate assignments and learning activities which require learners to effectively and responsibly use digital technologies for communication, collaboration, knowledge co-creation, and civic participation.</li>
+<li>I critically reflect on how suitable my pedagogic strategies are in fostering learners&rsquo; digital communication and collaboration and adapt my strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>innovative formats</strong> for fostering learners&rsquo; digital communication and collaboration.</p>
+<ul>
+<li>I reflect on, discuss, re-design and innovate pedagogic strategies for fostering learners&rsquo; digital communication and collaboration.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of strategies fostering digital content creation by learners.</p>
+<ul>
+<li>I do not or only very rarely consider how to foster digital content creation by learners.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encouraging </strong>learners to use digital technologies for creating content.</p>
+<ul>
+<li>I encourage learners to express themselves using digital technologies, e.g., by producing texts, images, videos.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Implementing </strong>activities fostering digital content creation by learners.</p>
+<ul>
+<li>I implement learning activities in which learners use digital technologies to produce digital content, e.g., in the form of text, photos, other images, videos, etc.</li>
+<li>I encourage learners to publish and share their digital productions.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>using a <strong>range </strong>of pedagogic strategies to foster digital content creation by learners.</p>
+<ul>
+<li>I use a range of different pedagogic strategies to enable learners to express themselves digitally, e.g., by contributing to wikis or blogs, by using ePortfolios for their digital creations.</li>
+<li>I enable learners to understand the concept of copyright and licenses and how to re-use digital content appropriately.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>and <strong>critically </strong>fostering digital content creation by learners.</p>
+<ul>
+<li>I detect and counteract plagiarism, e.g., by using digital technologies.</li>
+<li>I critically reflect on the suitability of my pedagogic strategies in fostering learners&rsquo; creative digital expression and adapt my strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>innovative formats</strong> for fostering digital content creation by learners.</p>
+<ul>
+<li>I guide learners in designing, publishing and licensing complex digital products, e.g. creating websites, blogs, games or apps.</li>
+<li>I reflect on, discuss, re-design and innovate pedagogic strategies for fostering digital expression and creation by learners.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of strategies fostering learners&rsquo; digital wellbeing.&nbsp;</p>
+<ul>
+<li>I am aware that digital technologies can positively and negatively affect learners&rsquo; wellbeing.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encouraging </strong>learners to use digital technologies safely and responsibly.</p>
+<ul>
+<li>I foster learners&rsquo; awareness of how digital technologies can positively and negatively affect health and wellbeing, e.g., by encouraging them to identify behaviour (of their own or of others) that makes them happy or sad.</li>
+<li>I foster learners&rsquo; awareness of the benefits and drawbacks of the openness of the internet.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Implementing measures</strong> to ensure learners&rsquo; wellbeing.</p>
+<ul>
+<li>I give practical and experience-based advice on how to protect privacy and data, e.g. using passwords, adjusting the settings of social media.</li>
+<li>I assist learners in protecting their digital identity and managing their digital footprint.&nbsp;</li>
+<li>I advise learners on effective measures to confine or counter the impact of inappropriate behaviour (of their own or their peers).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Pedagogically supporting</strong> learners&rsquo; use of digital technologies to ensure their wellbeing.</p>
+<ul>
+<li>I develop strategies to prevent, identify and respond to digital behaviour that negatively affects learners&rsquo; health and wellbeing (e.g., cyberbullying).</li>
+<li>I encourage learners to assume a positive attitude towards digital technologies, being aware of possible risks and limits, but also being confident that they can manage these in order to reap the benefits.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>and <strong>critically </strong>developing learners&rsquo; <strong>responsible</strong> and <strong>safe </strong>use of digital technologies.</p>
+<ul>
+<li>I enable learners to understand risks and threats in digital environments (e.g., identity theft, fraud, stalking, phishing) and how to react appropriately.</li>
+<li>I critically reflect on the suitability of my pedagogic strategies to foster learners&rsquo; digital wellbeing and adapt my strategies accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Developing <strong>innovative approaches</strong> to fostering learners&rsquo; ability to use digital technologies for their own wellbeing.</p>
+<ul>
+<li>I reflect on, discuss, re-design and innovate pedagogic strategies to foster learners&rsquo; ability to use digital technologies for their own wellbeing.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P1,A1 ⭐ Newcomer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Making <strong>little use</strong> of strategies fostering learners&rsquo; digital problem solving.</p>
+<ul>
+<li>I do not or only very rarely consider how to foster learners&rsquo; digital problem solving.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P2,A2 ⭐⭐ Explorer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encouraging </strong>learners to use digital technologies to solve problems.</p>
+<ul>
+<li>I encourage learners to solve technical problems using trial and error.</li>
+<li>I encourage learners to transfer their digital competence to new situations.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P3,B1 ⭐⭐⭐ Integrator,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Implementing </strong>activities fostering learners&rsquo; digital problem solving.</p>
+<ul>
+<li>I implement learning activities in which learners use digital technologies creatively, expanding their technical repertoire.</li>
+<li>I encourage learners to help each other in developing their digital competence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P4,B2 ⭐⭐⭐⭐ Expert,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Strategically </strong>using a <strong>range </strong>of pedagogic strategies to foster learners&rsquo; digital problem solving.</p>
+<ul>
+<li>I use a range of different pedagogic strategies to enable learners to apply their digital competence to new situations or in new contexts.</li>
+<li>I encourage learners to reflect on the limits of their digital competence and help them identify suitable strategies for further developing it.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P5,C1 ⭐⭐⭐⭐⭐ Leader,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Comprehensively </strong>and <strong>critically </strong>fostering learners&rsquo; digital problem solving.</p>
+<ul>
+<li>I enable learners to seek out different technological solutions to a problem, investigate their benefits and drawbacks and critically and creatively come up with a new solution or product.</li>
+<li>I critically reflect on the suitability of my pedagogic strategies to foster learners&rsquo; digital competence and expand their repertoire of digital strategies, and adapt my methods accordingly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Using <strong>innovative formats</strong> for fostering learners&rsquo; digital problem solving.</p>
+<ul>
+<li>I enable learners to apply their digital competence in unconventional ways to new situations and creatively come up with new solutions or products.</li>
+<li>I reflect on, discuss, re-design and innovate pedagogic strategies for fostering learners&rsquo; digital problem solving skills.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
