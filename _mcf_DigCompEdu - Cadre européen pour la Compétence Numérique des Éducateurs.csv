@@ -1,0 +1,2729 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,DigCompEdu-fr,DigCompEdu - Cadre européen pour la Compétence Numérique des Éducateurs,"<div class=""container text-center p-3"" style=""background: #d9e6f7;""><img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu.png"" alt="""" width=""100%"">
+<div class=""card"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Les professions de l'enseignement &eacute;tant confront&eacute;es &agrave; des demandes en &eacute;volution rapide, les &eacute;ducateurs ont besoin d'un ensemble de comp&eacute;tences de plus en plus large et de plus en plus sophistiqu&eacute;. En particulier, l'omnipr&eacute;sence des appareils num&eacute;riques et le devoir d'aider les &eacute;tudiants &agrave; devenir num&eacute;riquement comp&eacute;tents exigent des &eacute;ducateurs qu'ils d&eacute;veloppent leurs propres comp&eacute;tences num&eacute;riques.<br>Au niveau international et national, un certain nombre de cadres, d'outils d'auto-&eacute;valuation et de programmes de formation ont &eacute;t&eacute; d&eacute;velopp&eacute;s pour d&eacute;crire les facettes de la comp&eacute;tence num&eacute;rique des &eacute;ducateurs et pour les aider &agrave; &eacute;valuer leurs comp&eacute;tences, &agrave; identifier leurs besoins de formation et &agrave; offrir une formation cibl&eacute;e. En analysant et en regroupant ces instruments, ce rapport pr&eacute;sente un cadre europ&eacute;en commun pour la comp&eacute;tence num&eacute;rique des &eacute;ducateurs (DigCompEdu). DigCompEdu est un cadre de r&eacute;f&eacute;rence scientifiquement solide qui aide &agrave; orienter les politiques et peut &ecirc;tre directement adapt&eacute; pour mettre en &oelig;uvre des outils et des programmes de formation r&eacute;gionaux et nationaux. En outre, il fournit un langage et une approche communs qui faciliteront le dialogue et l'&eacute;change de bonnes pratiques au-del&agrave; des fronti&egrave;res.<br>Le cadre DigCompEdu s'adresse aux &eacute;ducateurs &agrave; tous les niveaux d'&eacute;ducation, de la petite enfance &agrave; l'enseignement sup&eacute;rieur et &agrave; l'&eacute;ducation des adultes, en passant par la formation g&eacute;n&eacute;rale et professionnelle, l'&eacute;ducation des personnes ayant des besoins particuliers et les contextes d'apprentissage non formel. Il vise &agrave; fournir un cadre de r&eacute;f&eacute;rence g&eacute;n&eacute;ral pour les d&eacute;veloppeurs de mod&egrave;les de comp&eacute;tences num&eacute;riques, c'est-&agrave;-dire les &Eacute;tats membres, les gouvernements r&eacute;gionaux, les agences nationales et r&eacute;gionales concern&eacute;es, les organisations &eacute;ducatives elles-m&ecirc;mes et les prestataires de formation professionnelle publics ou priv&eacute;s.</p>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<div class=""card-footer text-muted small"">DigCompEdu. Punie, Y. (ed). EUR 28775 EN. Publications Office of the European Union, Luxembourg, 2017, ISBN 978-92-79-73494-6, <a href=""https://dx.doi.org/10.2760/159770"" target=""_blank"" rel=""noopener"">doi:10.2760/159770</a>, <a href=""https://publications.jrc.ec.europa.eu/repository/handle/JRC107466"" target=""_blank"" rel=""noopener"">JRC107466</a></div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"domain,competency,proficiency,indicator"
+,DigCompEdu-fr-D1,ENGAGEMENT PROFESSIONNEL,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>La comp&eacute;tence num&eacute;rique des &eacute;ducateurs se traduit par leur capacit&eacute; &agrave; utiliser les technologies num&eacute;riques non seulement pour am&eacute;liorer l'enseignement, mais aussi pour leurs interactions professionnelles avec leurs coll&egrave;gues, les apprenants, les parents et les autres parties int&eacute;ress&eacute;es, pour leur d&eacute;veloppement professionnel individuel et pour le bien collectif et l'innovation continue au sein de l'organisation et de la profession d'enseignant.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+,DigCompEdu-fr-D2,RESSOURCES NUMÉRIQUES,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Les &eacute;ducateurs sont actuellement confront&eacute;s &agrave; une multitude de ressources num&eacute;riques (&eacute;ducatives) qu'ils peuvent utiliser pour enseigner. L'une des comp&eacute;tences cl&eacute;s que tout &eacute;ducateur doit d&eacute;velopper est de s'accommoder de cette vari&eacute;t&eacute;, d'identifier efficacement les ressources qui correspondent le mieux &agrave; ses objectifs d'apprentissage, &agrave; son groupe d'apprenants et &agrave; son style d'enseignement, de structurer la richesse du mat&eacute;riel, d'&eacute;tablir des connexions et de modifier, d'ajouter et de d&eacute;velopper lui-m&ecirc;me des ressources num&eacute;riques pour soutenir son enseignement.<br>Parall&egrave;lement, ils doivent &ecirc;tre conscients de la mani&egrave;re d'utiliser et de g&eacute;rer les contenus num&eacute;riques de mani&egrave;re responsable. Ils doivent respecter les r&egrave;gles relatives aux droits d'auteur lorsqu'ils utilisent, modifient et partagent des ressources, et prot&eacute;ger les contenus et donn&eacute;es sensibles, tels que les examens num&eacute;riques ou les notes des &eacute;l&egrave;ves.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+,DigCompEdu-fr-D3,ENSEIGNEMENT ET APPRENTISSAGE,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Les technologies num&eacute;riques peuvent renforcer et am&eacute;liorer les strat&eacute;gies d'enseignement et d'apprentissage de nombreuses mani&egrave;res diff&eacute;rentes. Cependant, quelle que soit la strat&eacute;gie ou l'approche p&eacute;dagogique choisie, la comp&eacute;tence num&eacute;rique sp&eacute;cifique de l'&eacute;ducateur consiste &agrave; orchestrer efficacement l'utilisation des technologies num&eacute;riques dans les diff&eacute;rentes phases et contextes du processus d'apprentissage. La comp&eacute;tence fondamentale dans ce domaine &mdash; et peut-&ecirc;tre dans l'ensemble du cadre &mdash; est : l'Enseignement. Cette comp&eacute;tence fait r&eacute;f&eacute;rence &agrave; la conception, &agrave; la planification et &agrave; la mise en &oelig;uvre de l'utilisation des technologies num&eacute;riques dans les diff&eacute;rentes phases du processus d'apprentissage.<br>Des comp&eacute;tences telles que l'orientation, l'apprentissage collaboratif et l'apprentissage autor&eacute;gul&eacute; compl&egrave;tent cette comp&eacute;tence en soulignant que le v&eacute;ritable potentiel des technologies num&eacute;riques r&eacute;side dans le fait que le processus d'enseignement n'est plus dirig&eacute; par l'enseignant mais centr&eacute; sur l'apprenant. Ainsi, le r&ocirc;le d'un &eacute;ducateur num&eacute;riquement comp&eacute;tent est d'&ecirc;tre un mentor et un guide pour les apprenants dans leurs efforts d'apprentissage progressivement plus autonomes. En ce sens, les &eacute;ducateurs comp&eacute;tents dans le domaine num&eacute;rique doivent &ecirc;tre capables de concevoir de nouvelles m&eacute;thodes, soutenues par les technologies num&eacute;riques, pour guider et soutenir les apprenants, individuellement et collectivement, et pour initier, soutenir et contr&ocirc;ler les activit&eacute;s d'apprentissage autor&eacute;gul&eacute; et collaboratif.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+,DigCompEdu-fr-D4,ÉVALUATION,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>L'&eacute;valuation peut &ecirc;tre un facilitateur ou un goulot d'&eacute;tranglement pour l'innovation dans l'&eacute;ducation. Lors de l'int&eacute;gration des technologies num&eacute;riques dans l'apprentissage et l'enseignement, nous devons r&eacute;fl&eacute;chir &agrave; la mani&egrave;re dont les technologies num&eacute;riques peuvent am&eacute;liorer les strat&eacute;gies d'&eacute;valuation existantes. Dans le m&ecirc;me temps, nous devons &eacute;galement r&eacute;fl&eacute;chir &agrave; la mani&egrave;re dont elles peuvent &ecirc;tre utilis&eacute;es pour cr&eacute;er ou faciliter des approches d'&eacute;valuation innovantes.<br>Les &eacute;ducateurs comp&eacute;tents sur le plan num&eacute;rique devraient &ecirc;tre en mesure d'utiliser les technologies num&eacute;riques dans le cadre de l'&eacute;valuation en gardant ces deux objectifs &agrave; l'esprit.<br>En outre, l'utilisation des technologies num&eacute;riques dans l'&eacute;ducation, que ce soit &agrave; des fins d'&eacute;valuation, d'apprentissage, d'administration ou autres, permet de disposer d'un large &eacute;ventail de donn&eacute;es sur le comportement d'apprentissage de chaque apprenant. Il devient de plus en plus important d'analyser et d'interpr&eacute;ter ces donn&eacute;es et de les utiliser pour prendre des d&eacute;cisions, en compl&eacute;ment de l'analyse des donn&eacute;es conventionnelles sur le comportement de l'apprenant.<br>Dans le m&ecirc;me temps, les technologies num&eacute;riques peuvent contribuer &agrave; suivre directement les progr&egrave;s de l'apprenant, &agrave; faciliter le retour d'information et &agrave; permettre aux &eacute;ducateurs d'&eacute;valuer et d'adapter leurs strat&eacute;gies d'enseignement.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+,DigCompEdu-fr-D5,AUTONOMISATION DES APPRENANTS,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>L'un des principaux atouts des technologies num&eacute;riques dans l'&eacute;ducation est leur capacit&eacute; &agrave; soutenir des strat&eacute;gies p&eacute;dagogiques centr&eacute;es sur l'apprenant et &agrave; stimuler l'implication active des apprenants dans le processus d'apprentissage et leur appropriation de celui-ci. Ainsi, les technologies num&eacute;riques peuvent &ecirc;tre utilis&eacute;es pour faciliter l'engagement actif des apprenants, (e.g., lors de l'exploration d'un sujet, de l'exp&eacute;rimentation de diff&eacute;rentes options ou solutions, de la compr&eacute;hension des liens, de l'&eacute;laboration de solutions cr&eacute;atives ou de la cr&eacute;ation d'un artefact et de la r&eacute;flexion sur celui-ci.<br>Les technologies num&eacute;riques peuvent en outre contribuer &agrave; soutenir la diff&eacute;renciation des classes et l'&eacute;ducation personnalis&eacute;e en proposant des activit&eacute;s d'apprentissage adapt&eacute;es au niveau de comp&eacute;tence, aux int&eacute;r&ecirc;ts et aux besoins d'apprentissage de chaque apprenant. Dans le m&ecirc;me temps, il faut toutefois veiller &agrave; ne pas exacerber les in&eacute;galit&eacute;s existantes (e.g., en mati&egrave;re d'acc&egrave;s aux technologies num&eacute;riques ou aux comp&eacute;tences num&eacute;riques) et &agrave; garantir l'accessibilit&eacute; &agrave; tous les apprenants, y compris ceux qui ont des besoins &eacute;ducatifs particuliers.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+,DigCompEdu-fr-D6,FACILITATION DE LA COMPÉTENCE NUMÉRIQUE DES APPRENANTS,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>La comp&eacute;tence num&eacute;rique est l'une des comp&eacute;tences transversales que les &eacute;ducateurs doivent inculquer aux apprenants.<br>Alors que le d&eacute;veloppement d'autres comp&eacute;tences transversales ne fait partie de la comp&eacute;tence num&eacute;rique des &eacute;ducateurs que dans la mesure o&ugrave; les technologies num&eacute;riques sont utilis&eacute;es &agrave; cette fin, la capacit&eacute; &agrave; faciliter la comp&eacute;tence num&eacute;rique des apprenants fait partie int&eacute;grante de la comp&eacute;tence num&eacute;rique des &eacute;ducateurs.<br>C'est pourquoi cette capacit&eacute; m&eacute;rite un domaine sp&eacute;cifique dans le cadre DigCompEdu. La comp&eacute;tence num&eacute;rique des apprenants est prise en compte par le cadre europ&eacute;en de comp&eacute;tences num&eacute;riques pour les citoyens (DigComp). Le domaine DigCompEdu suit donc la m&ecirc;me logique et d&eacute;taille cinq comp&eacute;tences dont le contenu et la description sont align&eacute;s sur DigComp. Les titres ont toutefois &eacute;t&eacute; adapt&eacute;s pour mettre l'accent sur la dimension et l'orientation p&eacute;dagogiques au sein de ce cadre.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1,DigCompEdu-fr-D1-C1,Communication organisationnelle,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour am&eacute;liorer la communication de l'organisation avec les apprenants, les parents et les tiers.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Contribuer &agrave; l'&eacute;laboration et &agrave; l'am&eacute;lioration, en collaboration, des strat&eacute;gies de communication des organisations.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour mettre &agrave; la disposition des apprenants (et des parents) des ressources d'apprentissage et des informations suppl&eacute;mentaires.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour communiquer aux apprenants et aux parents les proc&eacute;dures d'organisation (e.g., rendez-vous, &eacute;v&eacute;nements).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour informer les apprenants et les parents sur une base individuelle, (e.g., sur les progr&egrave;s et les sujets de pr&eacute;occupation.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour communiquer avec les coll&egrave;gues de la m&ecirc;me organisation et au-del&agrave;.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ D'utiliser les technologies num&eacute;riques pour communiquer avec des tiers en rapport avec le projet &eacute;ducatif, (e.g., experts &agrave; inviter, lieux &agrave; visiter...).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Communiquer via le site web de l'organisation ou via des technologies num&eacute;riques d'entreprise, des plateformes ou des services de communication contract&eacute;s.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Contribuer au contenu du site web ou de l'environnement d'apprentissage virtuel de l'organisation.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Contribuer &agrave; l'&eacute;laboration et &agrave; l'am&eacute;lioration, en collaboration, des strat&eacute;gies de communication de l'organisation.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D1-C1.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1,DigCompEdu-fr-D1-C2,Collaboration professionnelle,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour collaborer avec d'autres &eacute;ducateurs, partager et &eacute;changer des connaissances et des exp&eacute;riences, et innover de mani&egrave;re collaborative en mati&egrave;re de pratiques p&eacute;dagogiques.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour collaborer avec d'autres &eacute;ducateurs sur un projet ou une t&acirc;che sp&eacute;cifique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour partager et &eacute;changer des connaissances, des ressources et des exp&eacute;riences avec des coll&egrave;gues et des pairs.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour d&eacute;velopper des ressources p&eacute;dagogiques en collaboration.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les r&eacute;seaux professionnels de collaboration pour explorer et r&eacute;fl&eacute;chir &agrave; de nouvelles pratiques et m&eacute;thodes p&eacute;dagogiques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les r&eacute;seaux de collaboration professionnelle comme source de son propre d&eacute;veloppement professionnel.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D1-C2.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1,DigCompEdu-fr-D1-C3,Pratique réflexive,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;fl&eacute;chir individuellement et collectivement, &eacute;valuer de mani&egrave;re critique et d&eacute;velopper activement sa propre pratique p&eacute;dagogique num&eacute;rique et celle de sa communaut&eacute; &eacute;ducative.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ R&eacute;fl&eacute;chir de mani&egrave;re critique &agrave; sa propre pratique num&eacute;rique et p&eacute;dagogique.&nbsp;</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Identifier les lacunes en mati&egrave;re de comp&eacute;tences et les domaines &agrave; am&eacute;liorer.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Rechercher l'aide d'autrui pour am&eacute;liorer sa pratique num&eacute;rique et p&eacute;dagogique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ De rechercher des formations cibl&eacute;es et d'utiliser les opportunit&eacute;s de d&eacute;veloppement professionnel continu.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ S'efforcer d'&eacute;largir et d'am&eacute;liorer en permanence son r&eacute;pertoire de pratiques p&eacute;dagogiques num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Aider les autres &agrave; d&eacute;velopper leurs comp&eacute;tences en mati&egrave;re de p&eacute;dagogie num&eacute;rique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Au niveau de l'organisation, r&eacute;fl&eacute;chir et fournir un retour critique sur les politiques et pratiques num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Contribuer activement au d&eacute;veloppement des pratiques, politiques et visions de l'organisation en mati&egrave;re d'utilisation des technologies num&eacute;riques.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D1-C3.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1,DigCompEdu-fr-D1-C4,Formation professionnelle continue numérique (FPC),"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser des sources et des ressources num&eacute;riques pour un d&eacute;veloppement professionnel continu.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser l'internet pour identifier les possibilit&eacute;s de formation et de d&eacute;veloppement professionnel appropri&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser l'internet pour mettre &agrave; jour ses comp&eacute;tences sp&eacute;cifiques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser l'internet pour s'informer sur les nouvelles m&eacute;thodes et strat&eacute;gies p&eacute;dagogiques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser l'internet pour rechercher et identifier des ressources num&eacute;riques qui soutiennent le d&eacute;veloppement professionnel.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les &eacute;changes au sein des communaut&eacute;s professionnelles num&eacute;riques comme source de d&eacute;veloppement professionnel.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ D'utiliser les possibilit&eacute;s de formation en ligne, (e.g. tutoriels vid&eacute;o, MOOC, webinaires, etc.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies et les environnements num&eacute;riques pour offrir des possibilit&eacute;s de formation aux coll&egrave;gues et aux pairs.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D1-C4.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2,DigCompEdu-fr-D2-C1,Sélection de ressources numériques,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Identifier, &eacute;valuer et s&eacute;lectionner des ressources num&eacute;riques pour soutenir et am&eacute;liorer l'enseignement et l'apprentissage.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Tenir compte de l'objectif d'apprentissage sp&eacute;cifique, du contexte, de l'approche p&eacute;dagogique et du groupe d'apprenants lors de la s&eacute;lection des ressources num&eacute;riques et de la planification de leur utilisation.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Formuler des strat&eacute;gies de recherche appropri&eacute;es pour identifier les ressources num&eacute;riques pour l'enseignement et l'apprentissage.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ S&eacute;lectionner les ressources num&eacute;riques appropri&eacute;es pour l'enseignement et l'apprentissage, en tenant compte du contexte et de l'objectif d'apprentissage sp&eacute;cifiques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ &Eacute;valuer de mani&egrave;re critique la cr&eacute;dibilit&eacute; et la fiabilit&eacute; des sources et ressources num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prendre en compte les &eacute;ventuelles restrictions &agrave; l'utilisation ou &agrave; la r&eacute;utilisation des ressources num&eacute;riques (e.g., droits d'auteur, type de fichier, exigences techniques, dispositions l&eacute;gales, accessibilit&eacute;).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ &Eacute;valuer l'utilit&eacute; des ressources num&eacute;riques pour atteindre l'objectif d'apprentissage, les niveaux de comp&eacute;tence du groupe d'apprenants concret ainsi que l'approche p&eacute;dagogique choisie.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D2-C1.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2,DigCompEdu-fr-D2-C2,Création et modification de ressources numériques,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Modifier et d&eacute;velopper des ressources existantes sous licence libre et d'autres ressources lorsque cela est autoris&eacute;.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cr&eacute;er ou co-cr&eacute;er de nouvelles ressources p&eacute;dagogiques num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prendre en compte l'objectif d'apprentissage sp&eacute;cifique, le contexte, l'approche p&eacute;dagogique et le groupe d'apprenants lors de la conception des ressources num&eacute;riques et de la planification de leur utilisation.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Modifier et &eacute;diter des ressources num&eacute;riques existantes, lorsque cela est autoris&eacute;.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Combiner et m&eacute;langer des ressources num&eacute;riques existantes ou des parties de celles-ci, lorsque cela est autoris&eacute;.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Cr&eacute;er de nouvelles ressources p&eacute;dagogiques num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Cr&eacute;er conjointement avec d'autres des ressources p&eacute;dagogiques num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prendre en compte l'objectif d'apprentissage sp&eacute;cifique, le contexte, l'approche p&eacute;dagogique et le groupe d'apprenants lors de l'adaptation ou de la cr&eacute;ation de ressources p&eacute;dagogiques num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Comprendre les diff&eacute;rentes licences attribu&eacute;es aux ressources num&eacute;riques et les implications pour leur r&eacute;utilisation.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D2-C2.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2,DigCompEdu-fr-D2-C3,"Gestion, protection et partage de ressources numériques","<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Organiser le contenu num&eacute;rique et le mettre &agrave; la disposition des apprenants, des parents et des autres &eacute;ducateurs.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prot&eacute;ger efficacement les contenus num&eacute;riques sensibles.<br>Respecter et appliquer correctement les r&egrave;gles relatives &agrave; la protection de la vie priv&eacute;e et aux droits d'auteur.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Comprendre l'utilisation et la cr&eacute;ation de licences ouvertes et de ressources &eacute;ducatives ouvertes, y compris leur attribution correcte.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Partager des ressources en utilisant des liens ou des pi&egrave;ces jointes, (e.g., &agrave; des courriels).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Partager des ressources sur des plateformes en ligne ou des sites web/blogs personnels ou organisationnels.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Partager ses propres r&eacute;f&eacute;rentiels de ressources avec d'autres personnes, en g&eacute;rant leur acc&egrave;s et leurs droits de mani&egrave;re appropri&eacute;e.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Respecter les &eacute;ventuelles restrictions en mati&egrave;re de droits d'auteur pour l'utilisation, la r&eacute;utilisation et la modification des ressources num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ R&eacute;f&eacute;rencer correctement les sources lors du partage ou de la publication de ressources soumises &agrave; des droits d'auteur.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Attribuer des licences (ouvertes) aux ressources cr&eacute;&eacute;es par l'utilisateur.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prendre des mesures pour prot&eacute;ger les donn&eacute;es et les ressources sensibles (e.g., notes des &eacute;l&egrave;ves, examens).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Partager les donn&eacute;es administratives et relatives aux &eacute;l&egrave;ves avec les coll&egrave;gues, les &eacute;l&egrave;ves et les parents, le cas &eacute;ch&eacute;ant.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D2-C3.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3,DigCompEdu-fr-D3-C1,Enseignement,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Planifier et mettre en &oelig;uvre des dispositifs et des ressources num&eacute;riques dans le processus d'enseignement, afin d'am&eacute;liorer l'efficacit&eacute; des interventions p&eacute;dagogiques.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">G&eacute;rer et orchestrer de mani&egrave;re appropri&eacute;e les interventions p&eacute;dagogiques num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Exp&eacute;rimenter et d&eacute;velopper de nouveaux formats et de nouvelles m&eacute;thodes p&eacute;dagogiques pour l'enseignement.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ D'utiliser les technologies de la classe pour soutenir l'enseignement, e.g., tableaux blancs &eacute;lectroniques, appareils mobiles.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Structurer la le&ccedil;on de mani&egrave;re &agrave; ce que les diff&eacute;rentes activit&eacute;s num&eacute;riques (dirig&eacute;es par l'enseignant et par l'apprenant) renforcent conjointement l'objectif d'apprentissage.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Mettre en place des sessions d'apprentissage, des activit&eacute;s et des interactions dans un environnement num&eacute;rique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Structurer et g&eacute;rer le contenu, la collaboration et l'interaction dans un environnement num&eacute;rique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ R&eacute;fl&eacute;chir &agrave; la mani&egrave;re dont les interventions num&eacute;riques men&eacute;es par l'&eacute;ducateur - que ce soit en face &agrave; face ou dans un environnement num&eacute;rique - peuvent soutenir au mieux l'objectif d'apprentissage.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ R&eacute;fl&eacute;chir &agrave; l'efficacit&eacute; et &agrave; l'ad&eacute;quation des strat&eacute;gies p&eacute;dagogiques num&eacute;riques choisies et adapter les m&eacute;thodes et les strat&eacute;gies avec souplesse.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Exp&eacute;rimenter et d&eacute;velopper de nouveaux formats et m&eacute;thodes p&eacute;dagogiques pour l'enseignement (e.g., classe invers&eacute;e).</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D3-C1.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3,DigCompEdu-fr-D3-C2,Orientation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies et services num&eacute;riques pour am&eacute;liorer l'interaction avec les apprenants, individuellement et collectivement, &agrave; l'int&eacute;rieur et &agrave; l'ext&eacute;rieur de la session d'apprentissage.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour offrir une orientation et une assistance opportunes et cibl&eacute;es.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Exp&eacute;rimenter et d&eacute;velopper de nouvelles formes et de nouveaux formats pour offrir une orientation et une assistance.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ D'utiliser les outils de communication num&eacute;rique pour r&eacute;pondre rapidement aux questions et aux doutes des apprenants, (e.g., sur les devoirs).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Mettre en place des activit&eacute;s d'apprentissage dans des environnements num&eacute;riques, en ayant pr&eacute;vu les besoins d'orientation des apprenants et en y r&eacute;pondant.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Interagir avec les apprenants dans des environnements num&eacute;riques collaboratifs.&nbsp;</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Contr&ocirc;ler num&eacute;riquement le comportement des &eacute;l&egrave;ves en classe et les guider si n&eacute;cessaire.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour suivre &agrave; distance les progr&egrave;s des &eacute;l&egrave;ves et intervenir si n&eacute;cessaire, tout en permettant l'autor&eacute;gulation.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Exp&eacute;rimenter et d&eacute;velopper de nouvelles formes et de nouveaux formats pour offrir des conseils et un soutien, en utilisant les technologies num&eacute;riques.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D3-C2.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3,DigCompEdu-fr-D3-C3,Apprentissage collaboratif,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour favoriser et am&eacute;liorer la collaboration entre les apprenants.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Permettre aux apprenants d'utiliser les technologies num&eacute;riques dans le cadre de travaux collaboratifs, afin d'am&eacute;liorer la communication, la collaboration et la cr&eacute;ation de connaissances en commun.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Mettre en &oelig;uvre des activit&eacute;s d'apprentissage collaboratif dans lesquelles des dispositifs, des ressources ou des strat&eacute;gies d'information num&eacute;riques sont utilis&eacute;s.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Mettre en &oelig;uvre des activit&eacute;s d'apprentissage collaboratif dans un environnement num&eacute;rique, (e.g., en utilisant des blogs, des wikis, des syst&egrave;mes de gestion de l'apprentissage.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour l'&eacute;change collaboratif de connaissances entre les apprenants.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Suivre et guider les apprenants dans leur production collaborative de connaissances dans des environnements num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Demander aux apprenants de pr&eacute;senter num&eacute;riquement leurs efforts de collaboration et les aider &agrave; le faire.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour l'&eacute;valuation par les pairs et comme support pour l'autor&eacute;gulation collaborative et l'apprentissage par les pairs.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour exp&eacute;rimenter de nouveaux formats et de nouvelles m&eacute;thodes d'apprentissage collaboratif.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D3-C3.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3,DigCompEdu-fr-D3-C4,Apprentissage autorégulé,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour soutenir les processus d'apprentissage autor&eacute;gul&eacute;, c'est-&agrave;-dire pour permettre aux apprenants de planifier, de suivre et de r&eacute;fl&eacute;chir &agrave; leur propre apprentissage, de fournir des preuves de leurs progr&egrave;s, de partager leurs id&eacute;es et de trouver des solutions cr&eacute;atives.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques (e.g., blogs, journaux intimes, outils de planification) pour permettre aux apprenants de planifier leur propre apprentissage.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour permettre aux apprenants de collecter des preuves et d'enregistrer leurs progr&egrave;s (e.g., enregistrements audio ou vid&eacute;o, photos).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques (e.g., ePortfolios, blogs d'apprenants) pour permettre aux apprenants d'enregistrer et de pr&eacute;senter leur travail.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour permettre aux apprenants de r&eacute;fl&eacute;chir &agrave; leur processus d'apprentissage et de l'auto-&eacute;valuer.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D3-C4.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4,DigCompEdu-fr-D4-C1,Stratégies d’évaluation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour l'&eacute;valuation formative et sommative.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Am&eacute;liorer la diversit&eacute; et l'ad&eacute;quation des formats et des approches d'&eacute;valuation.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser des outils d'&eacute;valuation num&eacute;riques pour suivre le processus d'apprentissage et obtenir des informations sur les progr&egrave;s des apprenants.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ D'utiliser les technologies num&eacute;riques pour am&eacute;liorer les strat&eacute;gies d'&eacute;valuation formative, (e.g., en utilisant des syst&egrave;mes de r&eacute;ponse en classe, des quiz, des jeux.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour am&eacute;liorer l'&eacute;valuation sommative dans les tests, e.g., par le biais de tests informatis&eacute;s, en mettant en &oelig;uvre l'audio ou la vid&eacute;o (e.g. dans l'apprentissage des langues), en utilisant des simulations ou des technologies num&eacute;riques sp&eacute;cifiques &agrave; une mati&egrave;re comme environnements de test.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour &eacute;tayer les travaux des apprenants et leur &eacute;valuation, (e.g., par le biais de ePortfolios).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser une vari&eacute;t&eacute; de formats d'&eacute;valuation num&eacute;riques et non num&eacute;riques et &ecirc;tre conscient de leurs avantages et inconv&eacute;nients.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ R&eacute;fl&eacute;chir de mani&egrave;re critique &agrave; la pertinence des approches d'&eacute;valuation num&eacute;rique et adapter les strat&eacute;gies en cons&eacute;quence.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D4-C1.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4,DigCompEdu-fr-D4-C2,Analyse des preuves d'apprentissage,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">G&eacute;n&eacute;rer, s&eacute;lectionner, analyser de mani&egrave;re critique et interpr&eacute;ter des donn&eacute;es num&eacute;riques sur l'activit&eacute;, la performance et les progr&egrave;s de l'apprenant, afin d'&eacute;clairer l'enseignement et l'apprentissage.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Concevoir et mettre en &oelig;uvre des activit&eacute;s d'apprentissage qui g&eacute;n&egrave;rent des donn&eacute;es sur l'activit&eacute; et la performance de l'apprenant.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour enregistrer, comparer et synth&eacute;tiser les donn&eacute;es sur les progr&egrave;s de l'apprenant.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ &Ecirc;tre conscient que l'activit&eacute; de l'apprenant dans les environnements num&eacute;riques g&eacute;n&egrave;re des donn&eacute;es qui peuvent &ecirc;tre utilis&eacute;es pour informer l'enseignement et l'apprentissage.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Analyser et interpr&eacute;ter les donn&eacute;es disponibles sur l'activit&eacute; et les progr&egrave;s de l'apprenant, y compris les donn&eacute;es g&eacute;n&eacute;r&eacute;es par les technologies num&eacute;riques utilis&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prendre en compte, combiner et &eacute;valuer diff&eacute;rentes sources de donn&eacute;es sur les progr&egrave;s et les performances des apprenants.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Valoriser de mani&egrave;re critique les donn&eacute;es disponibles pour &eacute;clairer l'enseignement et l'apprentissage.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D4-C2.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4,DigCompEdu-fr-D4-C3,Retour d’information et planification,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour fournir un retour d'information cibl&eacute; et opportun aux apprenants.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Adapter les strat&eacute;gies d'enseignement et fournir un soutien cibl&eacute;, sur la base des preuves g&eacute;n&eacute;r&eacute;es par les technologies num&eacute;riques utilis&eacute;es.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Permettre aux apprenants et aux parents de comprendre les donn&eacute;es fournies par les technologies num&eacute;riques et de les utiliser pour prendre des d&eacute;cisions.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser la technologie num&eacute;rique pour noter et donner un retour d'information sur les travaux soumis &eacute;lectroniquement.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les syst&egrave;mes de gestion de l'&eacute;valuation pour am&eacute;liorer l'efficacit&eacute; du retour d'information.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour suivre les progr&egrave;s de l'apprenant et lui apporter le soutien n&eacute;cessaire.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Adapter les pratiques d'enseignement et d'&eacute;valuation en fonction des donn&eacute;es g&eacute;n&eacute;r&eacute;es par les technologies num&eacute;riques utilis&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Fournir un retour d'information personnalis&eacute; et offrir un soutien diff&eacute;renci&eacute; aux apprenants, sur la base des donn&eacute;es g&eacute;n&eacute;r&eacute;es par les technologies num&eacute;riques utilis&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Permettre aux apprenants d'&eacute;valuer et d'interpr&eacute;ter les r&eacute;sultats des &eacute;valuations formatives, sommatives, des auto-&eacute;valuations et des &eacute;valuations par les pairs.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Aider les apprenants &agrave; identifier les domaines &agrave; am&eacute;liorer et d&eacute;velopper conjointement des plans d'apprentissage pour traiter ces domaines.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour permettre aux apprenants et/ou aux parents de se tenir au courant des progr&egrave;s r&eacute;alis&eacute;s et de faire des choix &eacute;clair&eacute;s sur les priorit&eacute;s d'apprentissage futures, les mati&egrave;res optionnelles ou les &eacute;tudes futures.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D4-C3.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5,DigCompEdu-fr-D5-C1,Accessibilité et inclusion,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Assurer l'accessibilit&eacute; aux ressources et activit&eacute;s d'apprentissage pour tous les apprenants, y compris ceux ayant des besoins sp&eacute;cifiques.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prendre en compte et r&eacute;pondre aux attentes, aux capacit&eacute;s, aux utilisations et aux id&eacute;es fausses des apprenants (num&eacute;riques), ainsi qu'aux contraintes contextuelles, physiques ou cognitives li&eacute;es &agrave; leur utilisation des technologies num&eacute;riques.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Fournir un acc&egrave;s &eacute;quitable aux technologies et ressources num&eacute;riques appropri&eacute;es, (e.g., s'assurer que tous les &eacute;tudiants ont acc&egrave;s aux technologies num&eacute;riques utilis&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ S&eacute;lectionner et utiliser des strat&eacute;gies p&eacute;dagogiques num&eacute;riques qui r&eacute;pondent au contexte num&eacute;rique des apprenants, c'est-&agrave;-dire aux contraintes contextuelles li&eacute;es &agrave; l'utilisation des technologies (e.g., disponibilit&eacute;), aux comp&eacute;tences, aux attentes, aux attitudes, aux id&eacute;es fausses et aux mauvais usages.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Employer des technologies et des strat&eacute;gies num&eacute;riques, par exemple des technologies d'assistance, con&ccedil;ues pour les apprenants ayant besoin d'un soutien particulier (par exemple, les apprenants ayant des contraintes physiques ou mentales ; les apprenants ayant des troubles de l'apprentissage).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prendre en compte et r&eacute;pondre aux probl&egrave;mes potentiels d'accessibilit&eacute; lors de la s&eacute;lection, de la modification ou de la cr&eacute;ation de ressources num&eacute;riques et fournir des outils ou des approches alternatifs ou compensatoires pour les apprenants ayant des besoins particuliers.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser des principes de conception pour accro&icirc;tre l'accessibilit&eacute; des ressources et des environnements num&eacute;riques utilis&eacute;s dans l'enseignement.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Contr&ocirc;ler en permanence l'ad&eacute;quation des mesures mises en &oelig;uvre pour am&eacute;liorer l'accessibilit&eacute;, y r&eacute;fl&eacute;chir et adapter les strat&eacute;gies en cons&eacute;quence.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D5-C1.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5,DigCompEdu-fr-D5-C2,Différenciation et personnalisation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour r&eacute;pondre aux divers besoins d'apprentissage des apprenants, en leur permettant de progresser &agrave; des niveaux et &agrave; des rythmes diff&eacute;rents, et de suivre des parcours et des objectifs d'apprentissage individuels.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour r&eacute;pondre aux besoins particuliers des apprenants (e.g., dyslexie, ADHD, surdou&eacute;s).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prendre en compte les diff&eacute;rents parcours, niveaux et vitesses d'apprentissage lors de la conception, de la s&eacute;lection et de la mise en &oelig;uvre des activit&eacute;s d'apprentissage num&eacute;rique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Concevoir des plans d'apprentissage individuels et utiliser les technologies num&eacute;riques pour les soutenir.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D5-C2.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5,DigCompEdu-fr-D5-C3,Participation active des apprenants,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques pour favoriser l'engagement actif et cr&eacute;atif des apprenants dans un domaine donn&eacute;.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Utiliser les technologies num&eacute;riques dans le cadre de strat&eacute;gies p&eacute;dagogiques qui favorisent les comp&eacute;tences transversales, la r&eacute;flexion approfondie et l'expression cr&eacute;ative des apprenants.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Ouvrir l'apprentissage &agrave; de nouveaux contextes du monde r&eacute;el, qui impliquent les apprenants eux-m&ecirc;mes dans des activit&eacute;s pratiques, des recherches scientifiques ou la r&eacute;solution de probl&egrave;mes complexes, ou qui augmentent d'une autre mani&egrave;re l'implication active des apprenants dans des sujets complexes.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour visualiser et expliquer de nouveaux concepts de mani&egrave;re motivante et attrayante, (e.g., en utilisant des animations ou des vid&eacute;os).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser des environnements d'apprentissage num&eacute;riques ou des activit&eacute;s motivantes et engageantes (e.g., jeux, quiz).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Placer l'utilisation active des technologies num&eacute;riques par les apprenants au centre du processus d'enseignement.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour permettre aux apprenants de s'engager activement dans le sujet trait&eacute;, (e.g., en utilisant diff&eacute;rents sens, en manipulant des objets virtuels, en variant le probl&egrave;me pos&eacute; pour s'interroger sur sa structure, etc.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ S&eacute;lectionner les technologies num&eacute;riques appropri&eacute;es pour favoriser l'apprentissage actif dans un contexte d'apprentissage donn&eacute; ou pour un objectif d'apprentissage sp&eacute;cifique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ R&eacute;fl&eacute;chir &agrave; l'ad&eacute;quation des diff&eacute;rentes technologies num&eacute;riques utilis&eacute;es pour renforcer l'apprentissage actif des apprenants et adapter les strat&eacute;gies et les choix en cons&eacute;quence.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D5-C3.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6,DigCompEdu-fr-D6-C1,Information et éducation aux médias,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">
+<p>Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui demandent aux apprenants de formuler des besoins d'information, de trouver des informations et des ressources dans des environnements num&eacute;riques, d'organiser, de traiter, d'analyser et d'interpr&eacute;ter des informations, et de comparer et d'&eacute;valuer de mani&egrave;re critique la cr&eacute;dibilit&eacute; et la fiabilit&eacute; de l'information et de ses sources.</p>
+</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<p>Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui encouragent et sollicitent les apprenants :</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Formuler des besoins d'information, rechercher des donn&eacute;es, des informations et des contenus dans des environnements num&eacute;riques, y acc&eacute;der et naviguer entre eux.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Cr&eacute;er et mettre &agrave; jour des strat&eacute;gies de recherche personnelles.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Adapter les strat&eacute;gies de recherche en fonction de la qualit&eacute; de l'information trouv&eacute;e.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Analyser, comparer et &eacute;valuer de mani&egrave;re critique la cr&eacute;dibilit&eacute; et la fiabilit&eacute; des sources de donn&eacute;es, d'informations et de contenus num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Organiser, stocker et r&eacute;cup&eacute;rer des donn&eacute;es, des informations et des contenus dans des environnements num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Organiser et traiter l'information dans un environnement structur&eacute;.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D6-C1.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6,DigCompEdu-fr-D6-C2,Communication et collaboration numériques,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui exigent des apprenants qu'ils utilisent de mani&egrave;re efficace et responsable les technologies num&eacute;riques pour la communication, la collaboration et la participation civique.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<p>Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui encouragent et sollicitent les apprenants :</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Interagir &agrave; l'aide d'une vari&eacute;t&eacute; de technologies num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Comprendre les moyens de communication num&eacute;rique appropri&eacute;s &agrave; un contexte donn&eacute;.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Partager des donn&eacute;es, des informations et des contenus num&eacute;riques avec d'autres personnes par le biais de technologies num&eacute;riques appropri&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Conna&icirc;tre les pratiques de r&eacute;f&eacute;rencement et d'attribution.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Participer &agrave; la soci&eacute;t&eacute; en utilisant les services num&eacute;riques publics et priv&eacute;s.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Rechercher des possibilit&eacute;s d'autonomisation et de citoyennet&eacute; participative par le biais de technologies num&eacute;riques appropri&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques pour des processus collaboratifs et pour la co-construction et la cocr&eacute;ation de ressources et de connaissances.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ &Ecirc;tre conscient des normes comportementales et des savoir-faire lors de l'utilisation des technologies num&eacute;riques et de l'interaction dans les environnements num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Adapter les strat&eacute;gies de communication &agrave; un public sp&eacute;cifique et &ecirc;tre conscient de la diversit&eacute; culturelle et g&eacute;n&eacute;rationnelle dans les environnements num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Cr&eacute;er et g&eacute;rer une ou plusieurs identit&eacute;s num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prot&eacute;ger sa propre r&eacute;putation.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Traiter les donn&eacute;es que l'on produit par le biais de plusieurs technologies, environnements et services num&eacute;riques.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D6-C2.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6,DigCompEdu-fr-D6-C3,Création de contenu numérique,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui exigent des apprenants qu'ils s'expriment par des moyens num&eacute;riques et qu'ils modifient et cr&eacute;ent des contenus num&eacute;riques dans diff&eacute;rents formats.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Enseigner aux apprenants comment les droits d'auteur et les licences s'appliquent au contenu num&eacute;rique, comment r&eacute;f&eacute;rencer les sources et attribuer les licences.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<p>Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui encouragent et sollicitent les apprenants :</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Cr&eacute;er et &eacute;diter des contenus num&eacute;riques dans diff&eacute;rents formats.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ S'exprimer par des moyens num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Modifier, affiner, am&eacute;liorer et int&eacute;grer des informations et des contenus dans un corpus de connaissances existant.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Cr&eacute;er des contenus et des connaissances nouveaux, originaux et pertinents.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Comprendre comment les droits d'auteur et les licences s'appliquent aux donn&eacute;es, &agrave; l'information et au contenu num&eacute;rique.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Planifier et d&eacute;velopper une s&eacute;quence d'instructions compr&eacute;hensibles pour un syst&egrave;me informatique afin de r&eacute;soudre un probl&egrave;me donn&eacute; ou d'effectuer une t&acirc;che sp&eacute;cifique.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D6-C3.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6,DigCompEdu-fr-D6-C4,Utilisation responsable,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prendre des mesures pour assurer le bien-&ecirc;tre physique, psychologique et social des apprenants lors de l'utilisation des technologies num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Donner aux apprenants les moyens de g&eacute;rer les risques et d'utiliser les technologies num&eacute;riques de mani&egrave;re s&ucirc;re et responsable.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<p>Transmettre aux apprenants une attitude positive &agrave; l'&eacute;gard des technologies num&eacute;riques, en encourageant leur utilisation cr&eacute;ative et critique.</p>
+<p>Permettre aux apprenants :</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prot&eacute;ger les appareils et les contenus num&eacute;riques, et comprendre les risques et les menaces dans les environnements num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Comprendre les mesures de s&eacute;curit&eacute;.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Prot&eacute;ger les donn&eacute;es personnelles et la vie priv&eacute;e dans les environnements num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Comprendre comment utiliser et partager des informations personnelles tout en &eacute;tant capable de se prot&eacute;ger et de prot&eacute;ger les autres contre les dommages.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Comprendre que les services num&eacute;riques utilisent une &laquo; politique de confidentialit&eacute; &raquo; sur la fa&ccedil;on dont les donn&eacute;es personnelles sont utilis&eacute;es.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ &Eacute;viter les risques pour la sant&eacute; et les menaces pour le bien-&ecirc;tre physique et psychologique lors de l'utilisation des technologies num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ De se prot&eacute;ger et de prot&eacute;ger les autres des dangers possibles dans les environnements num&eacute;riques (e.g., cyberharc&egrave;lement).</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ D'&ecirc;tre conscient que les technologies num&eacute;riques favorisent le bien-&ecirc;tre et l'inclusion sociale.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ &Ecirc;tre conscient de l'impact environnemental des technologies num&eacute;riques et de leur utilisation.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Surveiller le comportement des &eacute;l&egrave;ves dans les environnements num&eacute;riques afin de pr&eacute;server leur bien-&ecirc;tre.&nbsp;</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ R&eacute;agir imm&eacute;diatement et efficacement lorsque le bien-&ecirc;tre des apprenants est menac&eacute; dans les environnements num&eacute;riques (e.g., cyberintimidation).</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D6-C4.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6,DigCompEdu-fr-D6-C5,Résolution de problèmes numériques,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-danger"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui exigent des apprenants qu'ils identifient et r&eacute;solvent des probl&egrave;mes techniques, ou qu'ils transf&egrave;rent des connaissances technologiques de mani&egrave;re cr&eacute;ative &agrave; de nouvelles situations.</li>
+</ol>
+</div>
+<div class=""alert alert-info"">
+<h1>🔧 Activit&eacute;s</h1>
+<p>Int&eacute;grer des activit&eacute;s d'apprentissage, des devoirs et des &eacute;valuations qui encouragent et sollicitent les apprenants :</p>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Identifier les probl&egrave;mes techniques li&eacute;s au fonctionnement des appareils et &agrave; l'utilisation des environnements num&eacute;riques, et les r&eacute;soudre.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Ajuster et personnaliser les environnements num&eacute;riques en fonction des besoins personnels.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Identifier, &eacute;valuer, s&eacute;lectionner et utiliser les technologies num&eacute;riques et les r&eacute;ponses technologiques possibles pour r&eacute;soudre une t&acirc;che ou un probl&egrave;me donn&eacute;.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Utiliser les technologies num&eacute;riques de mani&egrave;re innovante pour cr&eacute;er des connaissances.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Comprendre dans quels domaines leurs comp&eacute;tences num&eacute;riques doivent &ecirc;tre am&eacute;lior&eacute;es ou mises &agrave; jour.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ Soutenir les autres dans le d&eacute;veloppement de leurs comp&eacute;tences num&eacute;riques.</li>
+<li class=""list-group-item list-group-item-info list-group-item-action"" style=""text-align: justify;"">◆ De rechercher des opportunit&eacute;s de d&eacute;veloppement personnel et de se tenir au courant de l'&eacute;volution num&eacute;rique.</li>
+</ol>
+</div>
+<img src=""https://eldoomcbe.github.io/_mcf_NUM/assets/DigCompEdu-D6-C5.png"" alt="""" width=""100%""></div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C1,DigCompEdu-fr-D1-C1-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques pour la communication.</p>
+<ul>
+<li>J'utilise rarement les technologies num&eacute;riques pour communiquer.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C1,DigCompEdu-fr-D1-C1-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>&Ecirc;tre conscient</strong> que les technologies num&eacute;riques sont utilis&eacute;es pour la communication et en faire un <strong>usage &eacute;l&eacute;mentaire</strong>.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques pour communiquer<br>(e.g., avec les apprenants, les parents, les coll&egrave;gues ou le personnel de soutien.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C1,DigCompEdu-fr-D1-C1-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour communiquer de mani&egrave;re <strong>efficace </strong>et <strong>responsable</strong>.&nbsp;</p>
+<ul>
+<li>J'utilise diff&eacute;rents canaux et outils de communication num&eacute;rique, en fonction de l'objectif et du contexte de la communication.</li>
+<li>Je communique de mani&egrave;re responsable et &eacute;thique avec les technologies num&eacute;riques, e.g., en respectant la n&eacute;tiquette et les politiques d'utilisation acceptable (AUP).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C1,DigCompEdu-fr-D1-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour communiquer de mani&egrave;re <strong>structur&eacute;e </strong>et <strong>r&eacute;active</strong>.</p>
+<ul>
+<li>Je s&eacute;lectionne le canal, le format et le style les plus appropri&eacute;s pour un objectif et un contexte de communication donn&eacute;s.</li>
+<li>J'adapte mes strat&eacute;gies de communication &agrave; un public sp&eacute;cifique.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C1,DigCompEdu-fr-D1-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>&Eacute;valuer</strong> et <strong>discuter </strong>des strat&eacute;gies de communication.</p>
+<ul>
+<li>J'&eacute;value, je r&eacute;fl&eacute;chis et je discute en collaboration de la mani&egrave;re dont les technologies num&eacute;riques sont utilis&eacute;es efficacement pour la communication organisationnelle et individuelle.</li>
+<li>J'utilise les technologies num&eacute;riques pour rendre les proc&eacute;dures administratives plus transparentes pour les apprenants et/ou les parents et pour leur permettre de faire des choix &eacute;clair&eacute;s sur les priorit&eacute;s d'apprentissage futures.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C1,DigCompEdu-fr-D1-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>R&eacute;fl&eacute;chir et <strong>repenser </strong>les strat&eacute;gies de communication.</p>
+<ul>
+<li>Je contribue &agrave; l'&eacute;laboration d'une vision ou d'une strat&eacute;gie coh&eacute;rente sur l'utilisation efficace et responsable des technologies num&eacute;riques pour la communication.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C2,DigCompEdu-fr-D1-C2-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques pour la collaboration.</p>
+<ul>
+<li>J'utilise rarement les technologies num&eacute;riques pour collaborer avec mes coll&egrave;gues.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C2,DigCompEdu-fr-D1-C2-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>&Ecirc;tre conscient</strong> et faire un <strong>usage &eacute;l&eacute;mentaire</strong> des technologies num&eacute;riques pour la collaboration.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques pour collaborer avec des coll&egrave;gues de mon organisation, e.g., sur un projet commun d&eacute;di&eacute;, ou pour &eacute;changer du contenu, des connaissances et des opinions.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C2,DigCompEdu-fr-D1-C2-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>partager </strong>et <strong>&eacute;changer </strong>des pratiques.</p>
+<ul>
+<li>J'utilise les communaut&eacute;s num&eacute;riques pour explorer de nouvelles ressources ou m&eacute;thodes p&eacute;dagogiques et pour trouver de nouvelles id&eacute;es.</li>
+<li>J'utilise les technologies num&eacute;riques pour partager et &eacute;changer les ressources que j'utilise, mes connaissances et mes opinions, avec des coll&egrave;gues au sein de mon organisation et au-del&agrave;.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C2,DigCompEdu-fr-D1-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser des technologies num&eacute;riques pour la <strong>construction collaborative des connaissances</strong>.</p>
+<ul>
+<li>J'utilise activement les communaut&eacute;s num&eacute;riques pour &eacute;changer des id&eacute;es et d&eacute;velopper des ressources num&eacute;riques en collaboration.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C2,DigCompEdu-fr-D1-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>r&eacute;fl&eacute;chir </strong>sur les pratiques et les comp&eacute;tences et les <strong>am&eacute;liorer</strong>.</p>
+<ul>
+<li>J'utilise les connaissances et les ressources g&eacute;n&eacute;r&eacute;es par les r&eacute;seaux de collaboration auxquels j'appartiens pour obtenir un retour d'information sur mes comp&eacute;tences et les am&eacute;liorer, et pour &eacute;largir mon r&eacute;pertoire de pratiques num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C2,DigCompEdu-fr-D1-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>faciliter les pratiques innovantes</strong>.</p>
+<ul>
+<li>J'utilise les communaut&eacute;s num&eacute;riques pour aider d'autres &eacute;ducateurs &agrave; d&eacute;velopper leurs comp&eacute;tences num&eacute;riques et p&eacute;dagogiques.</li>
+<li>J'utilise les communaut&eacute;s num&eacute;riques pour collaborer avec des pairs sur des pratiques p&eacute;dagogiques innovantes.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C3,DigCompEdu-fr-D1-C3-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ne pas &ecirc;tre s&ucirc;r</strong> de ses besoins en mati&egrave;re de d&eacute;veloppement.</p>
+<ul>
+<li>Je sais que je dois am&eacute;liorer mes comp&eacute;tences num&eacute;riques, mais je ne sais pas comment ni par o&ugrave; commencer.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C3,DigCompEdu-fr-D1-C3-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>&Ecirc;tre conscient</strong> de ses besoins de d&eacute;veloppement.</p>
+<ul>
+<li>Je suis conscient des limites de mes propres comp&eacute;tences num&eacute;riques et de mes besoins de formation.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C3,DigCompEdu-fr-D1-C3-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser l'<strong>exp&eacute;rimentation</strong> et l'<strong>apprentissage par les pairs</strong> comme source de d&eacute;veloppement.</p>
+<ul>
+<li>Je cherche &agrave; am&eacute;liorer et &agrave; mettre &agrave; jour mes comp&eacute;tences en mati&egrave;re de p&eacute;dagogie num&eacute;rique par l'exp&eacute;rimentation et l'apprentissage en &eacute;quipe.</li>
+<li>J'exp&eacute;rimente et je r&eacute;fl&eacute;chis de mani&egrave;re cr&eacute;ative &agrave; de nouvelles approches p&eacute;dagogiques, rendues possibles par les technologies num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C3,DigCompEdu-fr-D1-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser un &eacute;ventail de ressources pour d&eacute;velopper ses <strong>propres pratiques</strong> num&eacute;riques et p&eacute;dagogiques.</p>
+<ul>
+<li>Je recherche activement les meilleures pratiques, des cours ou d'autres conseils pour am&eacute;liorer mes propres p&eacute;dagogies num&eacute;riques et mes comp&eacute;tences num&eacute;riques au sens large.</li>
+<li>J'&eacute;value, je r&eacute;fl&eacute;chis et je discute avec mes pairs de la mani&egrave;re d'utiliser les technologies num&eacute;riques pour innover et am&eacute;liorer les pratiques &eacute;ducatives.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C3,DigCompEdu-fr-D1-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Avoir une <strong>r&eacute;flexion commune</strong> sur la pratique p&eacute;dagogique en <strong>g&eacute;n&eacute;ral </strong>et am&eacute;lioration de celle-ci.</p>
+<ul>
+<li>Je suis les recherches actuelles sur l'enseignement innovant et j'int&egrave;gre les r&eacute;sultats de ces recherches dans ma pratique.</li>
+<li>J'&eacute;value, je r&eacute;fl&eacute;chis et je discute en collaboration de la politique et des pratiques organisationnelles concernant l'utilisation des technologies num&eacute;riques.</li>
+<li>J'aide mes pairs &agrave; d&eacute;velopper leurs comp&eacute;tences num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C3,DigCompEdu-fr-D1-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innover </strong>en mati&egrave;re de politiques et de pratiques &eacute;ducatives.</p>
+<ul>
+<li>Je d&eacute;veloppe, individuellement ou en collaboration avec des pairs, une vision ou une strat&eacute;gie pour am&eacute;liorer les pratiques &eacute;ducatives gr&acirc;ce &agrave; l'utilisation des technologies num&eacute;riques.</li>
+<li>Je r&eacute;fl&eacute;chis et j'&eacute;value avec des coll&egrave;gues et/ou des chercheurs diff&eacute;rentes pratiques, m&eacute;thodes et politiques num&eacute;riques, en vue de d&eacute;velopper des m&eacute;thodes innovantes.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C4,DigCompEdu-fr-D1-C4-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> de l'internet pour la mise &agrave; jour des connaissances.</p>
+<ul>
+<li>Je n'utilise que rarement, voire pas du tout, l'internet pour mettre &agrave; jour mes connaissances ou mes comp&eacute;tences.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C4,DigCompEdu-fr-D1-C4-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utilisation de l'internet pour la <strong>mise &agrave; jour</strong> des connaissances.</p>
+<ul>
+<li>J'utilise l'internet pour mettre &agrave; jour mes connaissances sp&eacute;cifiques ou p&eacute;dagogiques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C4,DigCompEdu-fr-D1-C4-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser l'internet pour identifier les possibilit&eacute;s de FPC.</p>
+<ul>
+<li>J'utilise l'internet pour identifier des cours de formation appropri&eacute;s et d'autres opportunit&eacute;s de d&eacute;veloppement professionnel (e.g., conf&eacute;rences).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C4,DigCompEdu-fr-D1-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Explorer les <strong>possibilit&eacute;s </strong>de FPC <strong>en ligne</strong>.</p>
+<ul>
+<li>J'utilise l'internet pour mon d&eacute;veloppement professionnel, (e.g., en participant &agrave; des cours en ligne, &agrave; des webinaires, ou en consultant du mat&eacute;riel de formation num&eacute;rique et des tutoriels vid&eacute;o.</li>
+<li>J'utilise les &eacute;changes formels et informels dans les communaut&eacute;s professionnelles en ligne comme source de d&eacute;veloppement professionnel.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C4,DigCompEdu-fr-D1-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utilisation <strong>critique </strong>et <strong>strat&eacute;gique</strong> de l'internet pour le FPC.</p>
+<ul>
+<li>Je consulte un &eacute;ventail de possibilit&eacute;s de formation en ligne et je s&eacute;lectionne celles qui correspondent le mieux &agrave; mes besoins de d&eacute;veloppement, &agrave; mon style d'apprentissage et &agrave; mes contraintes de temps.</li>
+<li>Je participe activement aux formations en ligne, je contribue &agrave; les am&eacute;liorer et j'aide les autres &agrave; faire des choix appropri&eacute;s en leur fournissant un retour d'information.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D1-C4,DigCompEdu-fr-D1-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser l'<strong>internet</strong> pour fournir une FPC aux <strong>pairs</strong>.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques pour conseiller mes pairs sur les pratiques d'enseignement innovantes, (e.g. dans les communaut&eacute;s professionnelles, par le biais de blogs personnels, ou en d&eacute;veloppant du mat&eacute;riel de formation num&eacute;rique pour eux.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C1,DigCompEdu-fr-D2-C1-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> de l'internet pour trouver des ressources.</p>
+<ul>
+<li>Je n'utilise que rarement, voire pas du tout, l'internet pour trouver des ressources pour l'enseignement et l'apprentissage.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C1,DigCompEdu-fr-D2-C1-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>&Ecirc;tre conscient</strong> et faire un <strong>usage basique</strong> des technologies num&eacute;riques pour trouver des ressources.</p>
+<ul>
+<li>J'utilise des strat&eacute;gies de recherche simples sur Internet pour identifier des contenus num&eacute;riques pertinents pour l'enseignement et l'apprentissage.</li>
+<li>Je suis conscient des plateformes &eacute;ducatives courantes qui fournissent des ressources p&eacute;dagogiques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C1,DigCompEdu-fr-D2-C1-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Identifier et &eacute;valuer les ressources appropri&eacute;es en utilisant des <strong>crit&egrave;res de base</strong>.</p>
+<ul>
+<li>J'adapte mes strat&eacute;gies de recherche en fonction des r&eacute;sultats obtenus.</li>
+<li>Je filtre les r&eacute;sultats pour trouver les ressources ad&eacute;quates, en utilisant les crit&egrave;res appropri&eacute;s.</li>
+<li>J'&eacute;value la qualit&eacute; des ressources num&eacute;riques sur la base de crit&egrave;res de base, tels que (e.g., lieu de publication, auteur, commentaires d'autres utilisateurs).</li>
+<li>Je s&eacute;lectionne des ressources susceptibles de plaire &agrave; mes apprenants (e.g., des vid&eacute;os).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C1,DigCompEdu-fr-D2-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Identifier et &eacute;valuer les ressources appropri&eacute;es en utilisant des <strong>crit&egrave;res complexes</strong>.</p>
+<ul>
+<li>J'adapte mes strat&eacute;gies de recherche pour identifier des ressources que je peux modifier et adapter, (e.g., recherche et filtrage par licence, extension du nom de fichier, date, commentaires de l'utilisateur, etc.</li>
+<li>Je trouve des applications et/ou des jeux que mes apprenants peuvent utiliser.</li>
+<li>J'&eacute;value la fiabilit&eacute; des ressources num&eacute;riques et leur ad&eacute;quation &agrave; mon groupe d'apprenants et &agrave; mon objectif d'apprentissage sp&eacute;cifique.</li>
+<li>Je donne un retour d'information et des recommandations sur les ressources que j'utilise.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C1,DigCompEdu-fr-D2-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Identifier et &eacute;valuer de mani&egrave;re <strong>exhaustive </strong>les ressources appropri&eacute;es, en tenant compte de <strong>tous les aspects pertinents.</strong></p>
+<ul>
+<li>Outre les moteurs de recherche, j'utilise une vari&eacute;t&eacute; d'autres sources, (e.g., plateformes collaboratives, d&eacute;p&ocirc;ts officiels, etc.</li>
+<li>J'&eacute;value la fiabilit&eacute; et la pertinence du contenu sur la base d'une combinaison de crit&egrave;res, en v&eacute;rifiant &eacute;galement son exactitude et sa neutralit&eacute;.</li>
+<li>Lorsque j'utilise des ressources en classe, je les contextualise pour les &eacute;tudiants, (e.g., en signalant leur source et leur partialit&eacute; potentielle.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C1,DigCompEdu-fr-D2-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Promouvoir </strong>l'utilisation des ressources num&eacute;riques dans l'&eacute;ducation.</p>
+<ul>
+<li>Je donne des conseils &agrave; mes coll&egrave;gues sur les strat&eacute;gies de recherche efficaces et les r&eacute;f&eacute;rentiels et ressources appropri&eacute;s.</li>
+<li>Je cr&eacute;e mon propre r&eacute;f&eacute;rentiel de ressources (liens vers des ressources), convenablement annot&eacute; et not&eacute;, et je le mets &agrave; la disposition d'autres coll&egrave;gues.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C2,DigCompEdu-fr-D2-C2-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>S'abstenir</strong> de modifier les ressources num&eacute;riques.</p>
+<ul>
+<li>Je peux utiliser des ressources num&eacute;riques, mais je n'ai pas l'habitude de les modifier ou de cr&eacute;er mes propres ressources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C2,DigCompEdu-fr-D2-C2-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Cr&eacute;er et modifier des ressources &agrave; l'aide d'<strong>outils</strong> et de <strong>strat&eacute;gies</strong> <strong>de base</strong>.</p>
+<ul>
+<li>J'utilise des logiciels de bureautique pour concevoir et modifier (e.g., des feuilles de travail et des quiz).</li>
+<li>Je cr&eacute;e des pr&eacute;sentations num&eacute;riques &agrave; des fins p&eacute;dagogiques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C2,DigCompEdu-fr-D2-C2-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Cr&eacute;er et modifier des ressources &agrave; l'aide de <strong>certaines fonctions avanc&eacute;es</strong>.</p>
+<ul>
+<li>Lorsque je cr&eacute;e des ressources num&eacute;riques (e.g., des pr&eacute;sentations), j'y int&egrave;gre des animations, des liens, des &eacute;l&eacute;ments multim&eacute;dias ou interactifs.</li>
+<li>J'apporte quelques modifications de base aux ressources d'apprentissage num&eacute;riques que j'utilise pour les adapter au contexte d'apprentissage (e.g., &eacute;dition ou suppression de parties, adaptation des param&egrave;tres g&eacute;n&eacute;raux).</li>
+<li>Je r&eacute;ponds &agrave; un objectif d'apprentissage sp&eacute;cifique lorsque je s&eacute;lectionne, modifie, combine et cr&eacute;e des ressources d'apprentissage num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C2,DigCompEdu-fr-D2-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Adapter des <strong>ressources num&eacute;riques avanc&eacute;es</strong> &agrave; un contexte d'apprentissage concret.</p>
+<ul>
+<li>J'int&egrave;gre une s&eacute;rie d'&eacute;l&eacute;ments interactifs et de jeux dans les ressources p&eacute;dagogiques que je cr&eacute;e moi-m&ecirc;me.</li>
+<li>Je modifie et combine des ressources existantes pour cr&eacute;er des activit&eacute;s d'apprentissage adapt&eacute;es &agrave; un contexte et &agrave; un objectif d'apprentissage concrets, ainsi qu'aux caract&eacute;ristiques du groupe d'apprenants.</li>
+<li>Je comprends les diff&eacute;rentes licences attribu&eacute;es aux ressources num&eacute;riques et je connais les permissions qui me sont accord&eacute;es en ce qui concerne la modification des ressources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C2,DigCompEdu-fr-D2-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Cr&eacute;er, co-cr&eacute;er et modifier des ressources en fonction du <strong>contexte d'apprentissage</strong>, en utilisant une <strong>gamme de strat&eacute;gies avanc&eacute;es</strong>.</p>
+<ul>
+<li>Je cr&eacute;e et modifie des activit&eacute;s d'apprentissage num&eacute;rique complexes et interactives, par exemple des feuilles de travail interactives, des &eacute;valuations en ligne, des activit&eacute;s d'apprentissage collaboratif en ligne (e.g., wikis, blogs), des jeux, des applications, des visualisations.</li>
+<li>Je cr&eacute;e des ressources d'apprentissage en collaboration avec des coll&egrave;gues.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C2,DigCompEdu-fr-D2-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Cr&eacute;er des ressources num&eacute;riques <strong>complexes </strong>et <strong>interactives</strong>.</p>
+<ul>
+<li>Je cr&eacute;e mes propres applications ou jeux pour soutenir mes objectifs p&eacute;dagogiques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C3,DigCompEdu-fr-D2-C3-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ne pas utiliser</strong> de strat&eacute;gies de partage des ressources.</p>
+<ul>
+<li>Je stocke et organise les ressources num&eacute;riques pour mon usage futur.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C3,DigCompEdu-fr-D2-C3-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>G&eacute;rer </strong>les ressources &agrave; l'aide de<strong> strat&eacute;gies de base</strong>.</p>
+<ul>
+<li>Je partage des contenus &eacute;ducatifs par le biais de pi&egrave;ces jointes &agrave; des courriels ou de liens.</li>
+<li>Je suis conscient que certaines ressources diffus&eacute;es sur Internet sont prot&eacute;g&eacute;es par des droits d'auteur.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C3,DigCompEdu-fr-D2-C3-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Partager </strong>et <strong>prot&eacute;ger </strong>efficacement les ressources en utilisant des <strong>strat&eacute;gies de base</strong>.</p>
+<ul>
+<li>Je partage des contenus &eacute;ducatifs sur des environnements d'apprentissage virtuels ou en les t&eacute;l&eacute;chargeant, en les liant ou en les int&eacute;grant, (e.g., sur un site web de cours ou un blog).</li>
+<li>Je prot&egrave;ge efficacement les contenus sensibles (e.g., examens, rapports d'&eacute;l&egrave;ves).</li>
+<li>Je comprends les r&egrave;gles de copyright qui s'appliquent aux ressources num&eacute;riques que j'utilise &agrave; des fins scolaires (images, textes, sons et films).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C3,DigCompEdu-fr-D2-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Partager</strong> les ressources de <strong>mani&egrave;re professionnelle</strong>.</p>
+<ul>
+<li>Je partage des ressources en les int&eacute;grant dans des environnements num&eacute;riques.</li>
+<li>Je prot&egrave;ge efficacement les donn&eacute;es personnelles et sensibles et je limite l'acc&egrave;s aux ressources de mani&egrave;re appropri&eacute;e.</li>
+<li>Je r&eacute;f&eacute;rence correctement les ressources concern&eacute;es par les droits d'auteur.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C3,DigCompEdu-fr-D2-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Publier num&eacute;riquement</strong> des ressources cr&eacute;&eacute;es par soi-m&ecirc;me.</p>
+<ul>
+<li>Je constitue des r&eacute;f&eacute;rentiels complets de contenu num&eacute;rique et les mets &agrave; la disposition des apprenants ou d'autres &eacute;ducateurs.</li>
+<li>J'applique des licences aux ressources que je publie en ligne.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D2-C3,DigCompEdu-fr-D2-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Publier professionnellement</strong> du contenu num&eacute;rique cr&eacute;&eacute; par soi-m&ecirc;me.</p>
+<ul>
+<li>J'annote les ressources que je partage num&eacute;riquement et je permets aux autres de les commenter, de les &eacute;valuer, de les modifier, de les r&eacute;organiser ou de les compl&eacute;ter.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C1,DigCompEdu-fr-D3-C1-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques pour l'enseignement.</p>
+<ul>
+<li>Je n'utilise pas ou tr&egrave;s rarement des appareils num&eacute;riques ou du contenu num&eacute;rique dans mon enseignement.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C1,DigCompEdu-fr-D3-C1-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Faire un <strong>usage &eacute;l&eacute;mentaire</strong> des technologies num&eacute;riques disponibles pour l'enseignement.</p>
+<ul>
+<li>J'utilise les technologies disponibles en classe (e.g., tableaux blancs num&eacute;riques, projecteurs, PC).</li>
+<li>Je choisis les technologies num&eacute;riques en fonction de l'objectif d'apprentissage et du contexte.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C1,DigCompEdu-fr-D3-C1-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Int&eacute;grer </strong>les technologies num&eacute;riques disponibles de <strong>mani&egrave;re significative</strong> dans le processus d'enseignement.</p>
+<ul>
+<li>J'organise et je g&egrave;re l'int&eacute;gration des dispositifs num&eacute;riques (e.g., technologies de classe, dispositifs des &eacute;tudiants) dans le processus d'enseignement et d'apprentissage.</li>
+<li>Je g&egrave;re l'int&eacute;gration du contenu num&eacute;rique (e.g., vid&eacute;os, activit&eacute;s interactives) dans le processus d'enseignement et d'apprentissage.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C1,DigCompEdu-fr-D3-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques &agrave; <strong>bon escient</strong> pour <strong>am&eacute;liorer </strong>les strat&eacute;gies p&eacute;dagogiques.</p>
+<ul>
+<li>Je tiens compte des contextes sociaux et des modes d'interaction appropri&eacute;s lors de l'int&eacute;gration des technologies num&eacute;riques.</li>
+<li>J'utilise les technologies num&eacute;riques dans l'enseignement pour accro&icirc;tre la variation m&eacute;thodologique.</li>
+<li>J'organise des sessions d'apprentissage ou d'autres interactions dans un environnement num&eacute;rique.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C1,DigCompEdu-fr-D3-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Orchestrer</strong>, <strong>contr&ocirc;ler </strong>et <strong>adapter </strong>avec souplesse l'utilisation des technologies num&eacute;riques pour am&eacute;liorer les strat&eacute;gies p&eacute;dagogiques.</p>
+<ul>
+<li>Je structure les sessions d'apprentissage de mani&egrave;re &agrave; ce que diff&eacute;rentes activit&eacute;s num&eacute;riques (dirig&eacute;es par l'enseignant et par l'apprenant) renforcent conjointement l'objectif d'apprentissage.</li>
+<li>Je structure et g&egrave;re le contenu, les contributions et l'interaction dans un environnement num&eacute;rique.</li>
+<li>J'&eacute;value en permanence l'efficacit&eacute; des strat&eacute;gies d'enseignement num&eacute;rique et je r&eacute;vise mes strat&eacute;gies en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C1,DigCompEdu-fr-D3-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>innover </strong>dans les strat&eacute;gies d'enseignement.</p>
+<ul>
+<li>Je propose des cours complets ou des modules d'apprentissage dans un environnement d'apprentissage num&eacute;rique.</li>
+<li>J'exp&eacute;rimente et d&eacute;veloppe de nouveaux formats et m&eacute;thodes p&eacute;dagogiques pour l'enseignement.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C2,DigCompEdu-fr-D3-C2-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques pour interagir avec les apprenants.</p>
+<ul>
+<li>Je ne communique pas ou tr&egrave;s rarement avec les apprenants par des moyens num&eacute;riques (e.g., e-mail).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C2,DigCompEdu-fr-D3-C2-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser des strat&eacute;gies num&eacute;riques <strong>de base</strong> pour interagir avec les apprenants.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques, par exemple l'e-mail ou le chat, pour r&eacute;pondre aux questions ou aux doutes des apprenants, par exemple sur les devoirs.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C2,DigCompEdu-fr-D3-C2-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour am&eacute;liorer l'<strong>interaction</strong> avec les apprenants.</p>
+<ul>
+<li>J'utilise un canal de communication num&eacute;rique commun avec mes apprenants pour r&eacute;pondre &agrave; leurs questions et &agrave; leurs doutes.</li>
+<li>Je suis fr&eacute;quemment en contact avec les apprenants et j'&eacute;coute leurs probl&egrave;mes et leurs questions.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C2,DigCompEdu-fr-D3-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>am&eacute;liorer </strong>le suivi et l'orientation.</p>
+<ul>
+<li>J'interagis avec les apprenants dans les environnements num&eacute;riques collaboratifs que j'utilise, en surveillant leur comportement et en leur fournissant des conseils et un soutien individuels si n&eacute;cessaire.</li>
+<li>J'exp&eacute;rimente de nouvelles formes et de nouveaux formats pour offrir des conseils et un soutien, en utilisant les technologies num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C2,DigCompEdu-fr-D3-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques de mani&egrave;re <strong>strat&eacute;gique </strong>et <strong>cibl&eacute;e </strong>pour fournir des conseils et un soutien.</p>
+<ul>
+<li>Lorsque je mets en place des activit&eacute;s d'apprentissage dans des environnements num&eacute;riques, je pr&eacute;vois les besoins des apprenants en mati&egrave;re d'orientation et j'y r&eacute;ponds, (e.g., avec une section d'aide ou de FAQ, ou avec des tutoriels vid&eacute;o).</li>
+<li>Lorsque je mets en &oelig;uvre des activit&eacute;s d'apprentissage num&eacute;rique en classe, je m'assure d'&ecirc;tre en mesure de surveiller (num&eacute;riquement) le comportement des &eacute;tudiants, afin de pouvoir les guider si n&eacute;cessaire.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C2,DigCompEdu-fr-D3-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>innover </strong>en mati&egrave;re d'orientation.</p>
+<ul>
+<li>Je d&eacute;veloppe de nouvelles formes et de nouveaux formats pour offrir des conseils et un soutien, en utilisant les technologies num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C3,DigCompEdu-fr-D3-C3-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques dans les activit&eacute;s d'apprentissage collaboratif.</p>
+<ul>
+<li>Je n'envisage pas, ou tr&egrave;s rarement, la mani&egrave;re dont les &eacute;tudiants pourraient utiliser les technologies num&eacute;riques dans le cadre d'activit&eacute;s ou de travaux collaboratifs.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C3,DigCompEdu-fr-D3-C3-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encourager </strong>les apprenants &agrave; utiliser les technologies num&eacute;riques dans leurs activit&eacute;s collaboratives.</p>
+<ul>
+<li>Lors de la mise en &oelig;uvre d'activit&eacute;s ou de projets collaboratifs, j'encourage les apprenants &agrave; utiliser les technologies num&eacute;riques pour soutenir leur travail, (e.g., pour la recherche sur Internet ou pour pr&eacute;senter leurs r&eacute;sultats).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C3,DigCompEdu-fr-D3-C3-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Mise en &oelig;uvre</strong> des technologies num&eacute;riques dans la conception d'activit&eacute;s collaboratives.</p>
+<ul>
+<li>Je con&ccedil;ois et mets en &oelig;uvre des activit&eacute;s collaboratives dans lesquelles les technologies num&eacute;riques sont utilis&eacute;es par les apprenants pour g&eacute;n&eacute;rer des connaissances en collaboration, (e.g. pour la recherche et l'&eacute;change d'informations).</li>
+<li>Je demande aux apprenants de documenter leurs efforts de collaboration &agrave; l'aide de technologies num&eacute;riques (e.g., pr&eacute;sentations num&eacute;riques, vid&eacute;os, articles de blog).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C3,DigCompEdu-fr-D3-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utilisation d'environnements num&eacute;riques pour <strong>soutenir </strong>l'apprentissage collaboratif.</p>
+<ul>
+<li>Je mets en place des activit&eacute;s collaboratives dans un environnement num&eacute;rique (e.g., blogs, wikis, moodle, environnements d'apprentissage virtuels).</li>
+<li>Je surveille et guide l'interaction collaborative des apprenants dans les environnements num&eacute;riques.&nbsp;</li>
+<li>J'utilise les technologies num&eacute;riques pour permettre aux apprenants de partager leurs id&eacute;es avec d'autres et de recevoir un retour d'information de la part de leurs pairs, y compris pour les travaux individuels.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C3,DigCompEdu-fr-D3-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utilisation d'environnements num&eacute;riques pour la <strong>g&eacute;n&eacute;ration collaborative de connaissances</strong> et l'<strong>&eacute;valuation par les pairs</strong>.</p>
+<ul>
+<li>Je con&ccedil;ois et g&egrave;re diverses activit&eacute;s d'apprentissage collaboratif, o&ugrave; les apprenants utilisent une vari&eacute;t&eacute; de technologies pour mener des recherches en collaboration, documenter les r&eacute;sultats et r&eacute;fl&eacute;chir &agrave; leur apprentissage, &agrave; la fois dans des environnements d'apprentissage physiques et virtuels.</li>
+<li>J'utilise les technologies num&eacute;riques pour l'&eacute;valuation par les pairs et comme support pour l'autor&eacute;gulation collaborative et l'apprentissage par les pairs.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C3,DigCompEdu-fr-D3-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>innover </strong>dans la collaboration entre apprenants.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques pour inventer de nouveaux formats d'apprentissage collaboratif.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C4,DigCompEdu-fr-D3-C4-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques pour l'apprentissage autonome.</p>
+<ul>
+<li>Je n'envisage pas, ou tr&egrave;s rarement, la mani&egrave;re dont les &eacute;tudiants pourraient utiliser les technologies num&eacute;riques dans le cadre d'activit&eacute;s ou de travaux autor&eacute;gul&eacute;s.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C4,DigCompEdu-fr-D3-C4-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encourager </strong>les apprenants &agrave; utiliser les technologies num&eacute;riques dans le cadre d'activit&eacute;s d'apprentissage autor&eacute;gul&eacute;.</p>
+<ul>
+<li>J'encourage les apprenants &agrave; utiliser les technologies num&eacute;riques pour soutenir leurs activit&eacute;s d'apprentissage individuelles et leurs travaux, (e.g., pour la recherche d'informations ou la pr&eacute;sentation de r&eacute;sultats).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C4,DigCompEdu-fr-D3-C4-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Mise en &oelig;uvre</strong> des technologies num&eacute;riques dans la conception d'activit&eacute;s d'apprentissage autor&eacute;gul&eacute;.</p>
+<ul>
+<li>J'encourage les apprenants &agrave; utiliser les technologies num&eacute;riques pour recueillir des preuves et enregistrer leurs progr&egrave;s, par exemple pour produire des enregistrements audio ou vid&eacute;o, des photos, des textes.</li>
+<li>J'utilise les technologies num&eacute;riques (e.g., ePortfolios, blogs d'apprenants) pour permettre aux apprenants d'enregistrer et de pr&eacute;senter leur travail.&nbsp;</li>
+<li>J'utilise les technologies num&eacute;riques pour l'auto-&eacute;valuation des apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C4,DigCompEdu-fr-D3-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser des environnements num&eacute;riques pour <strong>soutenir </strong>de mani&egrave;re globale l'apprentissage autor&eacute;gul&eacute;.</p>
+<ul>
+<li>J'utilise des technologies ou des environnements num&eacute;riques (e.g. ePortfolios, blogs, journaux, outils de planification) pour permettre aux apprenants de g&eacute;rer et de documenter toutes les &eacute;tapes de leur apprentissage, par exemple pour la planification, la recherche d'informations, la documentation, la r&eacute;flexion et l'auto-&eacute;valuation.</li>
+<li>J'aide les apprenants &agrave; d&eacute;velopper, appliquer et r&eacute;viser des crit&egrave;res appropri&eacute;s pour l'auto-&eacute;valuation, avec le soutien des technologies num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C4,DigCompEdu-fr-D3-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Avoir une r&eacute;flexion critique</strong> sur les strat&eacute;gies num&eacute;riques utilis&eacute;es pour favoriser l'apprentissage autor&eacute;gul&eacute;.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis &agrave; la pertinence de mes strat&eacute;gies num&eacute;riques pour favoriser l'apprentissage autor&eacute;gul&eacute; et j'am&eacute;liore continuellement mes strat&eacute;gies.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D3-C4,DigCompEdu-fr-D3-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>D&eacute;velopper de <strong>nouveaux formats</strong> num&eacute;riques et/ou de <strong>nouvelles approches</strong> p&eacute;dagogiques pour l'apprentissage autonome.</p>
+<ul>
+<li>Je d&eacute;veloppe de nouveaux formats num&eacute;riques et/ou des approches p&eacute;dagogiques pour favoriser l'apprentissage autonome.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C1,DigCompEdu-fr-D4-C1-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques pour l'&eacute;valuation.</p>
+<ul>
+<li>Je n'utilise pas ou tr&egrave;s rarement les formats d'&eacute;valuation num&eacute;rique.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C1,DigCompEdu-fr-D4-C1-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Int&eacute;grer les technologies num&eacute;riques dans les <strong>strat&eacute;gies d'&eacute;valuation traditionnelles</strong>.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques pour cr&eacute;er des t&acirc;ches d'&eacute;valuation qui sont ensuite administr&eacute;es sur papier.</li>
+<li>Je planifie l'utilisation des technologies num&eacute;riques par les &eacute;l&egrave;ves dans le cadre des t&acirc;ches d'&eacute;valuation, (e.g., &agrave; l'appui des devoirs).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C1,DigCompEdu-fr-D4-C1-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Utiliser </strong>et <strong>modifier </strong>les outils et formats d'&eacute;valuation num&eacute;rique existants.</p>
+<ul>
+<li>J'utilise certaines technologies num&eacute;riques existantes pour l'&eacute;valuation formative ou sommative, (e.g., e-portfolios, jeux).</li>
+<li>J'adapte les outils d'&eacute;valuation num&eacute;riques pour soutenir mon objectif d'&eacute;valuation sp&eacute;cifique, (e.g., cr&eacute;er un test &agrave; l'aide d'un syst&egrave;me de test num&eacute;rique.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C1,DigCompEdu-fr-D4-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser <strong>strat&eacute;giquement </strong>une <strong>gamme de formats</strong> d'&eacute;valuation num&eacute;rique.</p>
+<ul>
+<li>J'utilise une gamme de logiciels, d'outils et d'approches d'e-&eacute;valuation, pour l'&eacute;valuation formative, &agrave; la fois en classe et pour que les apprenants puissent l'utiliser apr&egrave;s l'&eacute;cole.</li>
+<li>Je s&eacute;lectionne, parmi les diff&eacute;rents formats d'&eacute;valuation, celui qui refl&egrave;te le mieux la nature du r&eacute;sultat d'apprentissage &agrave; &eacute;valuer. Je con&ccedil;ois des &eacute;valuations num&eacute;riques qui sont valides et fiables.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C1,DigCompEdu-fr-D4-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>S&eacute;lectionner, cr&eacute;er et adapter des formats d'&eacute;valuation num&eacute;rique de mani&egrave;re <strong>exhaustive </strong>et <strong>critique</strong>.</p>
+<ul>
+<li>J'utilise une vari&eacute;t&eacute; de formats d'&eacute;valuation num&eacute;riques et non num&eacute;riques, align&eacute;s sur les normes de contenu et de technologie, et je suis conscient de leurs avantages et de leurs inconv&eacute;nients.</li>
+<li>Je r&eacute;fl&eacute;chis de mani&egrave;re critique &agrave; mon utilisation des technologies num&eacute;riques pour l'&eacute;valuation et j'adapte mes strat&eacute;gies en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C1,DigCompEdu-fr-D4-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>D&eacute;velopper des formats d'&eacute;valuation <strong>innovants</strong>, en utilisant les technologies num&eacute;riques.</p>
+<ul>
+<li>Je d&eacute;veloppe de nouveaux formats num&eacute;riques pour l'&eacute;valuation, qui refl&egrave;tent des approches p&eacute;dagogiques innovantes et permettent l'&eacute;valuation de comp&eacute;tences transversales.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C2,DigCompEdu-fr-D4-C2-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des donn&eacute;es num&eacute;riques pour le suivi des progr&egrave;s.</p>
+<ul>
+<li>Je ne me r&eacute;f&egrave;re pas, ou tr&egrave;s rarement, aux donn&eacute;es enregistr&eacute;es num&eacute;riquement pour comprendre o&ugrave; en sont mes &eacute;l&egrave;ves.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C2,DigCompEdu-fr-D4-C2-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>&Eacute;valuer les <strong>donn&eacute;es de base</strong> sur l'activit&eacute; et la performance de l'apprenant.</p>
+<ul>
+<li>J'&eacute;value les donn&eacute;es administratives (e.g., l'assiduit&eacute;) et les donn&eacute;es sur les performances des &eacute;tudiants (e.g., les notes) pour un retour d'information individuel et des interventions cibl&eacute;es.</li>
+<li>Je suis conscient que des outils d'&eacute;valuation num&eacute;riques (e.g., quiz, syst&egrave;mes de vote) peuvent &ecirc;tre utilis&eacute;s dans le cadre du processus d'enseignement pour me fournir un retour d'information en temps utile sur les progr&egrave;s des apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C2,DigCompEdu-fr-D4-C2-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>&Eacute;valuer une s&eacute;rie de donn&eacute;es num&eacute;riques pour informer l'enseignement.</p>
+<ul>
+<li>J'&eacute;value les donn&eacute;es r&eacute;sultant des &eacute;valuations num&eacute;riques pour informer l'apprentissage et l'enseignement.</li>
+<li>Je suis conscient que les donn&eacute;es relatives &agrave; l'activit&eacute; de mes apprenants, telles qu'elles sont enregistr&eacute;es dans les environnements num&eacute;riques que j'utilise avec eux, peuvent m'aider &agrave; suivre leurs progr&egrave;s et &agrave; leur fournir un retour d'information et une assistance en temps opportun.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C2,DigCompEdu-fr-D4-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utilisation <strong>strat&eacute;gique </strong>des outils num&eacute;riques pour la <strong>production de donn&eacute;es</strong>.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques (e.g., quiz, syst&egrave;mes de vote, jeux) dans le cadre du processus d'enseignement pour me fournir un retour d'information opportun sur les progr&egrave;s des apprenants.</li>
+<li>J'utilise les outils d'analyse de donn&eacute;es fournis par les environnements num&eacute;riques que j'utilise pour contr&ocirc;ler et visualiser l'activit&eacute;.</li>
+<li>J'interpr&egrave;te les donn&eacute;es et les preuves disponibles afin de mieux comprendre les besoins d'aide de chaque apprenant.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C2,DigCompEdu-fr-D4-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les donn&eacute;es num&eacute;riques pour <strong>r&eacute;fl&eacute;chir </strong>aux <strong>mod&egrave;les </strong>d'apprentissage et aux strat&eacute;gies d'enseignement.</p>
+<ul>
+<li>Je surveille en permanence l'activit&eacute; num&eacute;rique et je r&eacute;fl&eacute;chis r&eacute;guli&egrave;rement aux donn&eacute;es enregistr&eacute;es num&eacute;riquement sur les apprenants afin d'identifier &agrave; temps les comportements critiques et les probl&egrave;mes individuels et d'y r&eacute;agir.</li>
+<li>J'&eacute;value et synth&eacute;tise les donn&eacute;es g&eacute;n&eacute;r&eacute;es par les diverses technologies num&eacute;riques que j'utilise pour r&eacute;fl&eacute;chir &agrave; l'efficacit&eacute; et &agrave; la pertinence de diff&eacute;rentes strat&eacute;gies d'enseignement et activit&eacute;s d'apprentissage, en g&eacute;n&eacute;ral et pour certains groupes d'apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C2,DigCompEdu-fr-D4-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innover </strong>dans la production et l'&eacute;valuation des donn&eacute;es.</p>
+<ul>
+<li>Je mets en &oelig;uvre des m&eacute;thodes avanc&eacute;es de g&eacute;n&eacute;ration et de visualisation de donn&eacute;es dans les activit&eacute;s num&eacute;riques que j'emploie, (e.g., bas&eacute;es sur l'analyse de l'apprentissage).</li>
+<li>J'&eacute;value et discute de mani&egrave;re critique la valeur et la validit&eacute; des diff&eacute;rentes sources de donn&eacute;es ainsi que la pertinence des m&eacute;thodes &eacute;tablies pour l'analyse des donn&eacute;es.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C3,DigCompEdu-fr-D4-C3-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des donn&eacute;es num&eacute;riques pour le retour d'information et la planification.</p>
+<ul>
+<li>Je ne suis pas conscient que les technologies num&eacute;riques peuvent m'aider &agrave; fournir un retour d'information aux apprenants ou &agrave; adapter mes strat&eacute;gies d'enseignement.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C3,DigCompEdu-fr-D4-C3-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>informer le retour d'information</strong>.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques pour compiler une vue d'ensemble des progr&egrave;s des apprenants, que j'utilise comme base pour offrir un retour d'information et des conseils.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C3,DigCompEdu-fr-D4-C3-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>fournir un retour d'information</strong>.</p>
+<ul>
+<li>J'utilise la technologie num&eacute;rique pour noter et donner un retour d'information sur les travaux soumis &eacute;lectroniquement.</li>
+<li>J'aide les &eacute;tudiants et/ou les parents &agrave; acc&eacute;der aux informations sur les performances des apprenants, en utilisant les technologies num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C3,DigCompEdu-fr-D4-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les donn&eacute;es num&eacute;riques pour am&eacute;liorer l'<strong>efficacit&eacute;</strong> du retour d'information et du soutien.</p>
+<ul>
+<li>J'adapte mes pratiques d'enseignement et d'&eacute;valuation en fonction des donn&eacute;es g&eacute;n&eacute;r&eacute;es par les technologies num&eacute;riques que j'utilise.</li>
+<li>Je fournis un retour d'information personnalis&eacute; et j'offre un soutien diff&eacute;renci&eacute; aux apprenants, sur la base des donn&eacute;es g&eacute;n&eacute;r&eacute;es par les technologies num&eacute;riques utilis&eacute;es.</li>
+<li>J'utilise les technologies num&eacute;riques pour permettre aux apprenants et aux parents de se tenir au courant des progr&egrave;s r&eacute;alis&eacute;s et de faire des choix &eacute;clair&eacute;s sur les priorit&eacute;s d'apprentissage futures, les mati&egrave;res optionnelles ou les &eacute;tudes futures.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C3,DigCompEdu-fr-D4-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>personnaliser </strong>le retour d'information et le soutien.</p>
+<ul>
+<li>J'aide les apprenants &agrave; identifier les domaines &agrave; am&eacute;liorer et j'&eacute;labore conjointement des plans d'apprentissage pour traiter ces domaines, sur la base des donn&eacute;es disponibles.</li>
+<li>J'utilise les donn&eacute;es g&eacute;n&eacute;r&eacute;es par les technologies num&eacute;riques pour r&eacute;fl&eacute;chir aux strat&eacute;gies d'enseignement qui fonctionnent bien pour tel ou tel type d'apprenant et j'adapte mes strat&eacute;gies d'enseignement en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D4-C3,DigCompEdu-fr-D4-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les donn&eacute;es num&eacute;riques pour <strong>&eacute;valuer </strong>et <strong>am&eacute;liorer </strong>l'enseignement.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis, discute, remanie et innove en mati&egrave;re de strat&eacute;gies d'enseignement en r&eacute;ponse aux preuves num&eacute;riques que je trouve, en ce qui concerne les pr&eacute;f&eacute;rences et les besoins des apprenants ainsi que l'efficacit&eacute; des diff&eacute;rentes interventions d'enseignement et des formats d'apprentissage.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C1,DigCompEdu-fr-D5-C1-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Se <strong>pr&eacute;occuper </strong>de l'accessibilit&eacute; et de l'inclusion.</p>
+<ul>
+<li>Je crains que l'utilisation des technologies num&eacute;riques dans l'enseignement ne rende encore plus difficile la participation des &eacute;l&egrave;ves d&eacute;j&agrave; d&eacute;favoris&eacute;s et ne leur permette de suivre les autres.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C1,DigCompEdu-fr-D5-C1-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>&Ecirc;tre conscient</strong> des questions d'accessibilit&eacute; et d'inclusion.</p>
+<ul>
+<li>Je comprends l'importance d'assurer l'&eacute;galit&eacute; d'acc&egrave;s aux technologies num&eacute;riques utilis&eacute;es pour tous les &eacute;l&egrave;ves.</li>
+<li>Je suis conscient que les technologies num&eacute;riques peuvent entraver ou am&eacute;liorer l'accessibilit&eacute;.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C1,DigCompEdu-fr-D5-C1-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Aborder </strong>la question de l'accessibilit&eacute; et de l'inclusion.</p>
+<ul>
+<li>Je comprends comment l'acc&egrave;s &agrave; la technologie num&eacute;rique cr&eacute;e des fractures et comment les conditions sociales et &eacute;conomiques des &eacute;l&egrave;ves ont un impact sur la fa&ccedil;on dont la technologie est utilis&eacute;e.</li>
+<li>Je veille &agrave; ce que tous les &eacute;l&egrave;ves aient acc&egrave;s aux technologies num&eacute;riques que j'utilise.</li>
+<li>Je suis conscient que les technologies num&eacute;riques compensatoires peuvent &ecirc;tre utilis&eacute;es pour les apprenants qui ont besoin d'un soutien particulier (par exemple, les apprenants ayant des contraintes physiques ou mentales ; les apprenants ayant des troubles de l'apprentissage).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C1,DigCompEdu-fr-D5-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Permettre </strong>l'accessibilit&eacute; et l'inclusion.</p>
+<ul>
+<li>Je s&eacute;lectionne des strat&eacute;gies p&eacute;dagogiques num&eacute;riques qui s'adaptent aux contextes num&eacute;riques des apprenants (e.g. temps d'utilisation limit&eacute;, type d'appareil disponible).</li>
+<li>Je prends en compte et r&eacute;ponds aux probl&egrave;mes d'accessibilit&eacute; potentiels lors de la s&eacute;lection, de la modification ou de la cr&eacute;ation de ressources num&eacute;riques et je fournis des outils ou des approches alternatifs ou compensatoires pour les apprenants ayant des besoins particuliers.</li>
+<li>J'utilise des technologies et des strat&eacute;gies num&eacute;riques, par exemple des technologies d'assistance, pour rem&eacute;dier aux probl&egrave;mes d'accessibilit&eacute; de chaque apprenant, par exemple les d&eacute;ficiences visuelles ou auditives.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C1,DigCompEdu-fr-D5-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Am&eacute;liorer </strong>l'accessibilit&eacute; et l'inclusion.</p>
+<ul>
+<li>Je s&eacute;lectionne et utilise des strat&eacute;gies p&eacute;dagogiques num&eacute;riques adapt&eacute;es aux usages, comp&eacute;tences, attentes, attitudes, id&eacute;es fausses et mauvaises utilisations de la technologie num&eacute;rique par les apprenants.</li>
+<li>J'applique les principes de conception pour am&eacute;liorer l'accessibilit&eacute; des ressources et des environnements num&eacute;riques utilis&eacute;s dans l'enseignement, (e.g., en ce qui concerne la police, la taille, les couleurs, la langue, la mise en page, la structure).</li>
+<li>Je contr&ocirc;le en permanence la pertinence des mesures mises en &oelig;uvre pour am&eacute;liorer l'accessibilit&eacute;, j'y r&eacute;fl&eacute;chis et j'adapte mes strat&eacute;gies en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C1,DigCompEdu-fr-D5-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innover </strong>dans les strat&eacute;gies d'accessibilit&eacute; et d'inclusion.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis, je discute, je remanie et j'innove des strat&eacute;gies pour l'&eacute;galit&eacute; d'acc&egrave;s et l'inclusion dans l'&eacute;ducation num&eacute;rique.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C2,DigCompEdu-fr-D5-C2-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>&Ecirc;tre <strong>incertain </strong>quant au potentiel des technologies num&eacute;riques en mati&egrave;re de diff&eacute;renciation et de personnalisation.</p>
+<ul>
+<li>Je ne sais pas comment les technologies num&eacute;riques peuvent m'aider &agrave; offrir des possibilit&eacute;s d'apprentissage personnalis&eacute;es.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C2,DigCompEdu-fr-D5-C2-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>&Ecirc;tre conscient</strong> du potentiel des technologies num&eacute;riques en mati&egrave;re de diff&eacute;renciation et de personnalisation.</p>
+<ul>
+<li>Je suis conscient que les technologies num&eacute;riques peuvent favoriser la diff&eacute;renciation et la personnalisation (e.g., en proposant des activit&eacute;s &agrave; diff&eacute;rents niveaux et &agrave; diff&eacute;rentes vitesses).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C2,DigCompEdu-fr-D5-C2-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Utiliser </strong>les technologies num&eacute;riques pour la diff&eacute;renciation et la personnalisation.</p>
+<ul>
+<li>Je s&eacute;lectionne et j'utilise certaines activit&eacute;s d'apprentissage, par exemple des quiz ou des jeux, qui permettent aux apprenants de proc&eacute;der &agrave; des vitesses diff&eacute;rentes, de choisir des niveaux de difficult&eacute; diff&eacute;rents et/ou de r&eacute;p&eacute;ter des activit&eacute;s qui n'ont pas &eacute;t&eacute; r&eacute;solues de mani&egrave;re satisfaisante auparavant.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C2,DigCompEdu-fr-D5-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser <strong>strat&eacute;giquement </strong>une gamme de technologies num&eacute;riques pour la diff&eacute;renciation et la personnalisation.</p>
+<ul>
+<li>Lorsque je con&ccedil;ois des activit&eacute;s d'apprentissage et d'&eacute;valuation, j'utilise un &eacute;ventail de technologies num&eacute;riques diff&eacute;rentes, que j'adapte et ajuste pour tenir compte des diff&eacute;rents besoins, niveaux, vitesses et pr&eacute;f&eacute;rences.</li>
+<li>Lorsque je s&eacute;quence et mets en &oelig;uvre des activit&eacute;s d'apprentissage, je tiens compte des diff&eacute;rents parcours, niveaux et vitesses d'apprentissage et j'adapte mes strat&eacute;gies avec souplesse &agrave; l'&eacute;volution des circonstances ou des besoins.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C2,DigCompEdu-fr-D5-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Mettre en &oelig;uvre de mani&egrave;re <strong>compl&egrave;te </strong>et <strong>critique </strong>l'apprentissage diff&eacute;renci&eacute; et personnalis&eacute;.</p>
+<ul>
+<li>Je con&ccedil;ois, en collaboration avec les apprenants et/ou les parents, des plans d'apprentissage personnalis&eacute;s qui permettent &agrave; tous les apprenants de suivre leurs besoins et pr&eacute;f&eacute;rences individuels en mati&egrave;re d'apprentissage, &agrave; l'aide de ressources num&eacute;riques appropri&eacute;es.</li>
+<li>Je r&eacute;fl&eacute;chis &agrave; l'efficacit&eacute; des strat&eacute;gies d'enseignement employ&eacute;es pour favoriser la diff&eacute;renciation et la personnalisation et j'adapte mes strat&eacute;gies d'enseignement et mes activit&eacute;s num&eacute;riques en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C2,DigCompEdu-fr-D5-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innover </strong>dans les strat&eacute;gies de diff&eacute;renciation et de personnalisation en utilisant les technologies num&eacute;riques.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis, discute, repense et innove en mati&egrave;re de strat&eacute;gies p&eacute;dagogiques pour personnaliser l'&eacute;ducation gr&acirc;ce &agrave; l'utilisation des technologies num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C3,DigCompEdu-fr-D5-C3-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des technologies num&eacute;riques pour l'engagement de l'apprenant.</p>
+<ul>
+<li>Je n'utilise que tr&egrave;s rarement, voire pas du tout, les technologies num&eacute;riques pour motiver ou impliquer les apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C3,DigCompEdu-fr-D5-C3-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour <strong>impliquer </strong>les apprenants.</p>
+<ul>
+<li>J'utilise les technologies num&eacute;riques pour visualiser et expliquer de nouveaux concepts de mani&egrave;re motivante et attrayante, (e.g., en utilisant des animations ou des vid&eacute;os).</li>
+<li>J'utilise des activit&eacute;s d'apprentissage num&eacute;riques qui sont motivantes et engageantes, (e.g., jeux, quiz).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C3,DigCompEdu-fr-D5-C3-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Favoriser l'<strong>utilisation active</strong> des technologies num&eacute;riques par les apprenants.</p>
+<ul>
+<li>Je place l'utilisation active des technologies num&eacute;riques par les apprenants au centre du processus p&eacute;dagogique.</li>
+<li>Je choisis l'outil le plus appropri&eacute; pour favoriser l'engagement actif de l'apprenant dans un contexte d'apprentissage donn&eacute; ou pour un objectif d'apprentissage sp&eacute;cifique.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C3,DigCompEdu-fr-D5-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser les technologies num&eacute;riques pour que les apprenants s'<strong>engagent activement</strong> dans la <strong>mati&egrave;re</strong>.</p>
+<ul>
+<li>J'utilise une gamme de technologies num&eacute;riques pour cr&eacute;er un environnement d'apprentissage num&eacute;rique pertinent, riche et efficace, (e.g., en utilisant diff&eacute;rents canaux sensoriels, styles et strat&eacute;gies d'apprentissage, en variant m&eacute;thodologiquement les types d'activit&eacute;s et la composition des groupes).</li>
+<li>Je r&eacute;fl&eacute;chis &agrave; l'efficacit&eacute; des strat&eacute;gies d'enseignement employ&eacute;es pour accro&icirc;tre l'engagement de l'apprenant et l'apprentissage actif.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C3,DigCompEdu-fr-D5-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Mettre en &oelig;uvre de mani&egrave;re <strong>exhaustive </strong>et <strong>critique </strong>des strat&eacute;gies d'apprentissage actif.</p>
+<ul>
+<li>Je s&eacute;lectionne, con&ccedil;ois, utilise et orchestre l'utilisation des technologies num&eacute;riques dans le cadre du processus d'apprentissage en fonction de leur capacit&eacute; &agrave; favoriser l'engagement actif, cr&eacute;atif et critique des apprenants dans le domaine concern&eacute;.</li>
+<li>Je r&eacute;fl&eacute;chis &agrave; l'ad&eacute;quation des diff&eacute;rentes technologies num&eacute;riques que j'utilise pour renforcer l'apprentissage actif des apprenants et j'adapte mes strat&eacute;gies et mes choix en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D5-C3,DigCompEdu-fr-D5-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Innover </strong>dans les strat&eacute;gies num&eacute;riques pour un apprentissage actif.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis, je discute, je repense et j'innove en mati&egrave;re de strat&eacute;gies p&eacute;dagogiques pour impliquer activement les apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C1,DigCompEdu-fr-D6-C1-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des strat&eacute;gies favorisant la ma&icirc;trise de l'information par les apprenants.</p>
+<ul>
+<li>Je ne r&eacute;fl&eacute;chis pas ou tr&egrave;s rarement &agrave; la mani&egrave;re dont je pourrais favoriser la ma&icirc;trise de l'information et des m&eacute;dias chez les apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C1,DigCompEdu-fr-D6-C1-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encourager </strong>les apprenants &agrave; utiliser les technologies num&eacute;riques pour la recherche d'informations.</p>
+<ul>
+<li>J'encourage les apprenants &agrave; utiliser les technologies num&eacute;riques pour la recherche d'informations, (e.g., pour les devoirs).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C1,DigCompEdu-fr-D6-C1-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Mise en &oelig;uvre d'activit&eacute;s <strong>favorisant </strong>la ma&icirc;trise de l'information et des m&eacute;dias par les apprenants.</p>
+<ul>
+<li>Je mets en &oelig;uvre des activit&eacute;s d'apprentissage dans lesquelles les apprenants utilisent les technologies num&eacute;riques pour la recherche d'informations.</li>
+<li>J'enseigne aux apprenants comment trouver des informations, comment &eacute;valuer leur fiabilit&eacute;, comment comparer et combiner des informations provenant de diff&eacute;rentes sources.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C1,DigCompEdu-fr-D6-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser <strong>strat&eacute;giquement </strong>un <strong>&eacute;ventail </strong>de strat&eacute;gies p&eacute;dagogiques pour favoriser la ma&icirc;trise de l'information et des m&eacute;dias chez les apprenants.</p>
+<ul>
+<li>J'utilise une s&eacute;rie de strat&eacute;gies p&eacute;dagogiques diff&eacute;rentes pour permettre aux apprenants de comparer de mani&egrave;re critique et de combiner de mani&egrave;re pertinente des informations provenant de diff&eacute;rentes sources.</li>
+<li>J'enseigne aux apprenants comment citer les sources de mani&egrave;re appropri&eacute;e.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C1,DigCompEdu-fr-D6-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Favoriser de <strong>mani&egrave;re globale</strong> et <strong>critique </strong>la ma&icirc;trise de l'information et des m&eacute;dias par les apprenants.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis de mani&egrave;re critique &agrave; la pertinence de mes strat&eacute;gies p&eacute;dagogiques pour favoriser la ma&icirc;trise de l'information et des m&eacute;dias chez les apprenants et j'adapte mes strat&eacute;gies en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C1,DigCompEdu-fr-D6-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser des <strong>formats innovants</strong> pour favoriser la ma&icirc;trise de l'information et des m&eacute;dias par les apprenants.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis, discute, repense et innove en mati&egrave;re de strat&eacute;gies p&eacute;dagogiques pour favoriser la ma&icirc;trise de l'information et des m&eacute;dias chez les apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C2,DigCompEdu-fr-D6-C2-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des strat&eacute;gies favorisant la communication et la collaboration num&eacute;riques des apprenants.</p>
+<ul>
+<li>Je ne r&eacute;fl&eacute;chis pas ou tr&egrave;s rarement &agrave; la mani&egrave;re dont je pourrais favoriser la communication et la collaboration num&eacute;riques des apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C2,DigCompEdu-fr-D6-C2-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encourager </strong>les apprenants &agrave; utiliser les technologies num&eacute;riques pour la communication et la collaboration.</p>
+<ul>
+<li>J'encourage les apprenants &agrave; utiliser les technologies num&eacute;riques pour interagir avec d'autres apprenants, avec leurs &eacute;ducateurs, le personnel d'encadrement et des tiers.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C2,DigCompEdu-fr-D6-C2-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Mise en &oelig;uvre d'activit&eacute;s <strong>favorisant </strong>la communication et la collaboration num&eacute;riques des apprenants.</p>
+<ul>
+<li>Je mets en &oelig;uvre des activit&eacute;s d'apprentissage dans lesquelles les apprenants utilisent les technologies num&eacute;riques pour communiquer.</li>
+<li>Je guide les apprenants pour qu'ils respectent les normes de comportement, s&eacute;lectionnent de mani&egrave;re appropri&eacute;e les strat&eacute;gies et les canaux de communication et soient conscients de la diversit&eacute; culturelle et sociale dans les environnements num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C2,DigCompEdu-fr-D6-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser <strong>strat&eacute;giquement </strong>un <strong>&eacute;ventail </strong>de strat&eacute;gies p&eacute;dagogiques pour favoriser la communication et la collaboration num&eacute;riques des apprenants.</p>
+<ul>
+<li>J'utilise un &eacute;ventail de strat&eacute;gies p&eacute;dagogiques diff&eacute;rentes dans lesquelles les apprenants utilisent les technologies num&eacute;riques pour la communication et la collaboration.</li>
+<li>Je soutiens et encourage les apprenants &agrave; utiliser les technologies num&eacute;riques pour participer aux discours publics et &agrave; utiliser les technologies num&eacute;riques de mani&egrave;re active et consciente pour la participation civique.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C2,DigCompEdu-fr-D6-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Encourager de <strong>mani&egrave;re globale</strong> et <strong>critique </strong>la communication et la collaboration num&eacute;riques des apprenants.</p>
+<ul>
+<li>J'int&egrave;gre des devoirs et des activit&eacute;s d'apprentissage qui demandent aux apprenants d'utiliser de mani&egrave;re efficace et responsable les technologies num&eacute;riques pour la communication, la collaboration, la cocr&eacute;ation de connaissances et la participation civique.</li>
+<li>Je r&eacute;fl&eacute;chis de mani&egrave;re critique &agrave; la pertinence de mes strat&eacute;gies p&eacute;dagogiques pour favoriser la communication et la collaboration num&eacute;riques des apprenants et j'adapte mes strat&eacute;gies en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C2,DigCompEdu-fr-D6-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser des <strong>formats innovants</strong> pour favoriser la communication et la collaboration num&eacute;riques des apprenants.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis, discute, repense et innove en mati&egrave;re de strat&eacute;gies p&eacute;dagogiques pour favoriser la communication et la collaboration num&eacute;riques des apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C3,DigCompEdu-fr-D6-C3-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des strat&eacute;gies favorisant la cr&eacute;ation de contenu num&eacute;rique par les apprenants.</p>
+<ul>
+<li>Je n'envisage pas, ou tr&egrave;s rarement, la mani&egrave;re d'encourager la cr&eacute;ation de contenu num&eacute;rique par les apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C3,DigCompEdu-fr-D6-C3-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encourager </strong>les apprenants &agrave; utiliser les technologies num&eacute;riques pour cr&eacute;er du contenu.</p>
+<ul>
+<li>J'encourage les apprenants &agrave; s'exprimer &agrave; l'aide des technologies num&eacute;riques (e.g., en produisant des textes, des images, des vid&eacute;os).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C3,DigCompEdu-fr-D6-C3-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Mise en &oelig;uvre d'activit&eacute;s <strong>favorisant </strong>la cr&eacute;ation de contenus num&eacute;riques par les apprenants.</p>
+<ul>
+<li>Je mets en &oelig;uvre des activit&eacute;s d'apprentissage dans lesquelles les apprenants utilisent les technologies num&eacute;riques pour produire du contenu num&eacute;rique, par exemple sous forme de texte, de photos, d'autres images, de vid&eacute;os, etc.</li>
+<li>J'encourage les apprenants &agrave; publier et &agrave; partager leurs productions num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C3,DigCompEdu-fr-D6-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser <strong>strat&eacute;giquement </strong>un <strong>&eacute;ventail </strong>de strat&eacute;gies p&eacute;dagogiques pour encourager la cr&eacute;ation de contenu num&eacute;rique par les apprenants.</p>
+<ul>
+<li>J'utilise une s&eacute;rie de strat&eacute;gies p&eacute;dagogiques diff&eacute;rentes pour permettre aux apprenants de s'exprimer num&eacute;riquement, (e.g., en contribuant &agrave; des wikis ou des blogs, en utilisant des ePortfolios pour leurs cr&eacute;ations num&eacute;riques.</li>
+<li>J'aide les apprenants &agrave; comprendre le concept de droit d'auteur et de licence et &agrave; r&eacute;utiliser le contenu num&eacute;rique de mani&egrave;re appropri&eacute;e.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C3,DigCompEdu-fr-D6-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Encourager de <strong>mani&egrave;re exhaustive </strong>et <strong>critique </strong>la cr&eacute;ation de contenu num&eacute;rique par les apprenants.</p>
+<ul>
+<li>Je d&eacute;tecte et contrecarre le plagiat (e.g., en utilisant les technologies num&eacute;riques).</li>
+<li>Je r&eacute;fl&eacute;chis de mani&egrave;re critique &agrave; la pertinence de mes strat&eacute;gies p&eacute;dagogiques pour favoriser l'expression num&eacute;rique cr&eacute;ative des apprenants et j'adapte mes strat&eacute;gies en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C3,DigCompEdu-fr-D6-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser des <strong>formats innovants</strong> pour encourager la cr&eacute;ation de contenu num&eacute;rique par les apprenants.</p>
+<ul>
+<li>Je guide les apprenants dans la conception, la publication et l'octroi de licences pour des produits num&eacute;riques complexes, (e.g., cr&eacute;ation de sites web, de blogs, de jeux ou d'applications).</li>
+<li>Je r&eacute;fl&eacute;chis, discute, remanie et innove en mati&egrave;re de strat&eacute;gies p&eacute;dagogiques pour favoriser l'expression et la cr&eacute;ation num&eacute;riques des apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C4,DigCompEdu-fr-D6-C4-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des strat&eacute;gies favorisant le bien-&ecirc;tre num&eacute;rique des apprenants.&nbsp;</p>
+<ul>
+<li>Je suis conscient que les technologies num&eacute;riques peuvent avoir un impact positif et n&eacute;gatif sur le bien-&ecirc;tre des apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C4,DigCompEdu-fr-D6-C4-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encourager </strong>les apprenants &agrave; utiliser les technologies num&eacute;riques de mani&egrave;re s&ucirc;re et responsable.</p>
+<ul>
+<li>Je sensibilise les apprenants &agrave; la mani&egrave;re dont les technologies num&eacute;riques peuvent avoir un effet positif ou n&eacute;gatif sur la sant&eacute; et le bien-&ecirc;tre, par exemple en les encourageant &agrave; identifier les comportements (les leurs ou ceux des autres) qui les rendent heureux ou tristes.</li>
+<li>Je fais en sorte que les apprenants soient conscients des avantages et des inconv&eacute;nients de l'ouverture d'Internet.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C4,DigCompEdu-fr-D6-C4-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Mettre en &oelig;uvre des <strong>mesures </strong>pour <strong>assurer </strong>le <strong>bien-&ecirc;tre</strong> des apprenants.</p>
+<ul>
+<li>Je donne des conseils pratiques et bas&eacute;s sur l'exp&eacute;rience sur la fa&ccedil;on de prot&eacute;ger la vie priv&eacute;e et les donn&eacute;es, (e.g., utilisation de mots de passe, r&eacute;glage des param&egrave;tres des m&eacute;dias sociaux).</li>
+<li>J'aide les apprenants &agrave; prot&eacute;ger leur identit&eacute; num&eacute;rique et &agrave; g&eacute;rer leur empreinte num&eacute;rique.&nbsp;</li>
+<li>Je conseille les apprenants sur les mesures efficaces &agrave; prendre pour limiter ou contrer l'impact d'un comportement inappropri&eacute; (le leur ou celui de leurs pairs).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C4,DigCompEdu-fr-D6-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Soutenir p&eacute;dagogiquement</strong> l'utilisation des technologies num&eacute;riques par les apprenants pour assurer leur bien-&ecirc;tre.</p>
+<ul>
+<li>Je d&eacute;veloppe des strat&eacute;gies pour pr&eacute;venir, identifier et r&eacute;pondre aux comportements num&eacute;riques qui affectent n&eacute;gativement la sant&eacute; et le bien-&ecirc;tre des apprenants (e.g., la cyberintimidation).</li>
+<li>J'encourage les apprenants &agrave; adopter une attitude positive &agrave; l'&eacute;gard des technologies num&eacute;riques, en &eacute;tant conscients des risques et des limites possibles, mais aussi en &eacute;tant convaincus qu'ils peuvent les g&eacute;rer afin d'en tirer des avantages.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C4,DigCompEdu-fr-D6-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>D&eacute;velopper de <strong>mani&egrave;re strat&eacute;gique</strong> et <strong>critique </strong>l'utilisation <strong>responsable</strong> et <strong>s&ucirc;re </strong>des technologies num&eacute;riques par les apprenants.</p>
+<ul>
+<li>Je permets aux apprenants de comprendre les risques et les menaces dans les environnements num&eacute;riques (e.g., vol d'identit&eacute;, fraude, harc&egrave;lement, hame&ccedil;onnage) et de savoir comment r&eacute;agir de mani&egrave;re appropri&eacute;e.</li>
+<li>Je r&eacute;fl&eacute;chis de mani&egrave;re critique &agrave; la pertinence de mes strat&eacute;gies p&eacute;dagogiques pour favoriser le bien-&ecirc;tre num&eacute;rique des apprenants et j'adapte mes strat&eacute;gies en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C4,DigCompEdu-fr-D6-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>D&eacute;velopper des <strong>approches innovantes</strong> pour favoriser la capacit&eacute; des apprenants &agrave; utiliser les technologies num&eacute;riques pour leur propre bien-&ecirc;tre.</p>
+<ul>
+<li>Je r&eacute;fl&eacute;chis, je discute, je repense et j'innove en mati&egrave;re de strat&eacute;gies p&eacute;dagogiques afin de favoriser la capacit&eacute; des apprenants &agrave; utiliser les technologies num&eacute;riques pour leur propre bien-&ecirc;tre.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C5,DigCompEdu-fr-D6-C5-P1,A1 ⭐ Nouveau venu 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Peu d'utilisation</strong> des strat&eacute;gies favorisant la r&eacute;solution de probl&egrave;mes num&eacute;riques par les apprenants.</p>
+<ul>
+<li>Je ne r&eacute;fl&eacute;chis pas ou tr&egrave;s rarement &agrave; la mani&egrave;re de favoriser la r&eacute;solution de probl&egrave;mes num&eacute;riques par les apprenants.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C5,DigCompEdu-fr-D6-C5-P2,A2 ⭐⭐ Explorateur 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Encourager </strong>les apprenants &agrave; utiliser les technologies num&eacute;riques pour r&eacute;soudre des probl&egrave;mes.</p>
+<ul>
+<li>J'encourage les apprenants &agrave; r&eacute;soudre les probl&egrave;mes techniques en proc&eacute;dant par essais et erreurs.</li>
+<li>J'encourage les apprenants &agrave; transf&eacute;rer leurs comp&eacute;tences num&eacute;riques &agrave; de nouvelles situations.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C5,DigCompEdu-fr-D6-C5-P3,B1 ⭐⭐⭐ Intégrateur 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Mise en &oelig;uvre d'activit&eacute;s <strong>favorisant </strong>la r&eacute;solution de probl&egrave;mes num&eacute;riques par les apprenants.</p>
+<ul>
+<li>Je mets en &oelig;uvre des activit&eacute;s d'apprentissage dans lesquelles les apprenants utilisent les technologies num&eacute;riques de mani&egrave;re cr&eacute;ative, en &eacute;largissant leur r&eacute;pertoire technique.</li>
+<li>J'encourage les apprenants &agrave; s'entraider pour d&eacute;velopper leurs comp&eacute;tences num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C5,DigCompEdu-fr-D6-C5-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser <strong>strat&eacute;giquement </strong>un <strong>&eacute;ventail </strong>de strat&eacute;gies p&eacute;dagogiques pour favoriser la r&eacute;solution de probl&egrave;mes num&eacute;riques par les apprenants.</p>
+<ul>
+<li>J'utilise un &eacute;ventail de strat&eacute;gies p&eacute;dagogiques diff&eacute;rentes pour permettre aux apprenants d'appliquer leurs comp&eacute;tences num&eacute;riques &agrave; de nouvelles situations ou dans de nouveaux contextes.</li>
+<li>J'encourage les apprenants &agrave; r&eacute;fl&eacute;chir aux limites de leur comp&eacute;tence num&eacute;rique et les aide &agrave; identifier des strat&eacute;gies appropri&eacute;es pour la d&eacute;velopper davantage.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C5,DigCompEdu-fr-D6-C5-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Encourager de <strong>mani&egrave;re globale</strong> et <strong>critique </strong>la r&eacute;solution de probl&egrave;mes num&eacute;riques par les apprenants.</p>
+<ul>
+<li>Je permets aux apprenants de rechercher diff&eacute;rentes solutions technologiques &agrave; un probl&egrave;me, d'en &eacute;tudier les avantages et les inconv&eacute;nients et de proposer une nouvelle solution ou un nouveau produit de mani&egrave;re critique et cr&eacute;ative.</li>
+<li>Je r&eacute;fl&eacute;chis de mani&egrave;re critique &agrave; la pertinence de mes strat&eacute;gies p&eacute;dagogiques pour favoriser la comp&eacute;tence num&eacute;rique des apprenants et &eacute;largir leur r&eacute;pertoire de strat&eacute;gies num&eacute;riques, et j'adapte mes m&eacute;thodes en cons&eacute;quence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,"
+"
+DigCompEdu-fr-D6-C5,DigCompEdu-fr-D6-C5-P6,C2 ⭐⭐⭐⭐⭐⭐ Pionnier 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p>Utiliser des <strong>formats innovants</strong> pour favoriser la r&eacute;solution de probl&egrave;mes num&eacute;riques par les apprenants.</p>
+<ul>
+<li>Je permets aux apprenants d'appliquer leurs comp&eacute;tences num&eacute;riques de mani&egrave;re non conventionnelle &agrave; de nouvelles situations et de trouver de mani&egrave;re cr&eacute;ative de nouvelles solutions ou de nouveaux produits.</li>
+<li>Je r&eacute;fl&eacute;chis, je discute, je repense et j'innove en mati&egrave;re de strat&eacute;gies p&eacute;dagogiques pour favoriser les comp&eacute;tences des apprenants en mati&egrave;re de r&eacute;solution de probl&egrave;mes num&eacute;riques.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,

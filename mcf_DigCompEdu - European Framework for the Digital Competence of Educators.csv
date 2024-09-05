@@ -6,7 +6,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 <p>&nbsp;</p>
 <div class=""card-footer text-muted small"">DigCompEdu. Punie, Y. (ed). EUR 28775 EN. Publications Office of the European Union, Luxembourg, 2017,&nbsp;ISBN 978-92-79-73494-6, <a href=""https://dx.doi.org/10.2760/159770"" target=""_blank"" rel=""noopener"">doi:10.2760/159770</a>, <a href=""https://publications.jrc.ec.europa.eu/repository/handle/JRC107466"" target=""_blank"" rel=""noopener"">JRC107466</a></div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"domain,competency,proficiency,indicator"
-,DigCompEdu-D1,PROFESSIONAL ENGAGEMENT,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+,DigCompEdu-D1,PROFESSIONAL ENGAGEMENT,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -18,7 +18,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 </div>",,,,,,,,,,"
 "
-,DigCompEdu-D2,DIGITAL RESOURCES,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+,DigCompEdu-D2,DIGITAL RESOURCES,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -28,7 +28,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 </div>",,,,,,,,,,"
 "
-,DigCompEdu-D3,TEACHING AND LEARNING,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+,DigCompEdu-D3,TEACHING AND LEARNING,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -38,7 +38,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 </div>",,,,,,,,,,"
 "
-,DigCompEdu-D4,ASSESSMENT,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+,DigCompEdu-D4,ASSESSMENT,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -48,7 +48,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 </div>",,,,,,,,,,"
 "
-,DigCompEdu-D5,EMPOWERING LEARNERS,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+,DigCompEdu-D5,EMPOWERING LEARNERS,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -58,7 +58,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 </div>",,,,,,,,,,"
 "
-,DigCompEdu-D6,FACILITATING LEARNERS’ DIGITAL COMPETENCE,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+,DigCompEdu-D6,FACILITATING LEARNERS’ DIGITAL COMPETENCE,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -68,7 +68,7 @@ Parent ID number,ID number,Short name,Description,Description format,Scale value
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1,DigCompEdu-D1-C1,Organisational communication,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1,DigCompEdu-D1-C1,Organisational communication,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -95,7 +95,7 @@ DigCompEdu-D1,DigCompEdu-D1-C1,Organisational communication,"<div class=""contai
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1,DigCompEdu-D1-C2,Professional collaboration,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1,DigCompEdu-D1-C2,Professional collaboration,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -118,7 +118,7 @@ DigCompEdu-D1,DigCompEdu-D1-C2,Professional collaboration,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1,DigCompEdu-D1-C3,Reflective practice,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1,DigCompEdu-D1-C3,Reflective practice,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -144,7 +144,7 @@ DigCompEdu-D1,DigCompEdu-D1-C3,Reflective practice,"<div class=""container"" sty
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1,DigCompEdu-D1-C4,Digital Continuous Professional Development (CPD),"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1,DigCompEdu-D1-C4,Digital Continuous Professional Development (CPD),"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -169,7 +169,7 @@ DigCompEdu-D1,DigCompEdu-D1-C4,Digital Continuous Professional Development (CPD)
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2,DigCompEdu-D2-C1,Selecting digital resources,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2,DigCompEdu-D2-C1,Selecting digital resources,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -193,7 +193,7 @@ DigCompEdu-D2,DigCompEdu-D2-C1,Selecting digital resources,"<div class=""contain
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2,DigCompEdu-D2-C2,Creating and modifying digital resources,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2,DigCompEdu-D2-C2,Creating and modifying digital resources,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -219,7 +219,7 @@ DigCompEdu-D2,DigCompEdu-D2-C2,Creating and modifying digital resources,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2,DigCompEdu-D2-C3,"Managing, protecting and sharing digital resources","<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2,DigCompEdu-D2-C3,"Managing, protecting and sharing digital resources","<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -248,7 +248,7 @@ DigCompEdu-D2,DigCompEdu-D2-C3,"Managing, protecting and sharing digital resourc
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3,DigCompEdu-D3-C1,Teaching,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3,DigCompEdu-D3-C1,Teaching,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -275,7 +275,7 @@ DigCompEdu-D3,DigCompEdu-D3-C1,Teaching,"<div class=""container"" style=""border
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3,DigCompEdu-D3-C2,Guidance,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3,DigCompEdu-D3-C2,Guidance,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -301,7 +301,7 @@ DigCompEdu-D3,DigCompEdu-D3-C2,Guidance,"<div class=""container"" style=""border
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3,DigCompEdu-D3-C3,Collaborative learning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3,DigCompEdu-D3-C3,Collaborative learning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -327,7 +327,7 @@ DigCompEdu-D3,DigCompEdu-D3-C3,Collaborative learning,"<div class=""container"" 
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3,DigCompEdu-D3-C4,Self-regulated learning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3,DigCompEdu-D3-C4,Self-regulated learning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -349,7 +349,7 @@ DigCompEdu-D3,DigCompEdu-D3-C4,Self-regulated learning,"<div class=""container""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4,DigCompEdu-D4-C1,Assessment strategies,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4,DigCompEdu-D4-C1,Assessment strategies,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -374,7 +374,7 @@ DigCompEdu-D4,DigCompEdu-D4-C1,Assessment strategies,"<div class=""container"" s
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4,DigCompEdu-D4-C2,Analysing evidence,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4,DigCompEdu-D4-C2,Analysing evidence,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -398,7 +398,7 @@ DigCompEdu-D4,DigCompEdu-D4-C2,Analysing evidence,"<div class=""container"" styl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4,DigCompEdu-D4-C3,Feedback and planning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4,DigCompEdu-D4-C3,Feedback and planning,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -426,7 +426,7 @@ DigCompEdu-D4,DigCompEdu-D4-C3,Feedback and planning,"<div class=""container"" s
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5,DigCompEdu-D5-C1,Accessibility and inclusion,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5,DigCompEdu-D5-C1,Accessibility and inclusion,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -451,7 +451,7 @@ DigCompEdu-D5,DigCompEdu-D5-C1,Accessibility and inclusion,"<div class=""contain
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5,DigCompEdu-D5-C2,Differentiation and personalisation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5,DigCompEdu-D5-C2,Differentiation and personalisation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -472,7 +472,7 @@ DigCompEdu-D5,DigCompEdu-D5-C2,Differentiation and personalisation,"<div class="
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5,DigCompEdu-D5-C3,Actively engaging learners,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5,DigCompEdu-D5-C3,Actively engaging learners,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -498,7 +498,7 @@ DigCompEdu-D5,DigCompEdu-D5-C3,Actively engaging learners,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6,DigCompEdu-D6-C1,Information and media literacy,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6,DigCompEdu-D6-C1,Information and media literacy,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -523,7 +523,7 @@ DigCompEdu-D6,DigCompEdu-D6-C1,Information and media literacy,"<div class=""cont
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6,DigCompEdu-D6-C2,Digital communication and collaboration,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6,DigCompEdu-D6-C2,Digital communication and collaboration,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -554,7 +554,7 @@ DigCompEdu-D6,DigCompEdu-D6-C2,Digital communication and collaboration,"<div cla
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6,DigCompEdu-D6-C3,Digital content creation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6,DigCompEdu-D6-C3,Digital content creation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -580,7 +580,7 @@ DigCompEdu-D6,DigCompEdu-D6-C3,Digital content creation,"<div class=""container"
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6,DigCompEdu-D6-C4,Responsible use,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6,DigCompEdu-D6-C4,Responsible use,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -612,7 +612,7 @@ DigCompEdu-D6,DigCompEdu-D6-C4,Responsible use,"<div class=""container"" style="
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6,DigCompEdu-D6-C5,Digital problem solving,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6,DigCompEdu-D6-C5,Digital problem solving,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""alert alert-danger"">
@@ -638,7 +638,7 @@ DigCompEdu-D6,DigCompEdu-D6-C5,Digital problem solving,"<div class=""container""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C1,DigCompEdu-D1-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -653,7 +653,7 @@ DigCompEdu-D1-C1,DigCompEdu-D1-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C1,DigCompEdu-D1-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -668,7 +668,7 @@ DigCompEdu-D1-C1,DigCompEdu-D1-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C1,DigCompEdu-D1-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -684,7 +684,7 @@ DigCompEdu-D1-C1,DigCompEdu-D1-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C1,DigCompEdu-D1-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -700,7 +700,7 @@ DigCompEdu-D1-C1,DigCompEdu-D1-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C1,DigCompEdu-D1-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -716,7 +716,7 @@ DigCompEdu-D1-C1,DigCompEdu-D1-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C1,DigCompEdu-D1-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C1,DigCompEdu-D1-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -731,7 +731,7 @@ DigCompEdu-D1-C1,DigCompEdu-D1-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C2,DigCompEdu-D1-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -746,7 +746,7 @@ DigCompEdu-D1-C2,DigCompEdu-D1-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C2,DigCompEdu-D1-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -761,7 +761,7 @@ DigCompEdu-D1-C2,DigCompEdu-D1-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C2,DigCompEdu-D1-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -777,7 +777,7 @@ DigCompEdu-D1-C2,DigCompEdu-D1-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C2,DigCompEdu-D1-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -792,7 +792,7 @@ DigCompEdu-D1-C2,DigCompEdu-D1-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C2,DigCompEdu-D1-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -807,7 +807,7 @@ DigCompEdu-D1-C2,DigCompEdu-D1-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C2,DigCompEdu-D1-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C2,DigCompEdu-D1-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -823,7 +823,7 @@ DigCompEdu-D1-C2,DigCompEdu-D1-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C3,DigCompEdu-D1-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -838,7 +838,7 @@ DigCompEdu-D1-C3,DigCompEdu-D1-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C3,DigCompEdu-D1-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -853,7 +853,7 @@ DigCompEdu-D1-C3,DigCompEdu-D1-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C3,DigCompEdu-D1-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -869,7 +869,7 @@ DigCompEdu-D1-C3,DigCompEdu-D1-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C3,DigCompEdu-D1-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -885,7 +885,7 @@ DigCompEdu-D1-C3,DigCompEdu-D1-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C3,DigCompEdu-D1-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -902,7 +902,7 @@ DigCompEdu-D1-C3,DigCompEdu-D1-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C3,DigCompEdu-D1-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C3,DigCompEdu-D1-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -918,7 +918,7 @@ DigCompEdu-D1-C3,DigCompEdu-D1-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C4,DigCompEdu-D1-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -933,7 +933,7 @@ DigCompEdu-D1-C4,DigCompEdu-D1-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C4,DigCompEdu-D1-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -948,7 +948,7 @@ DigCompEdu-D1-C4,DigCompEdu-D1-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C4,DigCompEdu-D1-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -963,7 +963,7 @@ DigCompEdu-D1-C4,DigCompEdu-D1-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C4,DigCompEdu-D1-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -979,7 +979,7 @@ DigCompEdu-D1-C4,DigCompEdu-D1-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C4,DigCompEdu-D1-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -995,7 +995,7 @@ DigCompEdu-D1-C4,DigCompEdu-D1-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D1-C4,DigCompEdu-D1-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(238,128,50,1)0%,rgba(238,128,50,0)100%);"">
+DigCompEdu-D1-C4,DigCompEdu-D1-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #ee8032;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1010,7 +1010,7 @@ DigCompEdu-D1-C4,DigCompEdu-D1-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C1,DigCompEdu-D2-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1025,7 +1025,7 @@ DigCompEdu-D2-C1,DigCompEdu-D2-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C1,DigCompEdu-D2-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1041,7 +1041,7 @@ DigCompEdu-D2-C1,DigCompEdu-D2-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C1,DigCompEdu-D2-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1059,7 +1059,7 @@ DigCompEdu-D2-C1,DigCompEdu-D2-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C1,DigCompEdu-D2-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1077,7 +1077,7 @@ DigCompEdu-D2-C1,DigCompEdu-D2-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C1,DigCompEdu-D2-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1094,7 +1094,7 @@ DigCompEdu-D2-C1,DigCompEdu-D2-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C1,DigCompEdu-D2-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C1,DigCompEdu-D2-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1110,7 +1110,7 @@ DigCompEdu-D2-C1,DigCompEdu-D2-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C2,DigCompEdu-D2-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1125,7 +1125,7 @@ DigCompEdu-D2-C2,DigCompEdu-D2-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C2,DigCompEdu-D2-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1141,7 +1141,7 @@ DigCompEdu-D2-C2,DigCompEdu-D2-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C2,DigCompEdu-D2-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1158,7 +1158,7 @@ DigCompEdu-D2-C2,DigCompEdu-D2-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C2,DigCompEdu-D2-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1175,7 +1175,7 @@ DigCompEdu-D2-C2,DigCompEdu-D2-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C2,DigCompEdu-D2-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1191,7 +1191,7 @@ DigCompEdu-D2-C2,DigCompEdu-D2-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C2,DigCompEdu-D2-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C2,DigCompEdu-D2-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1206,7 +1206,7 @@ DigCompEdu-D2-C2,DigCompEdu-D2-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C3,DigCompEdu-D2-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1221,7 +1221,7 @@ DigCompEdu-D2-C3,DigCompEdu-D2-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C3,DigCompEdu-D2-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1237,7 +1237,7 @@ DigCompEdu-D2-C3,DigCompEdu-D2-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C3,DigCompEdu-D2-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1254,7 +1254,7 @@ DigCompEdu-D2-C3,DigCompEdu-D2-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C3,DigCompEdu-D2-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1271,7 +1271,7 @@ DigCompEdu-D2-C3,DigCompEdu-D2-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C3,DigCompEdu-D2-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1287,7 +1287,7 @@ DigCompEdu-D2-C3,DigCompEdu-D2-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D2-C3,DigCompEdu-D2-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(48,147,45,1)0%,rgba(48,147,45,0)100%);"">
+DigCompEdu-D2-C3,DigCompEdu-D2-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #30932d;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1302,7 +1302,7 @@ DigCompEdu-D2-C3,DigCompEdu-D2-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C1,DigCompEdu-D3-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1317,7 +1317,7 @@ DigCompEdu-D3-C1,DigCompEdu-D3-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C1,DigCompEdu-D3-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1333,7 +1333,7 @@ DigCompEdu-D3-C1,DigCompEdu-D3-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C1,DigCompEdu-D3-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1349,7 +1349,7 @@ DigCompEdu-D3-C1,DigCompEdu-D3-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C1,DigCompEdu-D3-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1366,7 +1366,7 @@ DigCompEdu-D3-C1,DigCompEdu-D3-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C1,DigCompEdu-D3-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1383,7 +1383,7 @@ DigCompEdu-D3-C1,DigCompEdu-D3-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C1,DigCompEdu-D3-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C1,DigCompEdu-D3-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1399,7 +1399,7 @@ DigCompEdu-D3-C1,DigCompEdu-D3-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C2,DigCompEdu-D3-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1414,7 +1414,7 @@ DigCompEdu-D3-C2,DigCompEdu-D3-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C2,DigCompEdu-D3-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1429,7 +1429,7 @@ DigCompEdu-D3-C2,DigCompEdu-D3-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C2,DigCompEdu-D3-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1445,7 +1445,7 @@ DigCompEdu-D3-C2,DigCompEdu-D3-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C2,DigCompEdu-D3-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1461,7 +1461,7 @@ DigCompEdu-D3-C2,DigCompEdu-D3-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C2,DigCompEdu-D3-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1477,7 +1477,7 @@ DigCompEdu-D3-C2,DigCompEdu-D3-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C2,DigCompEdu-D3-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C2,DigCompEdu-D3-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1492,7 +1492,7 @@ DigCompEdu-D3-C2,DigCompEdu-D3-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C3,DigCompEdu-D3-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1507,7 +1507,7 @@ DigCompEdu-D3-C3,DigCompEdu-D3-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C3,DigCompEdu-D3-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1522,7 +1522,7 @@ DigCompEdu-D3-C3,DigCompEdu-D3-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C3,DigCompEdu-D3-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1538,7 +1538,7 @@ DigCompEdu-D3-C3,DigCompEdu-D3-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C3,DigCompEdu-D3-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1555,7 +1555,7 @@ DigCompEdu-D3-C3,DigCompEdu-D3-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C3,DigCompEdu-D3-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1571,7 +1571,7 @@ DigCompEdu-D3-C3,DigCompEdu-D3-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C3,DigCompEdu-D3-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C3,DigCompEdu-D3-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1586,7 +1586,7 @@ DigCompEdu-D3-C3,DigCompEdu-D3-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C4,DigCompEdu-D3-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1601,7 +1601,7 @@ DigCompEdu-D3-C4,DigCompEdu-D3-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C4,DigCompEdu-D3-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1616,7 +1616,7 @@ DigCompEdu-D3-C4,DigCompEdu-D3-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C4,DigCompEdu-D3-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1633,7 +1633,7 @@ DigCompEdu-D3-C4,DigCompEdu-D3-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C4,DigCompEdu-D3-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1649,7 +1649,7 @@ DigCompEdu-D3-C4,DigCompEdu-D3-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C4,DigCompEdu-D3-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1664,7 +1664,7 @@ DigCompEdu-D3-C4,DigCompEdu-D3-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D3-C4,DigCompEdu-D3-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(62,132,193,1)0%,rgba(62,132,193,0)100%);"">
+DigCompEdu-D3-C4,DigCompEdu-D3-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3e84c1;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1679,7 +1679,7 @@ DigCompEdu-D3-C4,DigCompEdu-D3-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C1,DigCompEdu-D4-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1694,7 +1694,7 @@ DigCompEdu-D4-C1,DigCompEdu-D4-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C1,DigCompEdu-D4-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1710,7 +1710,7 @@ DigCompEdu-D4-C1,DigCompEdu-D4-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C1,DigCompEdu-D4-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1726,7 +1726,7 @@ DigCompEdu-D4-C1,DigCompEdu-D4-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C1,DigCompEdu-D4-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1742,7 +1742,7 @@ DigCompEdu-D4-C1,DigCompEdu-D4-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C1,DigCompEdu-D4-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1758,7 +1758,7 @@ DigCompEdu-D4-C1,DigCompEdu-D4-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C1,DigCompEdu-D4-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C1,DigCompEdu-D4-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1773,7 +1773,7 @@ DigCompEdu-D4-C1,DigCompEdu-D4-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C2,DigCompEdu-D4-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1788,7 +1788,7 @@ DigCompEdu-D4-C2,DigCompEdu-D4-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C2,DigCompEdu-D4-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1804,7 +1804,7 @@ DigCompEdu-D4-C2,DigCompEdu-D4-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C2,DigCompEdu-D4-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1820,7 +1820,7 @@ DigCompEdu-D4-C2,DigCompEdu-D4-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C2,DigCompEdu-D4-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1837,7 +1837,7 @@ DigCompEdu-D4-C2,DigCompEdu-D4-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C2,DigCompEdu-D4-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1853,7 +1853,7 @@ DigCompEdu-D4-C2,DigCompEdu-D4-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C2,DigCompEdu-D4-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C2,DigCompEdu-D4-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1869,7 +1869,7 @@ DigCompEdu-D4-C2,DigCompEdu-D4-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C3,DigCompEdu-D4-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1884,7 +1884,7 @@ DigCompEdu-D4-C3,DigCompEdu-D4-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C3,DigCompEdu-D4-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1899,7 +1899,7 @@ DigCompEdu-D4-C3,DigCompEdu-D4-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C3,DigCompEdu-D4-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1915,7 +1915,7 @@ DigCompEdu-D4-C3,DigCompEdu-D4-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C3,DigCompEdu-D4-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1932,7 +1932,7 @@ DigCompEdu-D4-C3,DigCompEdu-D4-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C3,DigCompEdu-D4-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1948,7 +1948,7 @@ DigCompEdu-D4-C3,DigCompEdu-D4-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D4-C3,DigCompEdu-D4-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(0,159,158,1)0%,rgba(0,159,158,0)100%);"">
+DigCompEdu-D4-C3,DigCompEdu-D4-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #009f9e;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1963,7 +1963,7 @@ DigCompEdu-D4-C3,DigCompEdu-D4-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C1,DigCompEdu-D5-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1978,7 +1978,7 @@ DigCompEdu-D5-C1,DigCompEdu-D5-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C1,DigCompEdu-D5-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -1994,7 +1994,7 @@ DigCompEdu-D5-C1,DigCompEdu-D5-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C1,DigCompEdu-D5-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2011,7 +2011,7 @@ DigCompEdu-D5-C1,DigCompEdu-D5-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C1,DigCompEdu-D5-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2028,7 +2028,7 @@ DigCompEdu-D5-C1,DigCompEdu-D5-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C1,DigCompEdu-D5-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2045,7 +2045,7 @@ DigCompEdu-D5-C1,DigCompEdu-D5-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C1,DigCompEdu-D5-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C1,DigCompEdu-D5-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2060,7 +2060,7 @@ DigCompEdu-D5-C1,DigCompEdu-D5-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C2,DigCompEdu-D5-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2075,7 +2075,7 @@ DigCompEdu-D5-C2,DigCompEdu-D5-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C2,DigCompEdu-D5-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2090,7 +2090,7 @@ DigCompEdu-D5-C2,DigCompEdu-D5-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C2,DigCompEdu-D5-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2105,7 +2105,7 @@ DigCompEdu-D5-C2,DigCompEdu-D5-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C2,DigCompEdu-D5-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2121,7 +2121,7 @@ DigCompEdu-D5-C2,DigCompEdu-D5-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C2,DigCompEdu-D5-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2137,7 +2137,7 @@ DigCompEdu-D5-C2,DigCompEdu-D5-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C2,DigCompEdu-D5-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C2,DigCompEdu-D5-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2152,7 +2152,7 @@ DigCompEdu-D5-C2,DigCompEdu-D5-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C3,DigCompEdu-D5-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2167,7 +2167,7 @@ DigCompEdu-D5-C3,DigCompEdu-D5-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C3,DigCompEdu-D5-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2183,7 +2183,7 @@ DigCompEdu-D5-C3,DigCompEdu-D5-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C3,DigCompEdu-D5-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2199,7 +2199,7 @@ DigCompEdu-D5-C3,DigCompEdu-D5-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C3,DigCompEdu-D5-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2215,7 +2215,7 @@ DigCompEdu-D5-C3,DigCompEdu-D5-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C3,DigCompEdu-D5-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2231,7 +2231,7 @@ DigCompEdu-D5-C3,DigCompEdu-D5-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D5-C3,DigCompEdu-D5-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(95, 56, 129,1)0%,rgba(95, 56, 129,0)100%);"">
+DigCompEdu-D5-C3,DigCompEdu-D5-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #5f3881;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2246,7 +2246,7 @@ DigCompEdu-D5-C3,DigCompEdu-D5-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C1,DigCompEdu-D6-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2261,7 +2261,7 @@ DigCompEdu-D6-C1,DigCompEdu-D6-C1-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C1,DigCompEdu-D6-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2276,7 +2276,7 @@ DigCompEdu-D6-C1,DigCompEdu-D6-C1-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C1,DigCompEdu-D6-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2292,7 +2292,7 @@ DigCompEdu-D6-C1,DigCompEdu-D6-C1-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C1,DigCompEdu-D6-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2308,7 +2308,7 @@ DigCompEdu-D6-C1,DigCompEdu-D6-C1-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C1,DigCompEdu-D6-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2323,7 +2323,7 @@ DigCompEdu-D6-C1,DigCompEdu-D6-C1-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C1,DigCompEdu-D6-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C1,DigCompEdu-D6-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2338,7 +2338,7 @@ DigCompEdu-D6-C1,DigCompEdu-D6-C1-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C2,DigCompEdu-D6-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2353,7 +2353,7 @@ DigCompEdu-D6-C2,DigCompEdu-D6-C2-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C2,DigCompEdu-D6-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2368,7 +2368,7 @@ DigCompEdu-D6-C2,DigCompEdu-D6-C2-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C2,DigCompEdu-D6-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2384,7 +2384,7 @@ DigCompEdu-D6-C2,DigCompEdu-D6-C2-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C2,DigCompEdu-D6-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2400,7 +2400,7 @@ DigCompEdu-D6-C2,DigCompEdu-D6-C2-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C2,DigCompEdu-D6-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2416,7 +2416,7 @@ DigCompEdu-D6-C2,DigCompEdu-D6-C2-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C2,DigCompEdu-D6-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C2,DigCompEdu-D6-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2431,7 +2431,7 @@ DigCompEdu-D6-C2,DigCompEdu-D6-C2-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C3,DigCompEdu-D6-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2446,7 +2446,7 @@ DigCompEdu-D6-C3,DigCompEdu-D6-C3-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C3,DigCompEdu-D6-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2461,7 +2461,7 @@ DigCompEdu-D6-C3,DigCompEdu-D6-C3-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C3,DigCompEdu-D6-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2477,7 +2477,7 @@ DigCompEdu-D6-C3,DigCompEdu-D6-C3-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C3,DigCompEdu-D6-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2493,7 +2493,7 @@ DigCompEdu-D6-C3,DigCompEdu-D6-C3-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C3,DigCompEdu-D6-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2509,7 +2509,7 @@ DigCompEdu-D6-C3,DigCompEdu-D6-C3-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C3,DigCompEdu-D6-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C3,DigCompEdu-D6-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2525,7 +2525,7 @@ DigCompEdu-D6-C3,DigCompEdu-D6-C3-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C4,DigCompEdu-D6-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2540,7 +2540,7 @@ DigCompEdu-D6-C4,DigCompEdu-D6-C4-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C4,DigCompEdu-D6-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2556,7 +2556,7 @@ DigCompEdu-D6-C4,DigCompEdu-D6-C4-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C4,DigCompEdu-D6-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2573,7 +2573,7 @@ DigCompEdu-D6-C4,DigCompEdu-D6-C4-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C4,DigCompEdu-D6-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2589,7 +2589,7 @@ DigCompEdu-D6-C4,DigCompEdu-D6-C4-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C4,DigCompEdu-D6-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2605,7 +2605,7 @@ DigCompEdu-D6-C4,DigCompEdu-D6-C4-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C4,DigCompEdu-D6-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C4,DigCompEdu-D6-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2620,7 +2620,7 @@ DigCompEdu-D6-C4,DigCompEdu-D6-C4-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div cl
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C5,DigCompEdu-D6-C5-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P1,A1 ⭐ Newcomer 🧠,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2635,7 +2635,7 @@ DigCompEdu-D6-C5,DigCompEdu-D6-C5-P1,A1 ⭐ Newcomer 🧠,"<div class=""containe
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C5,DigCompEdu-D6-C5-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2651,7 +2651,7 @@ DigCompEdu-D6-C5,DigCompEdu-D6-C5-P2,A2 ⭐⭐ Explorer 🔍,"<div class=""conta
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C5,DigCompEdu-D6-C5-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2667,7 +2667,7 @@ DigCompEdu-D6-C5,DigCompEdu-D6-C5-P3,B1 ⭐⭐⭐ Integrator 🌱,"<div class=""
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C5,DigCompEdu-D6-C5-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2683,7 +2683,7 @@ DigCompEdu-D6-C5,DigCompEdu-D6-C5-P4,B2 ⭐⭐⭐⭐ Expert 🏅,"<div class=""c
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C5,DigCompEdu-D6-C5-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
@@ -2699,7 +2699,7 @@ DigCompEdu-D6-C5,DigCompEdu-D6-C5-P5,C1 ⭐⭐⭐⭐⭐ Leader 💡,"<div class=
 </div>
 </div>",,,,,,,,,,"
 "
-DigCompEdu-D6-C5,DigCompEdu-D6-C5-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: linear-gradient(180deg,rgba(207, 53, 88,1)0%,rgba(207, 53, 88,0)100%);"">
+DigCompEdu-D6-C5,DigCompEdu-D6-C5-P6,C2 ⭐⭐⭐⭐⭐⭐ Pioneer 🚀,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf3558;"">
 <div class=""row"">
 <div class=""col-md-12"">
 <div class=""card mb-3"">
